@@ -1,0 +1,2178 @@
+reaction_id,reaction_equation,dead_end_test,duplicate_test_exact,duplicate_test_directions,duplicate_test_coefficients,duplicate_test_redox
+12DGR120tipp,12dgr120[p] --> 12dgr120[c],ok,ok,ok,ok,N/A
+12DGR140tipp,12dgr140[p] --> 12dgr140[c],ok,ok,ok,ok,N/A
+12DGR141tipp,12dgr141[p] --> 12dgr141[c],ok,ok,ok,ok,N/A
+12DGR161tipp,12dgr161[p] --> 12dgr161[c],ok,ok,ok,ok,N/A
+12DGR180tipp,12dgr180[p] --> 12dgr180[c],ok,ok,ok,ok,N/A
+12DGR181tipp,12dgr181[p] --> 12dgr181[c],ok,ok,ok,ok,N/A
+14GLUCANabcpp,14glucan[p] + atp[c] + h2o[c] --> 14glucan[c] + adp[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+14GLUCANtexi,14glucan[e] --> 14glucan[p],ok,ok,ok,ok,N/A
+2AGPE120tipp,2agpe120[p] --> 2agpe120[c],ok,ok,ok,ok,N/A
+2AGPE140tipp,2agpe140[p] --> 2agpe140[c],ok,ok,ok,ok,N/A
+2AGPE141tipp,2agpe141[p] --> 2agpe141[c],ok,ok,ok,ok,N/A
+2AGPE160tipp,2agpe160[p] --> 2agpe160[c],2agpe160[p];2agpe160[c],ok,ok,ok,N/A
+2AGPE161tipp,2agpe161[p] --> 2agpe161[c],ok,ok,ok,ok,N/A
+2AGPE180tipp,2agpe180[p] --> 2agpe180[c],2agpe180[p];2agpe180[c],ok,ok,ok,N/A
+2AGPE181tipp,2agpe181[p] --> 2agpe181[c],ok,ok,ok,ok,N/A
+2AGPEAT120,2agpe120[c] + atp[c] + ddca[c] --> amp[c] + pe120[c] + ppi[c],ok,ok,ok,ok,N/A
+2AGPEAT140,2agpe140[c] + atp[c] + ttdca[c] --> amp[c] + pe140[c] + ppi[c],ok,ok,ok,ok,N/A
+2AGPEAT141,2agpe141[c] + atp[c] + ttdcea[c] --> amp[c] + pe141[c] + ppi[c],ok,ok,ok,ok,N/A
+2AGPEAT161,2agpe161[c] + atp[c] + hdcea[c] --> amp[c] + pe161[c] + ppi[c],ok,ok,ok,ok,N/A
+2AGPEAT181,2agpe181[c] + atp[c] + ocdcea[c] --> amp[c] + pe181[c] + ppi[c],ok,ok,ok,ok,N/A
+2AGPG120tipp,2agpg120[p] --> 2agpg120[c],ok,ok,ok,ok,N/A
+2AGPG140tipp,2agpg140[p] --> 2agpg140[c],ok,ok,ok,ok,N/A
+2AGPG141tipp,2agpg141[p] --> 2agpg141[c],ok,ok,ok,ok,N/A
+2AGPG160tipp,2agpg160[p] --> 2agpg160[c],ok,ok,ok,ok,N/A
+2AGPG161tipp,2agpg161[p] --> 2agpg161[c],ok,ok,ok,ok,N/A
+2AGPG180tipp,2agpg180[p] --> 2agpg180[c],ok,ok,ok,ok,N/A
+2AGPG181tipp,2agpg181[p] --> 2agpg181[c],ok,ok,ok,ok,N/A
+2AGPGAT120,2agpg120[c] + atp[c] + ddca[c] --> amp[c] + pg120[c] + ppi[c],ok,ok,ok,ok,N/A
+2AGPGAT140,2agpg140[c] + atp[c] + ttdca[c] --> amp[c] + pg140[c] + ppi[c],ok,ok,ok,ok,N/A
+2AGPGAT141,2agpg141[c] + atp[c] + ttdcea[c] --> amp[c] + pg141[c] + ppi[c],ok,ok,ok,ok,N/A
+2AGPGAT160,2agpg160[c] + atp[c] + hdca[c] --> amp[c] + pg160[c] + ppi[c],ok,ok,ok,ok,N/A
+2AGPGAT161,2agpg161[c] + atp[c] + hdcea[c] --> amp[c] + pg161[c] + ppi[c],ok,ok,ok,ok,N/A
+2AGPGAT180,2agpg180[c] + atp[c] + ocdca[c] --> amp[c] + pg180[c] + ppi[c],ok,ok,ok,ok,N/A
+2AGPGAT181,2agpg181[c] + atp[c] + ocdcea[c] --> amp[c] + pg181[c] + ppi[c],ok,ok,ok,ok,N/A
+2DHGLCK,2dhglcn[c] + atp[c] + 2.0 h[c] --> 6p2dhglcn[c] + adp[c],ok,ok,ok,ok,N/A
+2DHGLCNkt_tpp,2dhglcn[p] + h[p] --> 2dhglcn[c] + h[c],ok,ok,ok,ok,N/A
+2HH24DDH1,2hh24dd[c] + h2o[c] --> 24dhhed[c],ok,ok,ok,ok,N/A
+2HXMPt6,2hxmp[e] + h[e] <=> 2hxmp[c] + h[c],only when going forwards,ok,ok,ok,N/A
+2MAHMP,2mahmp[c] + h2o[c] --> 4ampm[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+2PGLYCt6,2pglyc[e] + h[e] <=> 2pglyc[c] + h[c],only when going backwards,ok,ok,ok,N/A
+34HPPOR,34hpp[c] + o2[c] --> co2[c] + hgentis[c],ok,ok,ok,ok,N/A
+3AMACHYD,3amac[c] + h2o[c] + h[c] --> msa[c] + nh4[c],ok,ok,ok,ok,N/A
+3HAD100,3hdecACP[c] --> h2o[c] + tdec2eACP[c],ok,ok,ok,ok,N/A
+3HAD120,3hddecACP[c] --> h2o[c] + tddec2eACP[c],ok,ok,ok,ok,N/A
+3HAD121,3hcddec5eACP[c] --> h2o[c] + t3c5ddeceACP[c],ok,ok,ok,ok,N/A
+3HAD141,3hcmrs7eACP[c] --> h2o[c] + t3c7mrseACP[c],ok,ok,ok,ok,N/A
+3HAD160,3hpalmACP[c] --> h2o[c] + tpalm2eACP[c],ok,ok,ok,ok,N/A
+3HAD161,3hcpalm9eACP[c] --> h2o[c] + t3c9palmeACP[c],ok,ok,ok,ok,N/A
+3HAD180,3hoctaACP[c] --> h2o[c] + toctd2eACP[c],ok,ok,ok,ok,N/A
+3HAD181,3hcvac11eACP[c] --> h2o[c] + t3c11vaceACP[c],ok,ok,ok,ok,N/A
+3HAD40,3haACP[c] --> but2eACP[c] + h2o[c],ok,ok,ok,ok,N/A
+3HAD60,3hhexACP[c] --> h2o[c] + thex2eACP[c],ok,ok,ok,ok,N/A
+3HAD80,3hoctACP[c] --> h2o[c] + toct2eACP[c],ok,ok,ok,ok,N/A
+3HBCOAHL,3hibutcoa[c] + h2o[c] --> 3hmp[c] + coa[c] + h[c],ok,ok,ok,ok,N/A
+3HCINNMH,3hcinnm[c] + h[c] + nadh[c] + o2[c] --> dhcinnm[c] + h2o[c] + nad[c],ok,ok,ok,ok,N/A
+3HOXPACt2pp,3hoxpac[p] + h[p] --> 3hoxpac[c] + h[c],ok,ok,ok,ok,N/A
+3hoxpactex,3hoxpac[e] <=> 3hoxpac[p],only when going backwards,ok,ok,ok,N/A
+3HPAOX,3hoxpac[c] + h[c] + nadh[c] + o2[c] --> 34dhpha[c] + h2o[c] + nad[c],ok,ok,ok,ok,N/A
+3HPPPNH,3hpppn[c] + h[c] + nadh[c] + o2[c] --> dhpppn[c] + h2o[c] + nad[c],ok,ok,ok,ok,N/A
+3MBt2pp,3mb[p] + h[p] --> 3mb[c] + h[c],ok,ok,ok,ok,N/A
+3MBt4pp,3mb[p] + na1[p] --> 3mb[c] + na1[c],ok,ok,ok,ok,N/A
+3MBtex,3mb[e] <=> 3mb[p],only when going backwards,ok,ok,ok,N/A
+3OADPCOAT,3oxoadp[c] + succoa[c] --> oxadpcoa[c] + succ[c],ok,ok,ok,ok,N/A
+3OAR100,3odecACP[c] + h[c] + nadph[c] <=> 3hdecACP[c] + nadp[c],only when going backwards,ok,ok,ok,N/A
+3OAR120,3oddecACP[c] + h[c] + nadph[c] <=> 3hddecACP[c] + nadp[c],only when going backwards,ok,ok,ok,N/A
+3OAR121,3ocddec5eACP[c] + h[c] + nadph[c] --> 3hcddec5eACP[c] + nadp[c],ok,ok,ok,ok,N/A
+3OAR140,3omrsACP[c] + h[c] + nadph[c] <=> 3hmrsACP[c] + nadp[c],only when going backwards,ok,ok,ok,N/A
+3OAR141,3ocmrs7eACP[c] + h[c] + nadph[c] --> 3hcmrs7eACP[c] + nadp[c],ok,ok,ok,ok,N/A
+3OAR160,3opalmACP[c] + h[c] + nadph[c] <=> 3hpalmACP[c] + nadp[c],only when going backwards,ok,ok,ok,N/A
+3OAR161,3ocpalm9eACP[c] + h[c] + nadph[c] --> 3hcpalm9eACP[c] + nadp[c],ok,ok,ok,ok,N/A
+3OAR180,3ooctdACP[c] + h[c] + nadph[c] <=> 3hoctaACP[c] + nadp[c],only when going backwards,ok,ok,ok,N/A
+3OAR181,3ocvac11eACP[c] + h[c] + nadph[c] --> 3hcvac11eACP[c] + nadp[c],ok,ok,ok,ok,N/A
+3OAR40,actACP[c] + h[c] + nadph[c] <=> 3haACP[c] + nadp[c],only when going backwards,ok,ok,ok,N/A
+3OAR60,3ohexACP[c] + h[c] + nadph[c] <=> 3hhexACP[c] + nadp[c],only when going backwards,ok,ok,ok,N/A
+3OAR80,3ooctACP[c] + h[c] + nadph[c] <=> 3hoctACP[c] + nadp[c],only when going backwards,ok,ok,ok,N/A
+3OAS100,h[c] + malACP[c] + ocACP[c] --> 3odecACP[c] + ACP[c] + co2[c],ok,ok,ok,ok,N/A
+3OAS120,dcaACP[c] + h[c] + malACP[c] --> 3oddecACP[c] + ACP[c] + co2[c],ok,ok,ok,ok,N/A
+3OAS121,cdec3eACP[c] + h[c] + malACP[c] --> 3ocddec5eACP[c] + ACP[c] + co2[c],ok,ok,ok,ok,N/A
+3OAS140,ddcaACP[c] + h[c] + malACP[c] --> 3omrsACP[c] + ACP[c] + co2[c],ok,ok,ok,ok,N/A
+3OAS141,cddec5eACP[c] + h[c] + malACP[c] --> 3ocmrs7eACP[c] + ACP[c] + co2[c],ok,ok,ok,ok,N/A
+3OAS160,h[c] + malACP[c] + myrsACP[c] --> 3opalmACP[c] + ACP[c] + co2[c],ok,ok,ok,ok,N/A
+3OAS161,h[c] + malACP[c] + tdeACP[c] --> 3ocpalm9eACP[c] + ACP[c] + co2[c],ok,ok,ok,ok,N/A
+3OAS180,h[c] + malACP[c] + palmACP[c] --> 3ooctdACP[c] + ACP[c] + co2[c],ok,ok,ok,ok,N/A
+3OAS181,h[c] + hdeACP[c] + malACP[c] --> 3ocvac11eACP[c] + ACP[c] + co2[c],ok,ok,ok,ok,N/A
+3OAS60,butACP[c] + h[c] + malACP[c] --> 3ohexACP[c] + ACP[c] + co2[c],ok,ok,ok,ok,N/A
+3OAS80,h[c] + hexACP[c] + malACP[c] --> 3ooctACP[c] + ACP[c] + co2[c],ok,ok,ok,ok,N/A
+3OXCOAT,coa[c] + oxadpcoa[c] --> accoa[c] + succoa[c],ok,ok,ok,ok,N/A
+3PEPTabcpp,LalaDgluMdap[p] + atp[c] + h2o[c] --> LalaDgluMdap[c] + adp[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+3PEPTtex,LalaDgluMdap[e] <=> LalaDgluMdap[p],ok,ok,ok,ok,N/A
+4ABUTD,4abutn[c] + h2o[c] + nadp[c] --> 4abut[c] + 2.0 h[c] + nadph[c],ok,ok,ok,ok,N/A
+4HBALDt2pp,4hbald[p] + h[p] --> 4hbald[c] + h[c],ok,ok,ok,ok,N/A
+4HBALDtex,4hbald[e] <=> 4hbald[p],only when going backwards,ok,ok,ok,N/A
+4HBAtex,4hba[e] <=> 4hba[p],4hba[e];4hba[p],ok,ok,ok,N/A
+4HBZR,4hbzcoa[c] + fdxr_42[c] + 6.0 h[c] --> benzcoa[c] + fdxo_42[c] + h2o[c],ok,ok,ok,ok,N/A
+4HBZtex,4hbz[e] <=> 4hbz[p],ok,ok,ok,ok,N/A
+4HOXPACt2pp,4hphac[p] + h[p] --> 4hphac[c] + h[c],ok,ok,ok,ok,N/A
+4HTHRK,4hthr[c] + atp[c] --> adp[c] + h[c] + phthr[c],ok,ok,ok,ok,N/A
+4HTHRS,h2o[c] + phthr[c] --> 4hthr[c] + pi[c],ok,ok,ok,ok,N/A
+4MBZALDH,4mbzalc[c] + nad[c] --> 4mbzald[c] + h[c] + nadh[c],ok,ok,ok,ok,N/A
+4MBZDH,4mbzald[c] + h2o[c] + nad[c] --> 2.0 h[c] + nadh[c] + p_tol[c],ok,ok,ok,ok,N/A
+4MCAT23DOX,4mcat[c] + o2[c] --> h[c] + hmccms[c],ok,ok,ok,ok,N/A
+4PCP,LalaDgluMdapDala[c] + h2o[c] --> LalaDgluMdap[c] + ala__D[c],ok,ok,ok,ok,N/A
+4PEPTabcpp,LalaDgluMdapDala[p] + atp[c] + h2o[c] --> LalaDgluMdapDala[c] + adp[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+5DGLCNR,5dglcn[c] + h[c] + nadph[c] <=> glcn[c] + nadp[c],5dglcn[c],ok,ok,ok,N/A
+5DGLCNt2rpp,5dglcn[p] + h[p] <=> 5dglcn[c] + h[c],5dglcn[p];5dglcn[c],ok,ok,ok,N/A
+5DOAN,dad_5[c] + h2o[c] --> 5drib[c] + ade[c],ok,ok,ok,ok,N/A
+A5PISO,ru5p__D[c] <=> ara5p[c],only when going backwards,ok,ok,ok,N/A
+AACPS1,ACP[c] + atp[c] + ttdca[c] --> amp[c] + myrsACP[c] + ppi[c],ok,ok,ok,ok,N/A
+AACPS2,ACP[c] + atp[c] + ttdcea[c] --> amp[c] + ppi[c] + tdeACP[c],ok,ok,ok,ok,N/A
+AACPS3,ACP[c] + atp[c] + hdca[c] --> amp[c] + palmACP[c] + ppi[c],ok,ok,ok,ok,N/A
+AACPS4,ACP[c] + atp[c] + hdcea[c] --> amp[c] + hdeACP[c] + ppi[c],ok,ok,ok,ok,N/A
+AACPS5,ACP[c] + atp[c] + ocdcea[c] --> amp[c] + octeACP[c] + ppi[c],ok,ok,ok,ok,N/A
+AACPS6,ACP[c] + atp[c] + ocdca[c] --> amp[c] + ocdcaACP[c] + ppi[c],ok,ok,ok,ok,N/A
+AACPS7,ACP[c] + atp[c] + ddca[c] --> amp[c] + ddcaACP[c] + ppi[c],ok,ok,ok,ok,N/A
+AACPS8,ACP[c] + atp[c] + dca[c] --> amp[c] + dcaACP[c] + ppi[c],ok,ok,ok,ok,N/A
+AACPS9,ACP[c] + atp[c] + octa[c] --> amp[c] + ocACP[c] + ppi[c],ok,ok,ok,ok,N/A
+AAMYL,14glucan[c] --> malthx[c],ok,ok,ok,ok,N/A
+AAMYL_1,starch[e] --> dextrin[e],ok,ok,ok,ok,N/A
+AB6PGH,arbt6p[c] + h2o[c] --> g6p[c] + hqn[c],ok,ok,ok,ok,N/A
+ABTA,4abut[c] + akg[c] --> glu__L[c] + sucsal[c],ok,ok,ok,ok,N/A
+ABUTD,4abutn[c] + h2o[c] + nad[c] --> 4abut[c] + 2.0 h[c] + nadh[c],ok,ok,ok,ok,N/A
+ABUTt2pp,4abut[p] + h[p] --> 4abut[c] + h[c],ok,ok,ok,ok,N/A
+ABUTt2r,4abut[e] + h[e] <=> 4abut[c] + h[c],ok,ok,ok,ok,N/A
+ACACCT,acac[c] + accoa[c] --> aacoa[c] + ac[c],ok,ok,ok,ok,N/A
+ACACT1r,2.0 accoa[c] <=> aacoa[c] + coa[c],ok,ok,KAT1,KAT1,N/A
+ACACT2r,accoa[c] + btcoa[c] <=> 3ohcoa[c] + coa[c],ok,ok,KAT2,KAT2,N/A
+ACACT3r,accoa[c] + hxcoa[c] <=> 3oocoa[c] + coa[c],ok,ok,KAT3,KAT3,N/A
+ACACT4r,accoa[c] + occoa[c] <=> 3odcoa[c] + coa[c],ok,ok,KAT4,KAT4,N/A
+ACACT5r,accoa[c] + dcacoa[c] <=> 3oddcoa[c] + coa[c],ok,ok,KAT5,KAT5,N/A
+ACACT6r,accoa[c] + ddcacoa[c] <=> 3otdcoa[c] + coa[c],ok,ok,KAT6,KAT6,N/A
+ACACT7r,accoa[c] + tdcoa[c] <=> 3ohdcoa[c] + coa[c],ok,ok,KAT7,KAT7,N/A
+ACACT8r,3ohodcoa[c] + coa[c] <=> accoa[c] + pmtcoa[c],ok,ok,ok,ok,N/A
+ACALD,acald[c] + coa[c] + nad[c] <=> accoa[c] + h[c] + nadh[c],ok,ok,ok,ok,N/A
+ACCOAC,accoa[c] + atp[c] + hco3[c] --> adp[c] + h[c] + malcoa[c] + pi[c],ok,ok,ok,ok,N/A
+ACCOAL,atp[c] + coa[c] + ppa[c] --> adp[c] + pi[c] + ppcoa[c],ok,ok,ok,ok,N/A
+ACGAMK,acgam[c] + atp[c] --> acgam6p[c] + adp[c] + h[c],ok,ok,ok,ok,N/A
+ACGAMPM,acgam6p[c] <=> acgam1p[c],ok,ok,ok,ok,N/A
+ACGApts,acgam[e] + pep[c] --> acgam6p[c] + pyr[c],ok,ok,ok,ok,N/A
+ACGAptspp,acgam[p] + pep[c] --> acgam6p[c] + pyr[c],ok,ok,ok,ok,N/A
+ACGAtex,acgam[e] <=> acgam[p],only when going backwards,ok,ok,ok,N/A
+ACGK,acglu[c] + atp[c] --> acg5p[c] + adp[c],ok,ok,ok,ok,N/A
+ACGS,accoa[c] + glu__L[c] --> acglu[c] + coa[c] + h[c],ok,ok,ok,ok,N/A
+ACHBS,2obut[c] + h[c] + pyr[c] --> 2ahbut[c] + co2[c],ok,ok,ok,ok,N/A
+ACKr,ac[c] + atp[c] <=> actp[c] + adp[c],ok,ok,ok,ok,N/A
+ACLS,h[c] + 2.0 pyr[c] --> alac__S[c] + co2[c],ok,ok,ok,ok,N/A
+ACM6PH,acmum6p[c] + h2o[c] --> acgam6p[c] + lac__D[c],ok,ok,ok,ok,N/A
+ACNAMt2,acnam[e] + h[e] --> acnam[c] + h[c],ok,ok,ok,ok,N/A
+ACNML,acnam[c] --> acmana[c] + pyr[c],ok,ok,ok,ok,N/A
+ACNPLYS,acmana[c] + h2o[c] + pep[c] --> acnam[c] + pi[c],ok,ok,ok,ok,N/A
+ACOAD1f,btcoa[c] + fad[c] <=> b2coa[c] + fadh2[c],ok,ok,ok,ok,N/A
+ACOAD20,2.0 2mbcoa[c] + o2[c] --> 2.0 2mb2coa[c] + 2.0 h2o[c],ok,ok,ok,ok,N/A
+ACOAD2f,fad[c] + hxcoa[c] <=> fadh2[c] + hx2coa[c],ok,ok,ok,ok,N/A
+ACOAD3f,fad[c] + occoa[c] <=> fadh2[c] + oc2coa[c],ok,ok,ok,ok,N/A
+ACOAD4f,dcacoa[c] + fad[c] <=> dc2coa[c] + fadh2[c],ok,ok,ok,ok,N/A
+ACOAD5f,ddcacoa[c] + fad[c] --> dd2coa[c] + fadh2[c],ok,ok,ok,ok,N/A
+ACOAD6f,fad[c] + tdcoa[c] <=> fadh2[c] + td2coa[c],ok,ok,ok,ok,N/A
+ACOAD7f,fad[c] + pmtcoa[c] <=> fadh2[c] + hdd2coa[c],ok,ok,ok,ok,N/A
+ACOAD8f,fad[c] + stcoa[c] <=> fadh2[c] + od2coa[c],ok,ok,ok,ok,N/A
+ACOADH2,2.0 ibcoa[c] + o2[c] --> 2.0 2mp2coa[c] + 2.0 h2o[c],ok,ok,ok,ok,N/A
+ACOATA,ACP[c] + accoa[c] <=> acACP[c] + coa[c],ok,ok,ok,ok,N/A
+ACODA,acorn[c] + h2o[c] --> ac[c] + orn[c],ok,ok,ok,ok,N/A
+ACONT,cit[c] <=> icit[c],ok,ok,ok,ok,N/A
+ACOTA,acorn[c] + akg[c] <=> acg5sa[c] + glu__L[c],ok,ok,ok,ok,N/A
+ACPPAT120,ddcaACP[c] + h[c] + pi[c] --> ACP[c] + ddcap[c],ok,ok,ok,ok,N/A
+ACPPAT140,h[c] + myrsACP[c] + pi[c] --> ACP[c] + ttdcap[c],ok,ok,ok,ok,N/A
+ACPPAT141,h[c] + pi[c] + tdeACP[c] --> ACP[c] + ttdceap[c],ok,ok,ok,ok,N/A
+ACPPAT160,h[c] + palmACP[c] + pi[c] --> ACP[c] + hdcap[c],ok,ok,ok,ok,N/A
+ACPPAT161,h[c] + hdeACP[c] + pi[c] --> ACP[c] + hdceap[c],ok,ok,ok,ok,N/A
+ACPPAT180,h[c] + ocdcaACP[c] + pi[c] --> ACP[c] + ocdcap[c],ok,ok,ok,ok,N/A
+ACPPAT181,h[c] + octeACP[c] + pi[c] --> ACP[c] + ocdceap[c],ok,ok,ok,ok,N/A
+ACPS,coa[c] + h2o[c] --> 2.0 h[c] + pan4p[c] + pap[c],ok,ok,ok,ok,N/A
+ACS,ac[c] + atp[c] + coa[c] --> accoa[c] + amp[c] + ppi[c],ok,ok,ok,ok,N/A
+ACS2,atp[c] + coa[c] + ppa[c] --> amp[c] + ppcoa[c] + ppi[c],ok,ok,ok,ok,N/A
+ACSERtex,acser[e] <=> acser[p],only when going forwards,ok,ok,ok,N/A
+ACSERtpp,acser[c] --> acser[p],ok,ok,ok,ok,N/A
+ACt2rpp,ac[p] + h[p] <=> ac[c] + h[c],ok,ok,ok,ok,N/A
+ACTD,actn__R[c] + nad[c] --> diact[c] + h[c] + nadh[c],ok,ok,ok,ok,N/A
+ACTD2,actn__R[c] + coa[c] + nad[c] --> acald[c] + accoa[c] + h[c] + nadh[c],ok,ok,ok,ok,N/A
+ACTDa,actn__R[c] + nadp[c] --> diact[c] + h[c] + nadph[c],ok,ok,ok,ok,N/A
+ACtex,ac[e] <=> ac[p],ok,ok,ok,ok,N/A
+ACTNabc,actn__R[e] + atp[c] + h2o[c] --> actn__R[c] + adp[c] + h[c] + pi[c],ok,ok,ok,ACTNabc1,N/A
+ACTNabc1,actn__R[c] + atp[c] + h2o[c] --> actn__R[e] + adp[c] + h[c] + pi[c],ok,ok,ok,ACTNabc,N/A
+ACYSBMNt,acysbmn[c] <=> acysbmn[e],only when going backwards,ok,ok,ok,N/A
+ADA,adn[c] + h2o[c] + h[c] --> ins[c] + nh4[c],ok,ok,ok,ok,N/A
+ADCL,4adcho[c] --> 4abz[c] + h[c] + pyr[c],ok,ok,ok,ok,N/A
+ADCS,chor[c] + gln__L[c] --> 4adcho[c] + glu__L[c],ok,ok,ok,ok,N/A
+ADEt2rpp,ade[p] + h[p] <=> ade[c] + h[c],ade[p],ok,ok,ok,N/A
+ADHEr,accoa[c] + 2.0 h[c] + 2.0 nadh[c] --> coa[c] + etoh[c] + 2.0 nad[c],ok,ok,ok,ok,N/A
+ADK1,amp[c] + atp[c] --> 2.0 adp[c],ok,ok,ok,ok,N/A
+ADK2,amp[c] + pppi[c] --> adp[c] + ppi[c],ok,ok,ok,ok,N/A
+ADK3,amp[c] + gtp[c] --> adp[c] + gdp[c],ok,ok,ok,ok,N/A
+ADK4,amp[c] + itp[c] --> adp[c] + idp[c],ok,ok,ok,ok,N/A
+ADKd,damp[c] + datp[c] --> 2.0 dadp[c],ok,ok,ok,ok,N/A
+ADMDC,amet[c] + h[c] --> ametam[c] + co2[c],ok,ok,ok,ok,N/A
+ADNCYC,atp[c] --> camp[c] + ppi[c],ok,ok,ok,ok,N/A
+ADNK1,adn[c] + atp[c] --> adp[c] + amp[c] + h[c],ok,ok,ok,ok,N/A
+ADNK3,adn[c] + gtp[c] --> amp[c] + gdp[c] + h[c],ok,ok,ok,ok,N/A
+ADNK4,adn[c] + dgtp[c] --> amp[c] + dgdp[c] + h[c],ok,ok,ok,ok,N/A
+ADNt2pp,adn[p] + h[p] <=> adn[c] + h[c],only when going backwards,ok,ok,ok,N/A
+ADPT,ade[c] + prpp[c] --> amp[c] + ppi[c],ok,ok,ok,ok,N/A
+ADSK,aps[c] + atp[c] --> adp[c] + h[c] + paps[c],ok,ok,ok,ok,N/A
+ADSL1r,dcamp[c] <=> amp[c] + fum[c],only when going backwards,ok,ok,ok,N/A
+ADSL2r,25aics[c] <=> aicar[c] + fum[c],only when going backwards,ok,ok,ok,N/A
+ADSS,asp__L[c] + gtp[c] + imp[c] --> dcamp[c] + gdp[c] + 2.0 h[c] + pi[c],ok,ok,ok,ok,N/A
+AGDC,acgam6p[c] + h2o[c] --> ac[c] + gam6p[c],ok,ok,ok,ok,N/A
+AGM3PA,anhgm3p[c] + h2o[c] --> LalaDgluMdap[c] + anhgm[c],ok,ok,ok,ok,N/A
+AGM3PApp,anhgm3p[p] + h2o[p] --> LalaDgluMdap[p] + anhgm[p],ok,ok,ok,ok,N/A
+AGM4PA,anhgm4p[c] + h2o[c] --> LalaDgluMdapDala[c] + anhgm[c],ok,ok,ok,ok,N/A
+AGM4PApp,anhgm4p[p] + h2o[p] --> LalaDgluMdapDala[p] + anhgm[p],ok,ok,ok,ok,N/A
+AGM4PCP,anhgm4p[c] + h2o[c] --> ala__D[c] + anhgm3p[c],ok,ok,ok,ok,N/A
+AGM4PH,anhgm4p[c] + h2o[c] --> acgam[c] + anhm4p[c],ok,ok,ok,ok,N/A
+AGM4Pt2pp,anhgm4p[p] + h[p] --> anhgm4p[c] + h[c],ok,ok,ok,ok,N/A
+AGMDA,agm[c] + h2o[c] --> Ncbmpts[c] + h[c] + nh4[c],ok,ok,ok,ok,N/A
+AGMH,anhgm[c] + h2o[c] --> acgam[c] + anhm[c],ok,ok,ok,ok,N/A
+AGMHE,adphep_DD[c] --> adphep_LD[c],ok,ok,ok,ok,N/A
+AGMPTRCtpp,agm[p] + ptrc[c] <=> agm[c] + ptrc[p],ok,ok,ok,ok,N/A
+AGMT,agm[c] + h2o[c] --> ptrc[c] + urea[c],ok,ok,ok,ok,N/A
+AGMtex,agm[e] <=> agm[p],ok,ok,ok,ok,N/A
+AGPAT120,1ddecg3p[c] + ddcaACP[c] --> ACP[c] + pa120[c],ok,ok,ok,ok,N/A
+AGPAT140,1tdecg3p[c] + myrsACP[c] --> ACP[c] + pa140[c],ok,ok,ok,ok,N/A
+AGPAT141,1tdec7eg3p[c] + tdeACP[c] --> ACP[c] + pa141[c],ok,ok,ok,ok,N/A
+AGPAT160,1hdecg3p[c] + palmACP[c] --> ACP[c] + pa160[c],ok,ok,ok,ok,N/A
+AGPAT161,1hdec9eg3p[c] + hdeACP[c] --> ACP[c] + pa161[c],ok,ok,ok,ok,N/A
+AGPAT180,1odecg3p[c] + ocdcaACP[c] --> ACP[c] + pa180[c],ok,ok,ok,ok,N/A
+AGPAT181,1odec11eg3p[c] + octeACP[c] --> ACP[c] + pa181[c],ok,ok,ok,ok,N/A
+AGPATBS,0.01 1ag3p_BS[c] + 0.07 fa11coa[c] + 0.17 fa12coa[c] + 0.01 fa1coa[c] + 0.2 fa3coa[c] + 0.34 fa4coa[c] + 0.05 fa6coa[c] + 0.1 pmtcoa[c] + 0.03 strcoa[c] + 0.03 tdcoa[c] <=> 0.01 12dag3p_BS[c] + coa[c],only when going backwards,ok,ok,ok,N/A
+AGPR,acg5sa[c] + nadp[c] + pi[c] <=> acg5p[c] + h[c] + nadph[c],only when going forwards,ok,ok,ok,N/A
+AHCi,ahcys[c] + h2o[c] <=> adn[c] + hcys__L[c],only when going backwards,ok,ok,ok,N/A
+AHMMPS,air[c] + 2.0 h[c] --> 4ahmmp[c] + gcald[c] + pi[c],ok,ok,ok,ok,N/A
+AHSERL2,achms[c] + h2s[c] --> ac[c] + h[c] + hcys__L[c],ok,ok,ok,ok,N/A
+AICART,10fthf[c] + aicar[c] <=> fprica[c] + thf[c],only when going backwards,ok,ok,ok,N/A
+AIRCr,air[c] + co2[c] <=> 5aizc[c] + h[c],only when going backwards,ok,ok,ok,N/A
+AKGDa,akg[c] + h[c] + lpam[c] <=> co2[c] + sdhlam[c],only when going backwards,ok,ok,ok,N/A
+AKGDb,coa[c] + sdhlam[c] --> dhlam[c] + succoa[c],ok,ok,ok,ok,N/A
+AKGt2rpp,akg[p] + h[p] <=> akg[c] + h[c],akg[p],ok,ok,ok,N/A
+ALAabc,ala__L[e] + atp[c] + h2o[c] --> adp[c] + ala__L[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+ALAabcpp,ala__L[p] + atp[c] + h2o[c] --> adp[c] + ala__L[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+ALAALAabcpp,alaala[p] + atp[c] + h2o[c] --> adp[c] + alaala[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+ALAALAD,alaala[c] + h2o[c] --> 2.0 ala__D[c],ok,ok,ok,ok,N/A
+ALAALAr,2.0 ala__D[c] + atp[c] <=> adp[c] + alaala[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+ALAD_L,ala__L[c] + h2o[c] + nad[c] --> h[c] + nadh[c] + nh4[c] + pyr[c],ok,ok,ok,ok,N/A
+ALAGLUE,LalaDglu[c] <=> LalaLglu[c],only when going backwards,ok,ok,ok,N/A
+ALAR,ala__L[c] <=> ala__D[c],ok,ok,ok,ok,N/A
+ALATA_L,akg[c] + ala__L[c] <=> glu__L[c] + pyr[c],ok,ok,ok,ok,N/A
+ALATA_L2,ala__L[c] + pydx5p[c] --> pyam5p[c] + pyr[c],ok,ok,ok,ok,N/A
+ALAtex,ala__L[e] <=> ala__L[p],only when going backwards,ok,ok,ok,N/A
+ALCD19,glyald[c] + h[c] + nadh[c] <=> glyc[c] + nad[c],ok,ok,ok,ok,N/A
+ALCD2x,etoh[c] + nad[c] <=> acald[c] + h[c] + nadh[c],ok,ok,ok,ok,N/A
+ALDD1,fald[c] + h2o[c] + nad[c] --> for[c] + 2.0 h[c] + nadh[c],ok,ok,ok,ok,N/A
+ALDD19xr,h2o[c] + nad[c] + pacald[c] <=> 2.0 h[c] + nadh[c] + pac[c],pacald[c],ok,ok,ok,N/A
+ALDD2x,acald[c] + h2o[c] + nad[c] --> ac[c] + 2.0 h[c] + nadh[c],ok,ok,ok,ok,N/A
+ALDD2y,acald[c] + h2o[c] + nadp[c] --> ac[c] + 2.0 h[c] + nadph[c],ok,ok,ok,ok,N/A
+ALDD3,h2o[c] + nad[c] + ppal[c] --> 2.0 h[c] + nadh[c] + ppa[c],ok,ok,ok,ok,N/A
+ALDD31,aacald[c] + h2o[c] + nad[c] --> gly[c] + 2.0 h[c] + nadh[c],ok,ok,ok,ok,N/A
+ALDD31_1,amacald[c] + h2o[c] + nad[c] --> gly[c] + h[c] + nadh[c],ok,ok,ok,ok,N/A
+ALDD3y,h2o[c] + nadp[c] + ppal[c] --> 2.0 h[c] + nadph[c] + ppa[c],ok,ok,ok,ok,N/A
+ALDD4,btal[c] + h2o[c] + nad[c] --> but[c] + 2.0 h[c] + nadh[c],ok,ok,ok,ok,N/A
+ALDD6,h2o[c] + hxal[c] + nad[c] --> 2.0 h[c] + hxa[c] + nadh[c],ok,ok,ok,ok,N/A
+ALLTAMH,alltt[c] + 2.0 h2o[c] + 2.0 h[c] --> co2[c] + 2.0 nh4[c] + urdglyc[c],ok,ok,ok,ok,N/A
+ALLTN,alltn[c] + h2o[c] --> alltt[c] + h[c],ok,ok,ok,ok,N/A
+ALR2,h[c] + mthgxl[c] + nadph[c] --> acetol[c] + nadp[c],ok,ok,ok,ok,N/A
+ALR4x,acetol[c] + h[c] + nadh[c] --> 12ppd__R[c] + nad[c],ok,ok,ok,ok,N/A
+AM3PA,anhm3p[c] + h2o[c] --> LalaDgluMdap[c] + anhm[c],ok,ok,ok,ok,N/A
+AM4PA,anhm4p[c] + h2o[c] --> LalaDgluMdapDala[c] + anhm[c],ok,ok,ok,ok,N/A
+AM4PCP,anhm4p[c] + h2o[c] --> ala__D[c] + anhm3p[c],ok,ok,ok,ok,N/A
+AMALT1,malt[c] + malttr[c] --> glc__D[c] + maltttr[c],ok,ok,ok,ok,N/A
+AMALT2,malt[c] + maltttr[c] --> glc__D[c] + maltpt[c],ok,ok,ok,ok,N/A
+AMALT3,malt[c] + maltpt[c] --> glc__D[c] + malthx[c],ok,ok,ok,ok,N/A
+AMALT4,malt[c] + malthx[c] --> glc__D[c] + malthp[c],ok,ok,ok,ok,N/A
+AMANAPEr,acmanap[c] <=> acgam6p[c],only when going backwards,ok,ok,ok,N/A
+AMANK,acmana[c] + atp[c] --> acmanap[c] + adp[c] + h[c],ok,ok,ok,ok,N/A
+AMMQLT8,2dmmql8[c] + amet[c] --> ahcys[c] + h[c] + mql8[c],ok,ok,ok,ok,N/A
+AMMQT8,2dmmq8[c] + amet[c] + h[c] --> ahcys[c] + mql8[c],ok,ok,ok,ok,N/A
+AMMQT8_2,2dmmq8[c] + amet[c] --> ahcys[c] + h[c] + mqn8[c],ok,ok,ok,ok,N/A
+AMPMS,air[c] + h2o[c] --> 4ampm[c] + 2.0 for[c] + 4.0 h[c],ok,ok,ok,ok,N/A
+AMPMS2,air[c] + h2o[c] + nad[c] --> 4ampm[c] + 2.0 for[c] + 3.0 h[c] + nadh[c],ok,ok,ok,ok,N/A
+AMPTASECG,cgly[c] + h2o[c] --> cys__L[c] + gly[c],ok,ok,ok,ok,N/A
+AMPTASEPG,h2o[c] + progly[c] --> gly[c] + pro__L[c],ok,ok,ok,ok,N/A
+AMPtex,amp[e] <=> amp[p],only when going backwards,ok,ok,ok,N/A
+ANHGMtex,anhgm[e] <=> anhgm[p],only when going forwards,ok,ok,ok,N/A
+ANHMK,anhm[c] + atp[c] + h2o[c] --> acmum6p[c] + adp[c] + h[c],ok,ok,ok,ok,N/A
+ANPRT,anth[c] + prpp[c] --> ppi[c] + pran[c],ok,ok,ok,ok,N/A
+ANS,chor[c] + gln__L[c] --> anth[c] + glu__L[c] + h[c] + pyr[c],ok,ok,ok,ok,N/A
+APENTAMAH,5apentam[c] + h2o[c] --> 5aptn[c] + nh3[c],ok,ok,ok,ok,N/A
+APH120,ddcap[c] + h2o[c] --> ddca[c] + 2.0 h[c] + pi[c],ok,ok,ok,ok,N/A
+APH140,h2o[c] + ttdcap[c] --> 2.0 h[c] + pi[c] + ttdca[c],ok,ok,ok,ok,N/A
+APH141,h2o[c] + ttdceap[c] --> 2.0 h[c] + pi[c] + ttdcea[c],ok,ok,ok,ok,N/A
+APH160,h2o[c] + hdcap[c] --> 2.0 h[c] + hdca[c] + pi[c],ok,ok,ok,ok,N/A
+APH161,h2o[c] + hdceap[c] --> 2.0 h[c] + hdcea[c] + pi[c],ok,ok,ok,ok,N/A
+APH180,h2o[c] + ocdcap[c] --> 2.0 h[c] + ocdca[c] + pi[c],ok,ok,ok,ok,N/A
+APH181,h2o[c] + ocdceap[c] --> 2.0 h[c] + ocdcea[c] + pi[c],ok,ok,ok,ok,N/A
+APRAUR,5apru[c] + h[c] + nadph[c] --> 5aprbu[c] + nadp[c],ok,ok,ok,ok,N/A
+APSR,aps[c] + trdrd[c] --> amp[c] + 2.0 h[c] + so3[c] + trdox[c],ok,ok,ok,ok,N/A
+APTNAT,5aptn[c] + akg[c] <=> glu__L[c] + oxptn[c],only when going backwards,ok,ok,ok,N/A
+ARABRr,arab__L[c] + h[c] + nadph[c] <=> abt__L[c] + nadp[c],abt__L[c],ok,ok,ok,N/A
+ARACHTA,ACP[c] + arachcoa[c] <=> arachACP[c] + coa[c],only when going backwards,ok,ok,ok,N/A
+ARAI,arab__L[c] <=> rbl__L[c],only when going backwards,ok,ok,ok,N/A
+ARBabc,arab__L[e] + atp[c] + h2o[c] --> adp[c] + arab__L[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+ARBabcpp,arab__L[p] + atp[c] + h2o[c] --> adp[c] + arab__L[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+ARBt3ipp,arab__L[c] + h[p] --> arab__L[p] + h[c],ok,ok,ok,ok,N/A
+ARBTpts,arbt[e] + pep[c] --> arbt6p[c] + pyr[c],ok,ok,ok,ok,N/A
+ARGabc,arg__L[e] + atp[c] + h2o[c] --> adp[c] + arg__L[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+ARGabcpp,arg__L[p] + atp[c] + h2o[c] --> adp[c] + arg__L[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+ARGAGMt7pp,agm[c] + arg__L[p] <=> agm[p] + arg__L[c],only when going forwards,ok,ok,ok,N/A
+ARGDr,arg__L[c] + h2o[c] --> citr__L[c] + nh4[c],ok,ok,ok,ok,N/A
+ARGSL,argsuc[c] <=> arg__L[c] + fum[c],only when going backwards,ok,ok,ok,N/A
+ARGSS,asp__L[c] + atp[c] + citr__L[c] --> amp[c] + argsuc[c] + h[c] + ppi[c],ok,ok,ok,ok,N/A
+ARGt2r,arg__L[e] + h[e] --> arg__L[c] + h[c],ok,ok,ok,ok,N/A
+ARUH,arg__L[c] + pyr[c] <=> 5g2oxpt[c] + ala__L[c],only when going backwards,ok,ok,ok,N/A
+ASAD,aspsa[c] + nadp[c] + pi[c] <=> 4pasp[c] + h[c] + nadph[c],only when going forwards,ok,ok,ok,N/A
+ASNN,asn__L[c] + h2o[c] --> asp__L[c] + nh4[c],ok,ok,ok,ok,N/A
+ASNS1,asp__L[c] + atp[c] + gln__L[c] + h2o[c] --> amp[c] + asn__L[c] + glu__L[c] + h[c] + ppi[c],ok,ok,ok,ok,N/A
+ASNt2r,asn__L[e] + h[e] <=> asn__L[c] + h[c],ok,ok,ok,ok,N/A
+ASNt2rpp,asn__L[p] + h[p] <=> asn__L[c] + h[c],asn__L[p],ok,ok,ok,N/A
+ASO3t8pp,aso3[c] + atp[c] + h2o[c] --> adp[c] + aso3[p] + h[c] + pi[c],ok,ok,ok,ok,N/A
+ASO3tex,aso3[e] <=> aso3[p],only when going forwards,ok,ok,ok,N/A
+ASO4rt2rpp,aso4[p] + h[p] <=> aso4[c] + h[c],only when going backwards,ok,ok,ok,N/A
+ASO4tex,aso4[e] <=> aso4[p],only when going backwards,ok,ok,ok,N/A
+ASP1DC,asp__L[c] + h[c] --> ala_B[c] + co2[c],ok,ok,ok,ok,N/A
+ASPabc,asp__L[e] + atp[c] + h2o[c] --> adp[c] + asp__L[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+ASPabcpp,asp__L[p] + atp[c] + h2o[c] --> adp[c] + asp__L[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+ASPCT,asp__L[c] + cbp[c] --> cbasp[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+ASPK,asp__L[c] + atp[c] <=> 4pasp[c] + adp[c],only when going backwards,ok,ok,ok,N/A
+ASPO1,asp__L[c] + h2o[c] + o2[c] --> h2o2[c] + nh4[c] + oaa[c],ok,ok,ok,ok,N/A
+ASPO5,asp__L[c] + fum[c] --> h[c] + iasp[c] + succ[c],ok,ok,ok,ok,N/A
+ASPt2pp,asp__L[p] + h[p] --> asp__L[c] + h[c],ok,ok,ok,ok,N/A
+ASPTA,akg[c] + asp__L[c] <=> glu__L[c] + oaa[c],ok,ok,ok,ok,N/A
+ASPTA6,ala__L[c] + oaa[c] <=> asp__L[c] + pyr[c],ok,ok,ok,ok,N/A
+ASPtex,asp__L[e] <=> asp__L[p],only when going backwards,ok,ok,ok,N/A
+ASR,aso4[c] + 2.0 gthrd[c] --> aso3[c] + gthox[c] + h2o[c],ok,ok,ok,ok,N/A
+ATHRDHr,athr__L[c] + nadp[c] <=> 2aobut[c] + h[c] + nadph[c],only when going forwards,ok,ok,ok,N/A
+ATPHs,atp[c] + h2o[c] + h[c] --> itp[c] + nh4[c],ok,ok,ok,ok,N/A
+ATPPRT,atp[c] + prpp[c] --> ppi[c] + prbatp[c],ok,ok,ok,ok,N/A
+ATPS4rpp,adp[c] + 4.0 h[p] + pi[c] --> atp[c] + h2o[c] + 3.0 h[c],ok,ok,ok,ok,N/A
+BALAt2r,ala_B[e] + h[e] --> ala_B[c] + h[c],ok,ok,ok,ok,N/A
+BCOALIG,atp[c] + bz[c] + coa[c] + 4.0 h[c] --> amp[c] + benzcoa[c] + ppi[c],ok,ok,ok,ok,N/A
+BCOALIG2,4hbz[c] + atp[c] + coa[c] --> 4hbzcoa[c] + amp[c] + ppi[c],ok,ok,ok,ok,N/A
+BCT1_syn,atp[c] + h2o[c] + hco3[p] --> adp[c] + h[c] + hco3[c] + pi[c],ok,ok,ok,ok,N/A
+BETALDHx,betald[c] + h2o[c] + nad[c] --> glyb[c] + 2.0 h[c] + nadh[c],betald[c];glyb[c],ok,ok,ok,N/A
+BETALDHy,betald[c] + h2o[c] + nadp[c] --> glyb[c] + 2.0 h[c] + nadph[c],betald[c];glyb[c],ok,ok,ok,N/A
+BGLA1,6pgg[c] + h2o[c] --> g6p[c] + glc__D[c],ok,ok,ok,ok,N/A
+BMNMSHS,bmn[c] + msh[c] --> bmnmsh[c] + 2.0 h[c],ok,ok,ok,ok,N/A
+BMNt,bmn[c] <=> bmn[e],only when going forwards,ok,ok,ok,N/A
+BMOCOS,moco[c] + mptamp[c] --> amp[c] + bmoco[c] + cu2[c],ok,ok,ok,ok,N/A
+BMOGDS1,bmoco[c] + gtp[c] + h[c] --> bmoco1gdp[c] + ppi[c],ok,ok,ok,ok,N/A
+BMOGDS2,bmoco1gdp[c] + gtp[c] + h[c] --> bmocogdp[c] + ppi[c],ok,ok,ok,ok,N/A
+BPNT,h2o[c] + pap[c] --> amp[c] + pi[c],ok,ok,ok,ok,N/A
+BSCT,coa[c] + 4.0 h[c] + sbzcoa[c] <=> benzcoa[c] + succoa[c],sbzcoa[c],ok,ok,ok,N/A
+BTDD_RR,btd_RR[c] + nad[c] <=> actn__R[c] + h[c] + nadh[c],btd_RR[c],ok,ok,ok,N/A
+BTOHtex,btoh[e] <=> btoh[p],btoh[e];btoh[p],ok,ok,ok,N/A
+BTS3r,dtbt[c] + 2.0 s[c] <=> btn[c] + h2s[c],only when going forwards,ok,ok,ok,N/A
+BTS5,2fe2s[c] + amet[c] + dtbt[c] --> 2fe1s[c] + btn[c] + dad_5[c] + h[c] + met__L[c],ok,ok,ok,ok,N/A
+BUTCT,accoa[c] + but[c] --> ac[c] + btcoa[c],ok,ok,ok,ok,N/A
+BUTSabc,atp[c] + buts[e] + h2o[c] --> adp[c] + buts[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+BUTSO3abcpp,atp[c] + butso3[p] + h2o[c] --> adp[c] + butso3[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+BUTSO3tex,butso3[e] <=> butso3[p],only when going backwards,ok,ok,ok,N/A
+BUTt2rpp,but[p] + h[p] <=> but[c] + h[c],ok,ok,ok,ok,N/A
+BUTt4pp,but[p] + na1[p] --> but[c] + na1[c],ok,ok,ok,ok,N/A
+BUTtex,but[e] <=> but[p],ok,ok,ok,ok,N/A
+BZ12DOX,bz[c] + h[c] + nadh[c] + o2[c] --> bz12diol[c] + nad[c],ok,ok,ok,ok,N/A
+BZALt2pp,bzal[p] + h[p] --> bzal[c] + h[c],ok,ok,ok,ok,N/A
+BZALtex,bzal[p] <=> bzal[e],only when going forwards,ok,ok,ok,N/A
+BZDH,bzal[c] + h2o[c] + nad[c] --> bz[c] + 2.0 h[c] + nadh[c],ok,ok,ok,ok,N/A
+BZDIOLDH,bz12diol[c] + nad[c] --> catechol[c] + co2[c] + nadh[c],ok,ok,ok,ok,N/A
+BZt1pp,bz[p] + h[p] --> bz[c] + h[c],ok,ok,ok,ok,N/A
+BZtex,bz[e] <=> bz[p],only when going backwards,ok,ok,ok,N/A
+C100SN,actACP[c] + 11.0 h[c] + 3.0 malACP[c] + 8.0 nadph[c] --> 3.0 ACP[c] + 3.0 co2[c] + dcaACP[c] + 4.0 h2o[c] + 8.0 nadp[c],ok,ok,ok,ok,N/A
+C120SN,actACP[c] + 14.0 h[c] + 4.0 malACP[c] + 10.0 nadph[c] --> 4.0 ACP[c] + 4.0 co2[c] + ddcaACP[c] + 5.0 h2o[c] + 10.0 nadp[c],ok,ok,ok,ok,N/A
+C140SN,actACP[c] + 17.0 h[c] + 5.0 malACP[c] + 12.0 nadph[c] --> 5.0 ACP[c] + 5.0 co2[c] + 6.0 h2o[c] + myrsACP[c] + 12.0 nadp[c],ok,ok,ok,ok,N/A
+C141SN,actACP[c] + 16.0 h[c] + 5.0 malACP[c] + 11.0 nadph[c] --> 5.0 ACP[c] + 5.0 co2[c] + 6.0 h2o[c] + 11.0 nadp[c] + tdeACP[c],ok,ok,ok,ok,N/A
+C160SN,actACP[c] + 20.0 h[c] + 6.0 malACP[c] + 14.0 nadph[c] --> 6.0 ACP[c] + 6.0 co2[c] + 7.0 h2o[c] + 14.0 nadp[c] + palmACP[c],ok,ok,ok,ok,N/A
+C161SN,actACP[c] + 19.0 h[c] + 6.0 malACP[c] + 13.0 nadph[c] --> 6.0 ACP[c] + 6.0 co2[c] + 7.0 h2o[c] + hdeACP[c] + 13.0 nadp[c],ok,ok,ok,ok,N/A
+C181SN,actACP[c] + 22.0 h[c] + 7.0 malACP[c] + 15.0 nadph[c] --> 7.0 ACP[c] + 7.0 co2[c] + 8.0 h2o[c] + 15.0 nadp[c] + octeACP[c],ok,ok,ok,ok,N/A
+CA2abc,atp[c] + ca2[e] + h2o[c] --> adp[c] + ca2[c] + h[c] + pi[c],ok,ok,ok,CA2abc1,N/A
+CA2abc1,atp[c] + ca2[c] + h2o[c] --> adp[c] + ca2[e] + h[c] + pi[c],ok,ok,ok,CA2abc,N/A
+CA2abcpp,atp[c] + ca2[p] + h2o[c] --> adp[c] + ca2[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+CA2tex,ca2[e] <=> ca2[p],only when going backwards,ok,ok,ok,N/A
+CAT23DOX,catechol[c] + o2[c] --> 2hmcnsad[c],ok,ok,ok,ok,N/A
+CATDOX,catechol[c] + o2[c] --> ccmuac[c] + 2.0 h[c],ok,ok,ok,ok,N/A
+CBIAT,atp[c] + cbi[c] + h[c] <=> adocbi[c] + pppi[c],cbi[c];adocbi[c],ok,ok,ok,N/A
+CBLAT,atp[c] + cbl1[c] + h[c] <=> adocbl[c] + pppi[c],cbl1[c];adocbl[c],ok,ok,ok,N/A
+CBMD,cbm[c] + 2.0 h[c] --> co2[c] + nh4[c],ok,ok,ok,ok,N/A
+CBPAH,Ncbmpts[c] + 2.0 h2o[c] + 2.0 h[c] --> hco3[c] + nh4[c] + ptrc[c],ok,ok,ok,ok,N/A
+CBPS,2.0 atp[c] + gln__L[c] + h2o[c] + hco3[c] --> 2.0 adp[c] + cbp[c] + glu__L[c] + 2.0 h[c] + pi[c],ok,ok,ok,ok,N/A
+CD2t3pp,cd2[c] + h[p] --> cd2[p] + h[c],ok,ok,ok,ok,N/A
+CD2t4,cd2[c] + h[e] + k[e] --> cd2[e] + h[c] + k[c],ok,ok,ok,ok,N/A
+CD2t4pp,cd2[c] + h[p] + k[p] --> cd2[p] + h[c] + k[c],ok,ok,ok,ok,N/A
+CD2tex,cd2[e] <=> cd2[p],only when going backwards,ok,ok,ok,N/A
+CD2tpp,cd2[p] --> cd2[c],ok,ok,ok,ok,N/A
+CDGUNPD,cdigmp[c] + h2o[c] --> 5pg35pg[c] + h[c],ok,ok,ok,ok,N/A
+CDP4D6DGLCRx,cdp4dh6doglc[c] + h[c] + nadh[c] --> cdp4dh36ddglc[c] + h2o[c] + nad[c],ok,ok,ok,ok,N/A
+CDPABEQS,cdp4dh36ddglc[c] + h[c] + nadh[c] --> cdpabeq[c] + nad[c],ok,ok,ok,ok,N/A
+CDPGLC46DH,cdpglc[c] --> cdp4dh6doglc[c] + h2o[c],ok,ok,ok,ok,N/A
+CDPMEK,4c2me[c] + atp[c] --> 2p4c2me[c] + adp[c] + h[c],ok,ok,ok,ok,N/A
+CDPPT160,cdpdhdecg[c] + inost[c] --> cmp[c] + h[c] + ptd1ino160[c],ok,ok,ok,ok,N/A
+CELBpts,cellb[e] + pep[c] --> 6pgg[c] + pyr[c],ok,ok,ok,ok,N/A
+CELLBabc,atp[c] + cellb[e] + h2o[c] --> adp[c] + cellb[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+CEPA,cellb[c] + pi[c] <=> g1p[c] + glc__D[c],only when going backwards,ok,ok,ok,N/A
+CGLYabcpp,atp[c] + cgly[p] + h2o[c] --> adp[c] + cgly[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+CHLabc,atp[c] + chol[e] + h2o[c] --> adp[c] + chol[c] + h[c] + pi[c],chol[e];chol[c],ok,ok,ok,N/A
+CHLabcpp,atp[c] + chol[p] + h2o[c] --> adp[c] + chol[c] + h[c] + pi[c],chol[p];chol[c],ok,ok,ok,N/A
+CHLtex,chol[e] <=> chol[p],chol[e];chol[p],ok,ok,ok,N/A
+CHOLD,chol[c] + nad[c] --> betald[c] + h[c] + nadh[c],chol[c];betald[c],ok,ok,ok,N/A
+CHOLSabc,atp[c] + chols[p] + h2o[c] --> adp[c] + chols[c] + h[c] + pi[c],chols[p];chols[c],ok,ok,ok,N/A
+CHOLSabc_1,atp[c] + chols[e] + h2o[c] --> adp[c] + chols[c] + h[c] + pi[c],chols[e];chols[c],ok,ok,ok,N/A
+CHOLS_ex,chols[e] <=> chols[p],chols[e];chols[p],ok,ok,ok,N/A
+CHOLSH,chols[c] + h2o[c] --> chol[c] + h[c] + so4[c],chols[c];chol[c],ok,ok,ok,N/A
+CHORM,chor[c] --> pphn[c],ok,ok,ok,ok,N/A
+CHORS,3psme[c] --> chor[c] + pi[c],ok,ok,ok,ok,N/A
+CIGAMS,atp[c] + cys__L[c] + igam[c] --> amp[c] + cigam[c] + 2.0 h[c] + ppi[c],ok,ok,ok,ok,N/A
+CITL,cit[c] --> ac[c] + oaa[c],ok,ok,ok,ok,N/A
+CITt14,ca2[e] + cit[e] + h[e] --> ca2[c] + cit[c] + h[c],ok,ok,ok,ok,N/A
+CITtex,cit[e] <=> cit[p],only when going backwards,ok,ok,ok,N/A
+CITt_kt,cit[p] + h[p] --> cit[c] + h[c],ok,ok,ok,ok,N/A
+CLBtex,cellb[e] <=> cellb[p],only when going backwards,ok,ok,ok,N/A
+CLBtpp,cellb[p] --> cellb[c],ok,ok,ok,ok,N/A
+CLt3_2pp,2.0 cl[p] + h[c] --> 2.0 cl[c] + h[p],ok,ok,ok,ok,N/A
+CLtex,cl[e] <=> cl[p],only when going backwards,ok,ok,ok,N/A
+CMCMSAD,5cmhmsa[c] + h2o[c] + nad[c] --> 5cmhm[c] + 2.0 h[c] + nadh[c],ok,ok,ok,ok,N/A
+CMHMI,5cmhm[c] --> 5cohe[c],ok,ok,ok,ok,N/A
+CMPtex,cmp[e] <=> cmp[p],only when going backwards,ok,ok,ok,N/A
+CO2tex,co2[e] <=> co2[p],ok,ok,ok,ok,N/A
+CO2tpp,co2[p] <=> co2[c],ok,ok,ok,ok,N/A
+COabc,atp[c] + cobalt2[e] + h2o[c] --> adp[c] + cobalt2[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+Cobalt2abcppI,atp[c] + cobalt2[p] + h2o[c] --> adp[c] + cobalt2[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+COBALT2t3pp,cobalt2[c] + h[p] --> cobalt2[p] + h[c],ok,ok,ok,ok,N/A
+COBALT2tex,cobalt2[e] <=> cobalt2[p],ok,ok,ok,ok,N/A
+COBALTt4pp,cobalt2[c] + h[p] + k[p] --> cobalt2[p] + h[c] + k[c],ok,ok,ok,ok,N/A
+CPMPS,gtp[c] + h2o[c] --> cpmp[c] + ppi[c],ok,ok,ok,ok,N/A
+CPPPGO,cpppg3[c] + 2.0 h[c] + o2[c] --> 2.0 co2[c] + 2.0 h2o[c] + pppg9[c],ok,ok,ok,ok,N/A
+CPPPGOAN2,2.0 amet[c] + cpppg3[c] + 2.0 fdxo_42[c] + 2.0 nadph[c] --> 2.0 co2[c] + 2.0 dad_5[c] + 2.0 fdxr_42[c] + 2.0 h[c] + 2.0 met__L[c] + 2.0 nadp[c] + pppg9[c],ok,CPPPGOAN2_1,ok,ok,N/A
+CPPPGOAN2_1,2.0 amet[c] + cpppg3[c] + 2.0 fdxo_42[c] + 2.0 nadph[c] --> 2.0 co2[c] + 2.0 dad_5[c] + 2.0 fdxr_42[c] + 2.0 h[c] + 2.0 met__L[c] + 2.0 nadp[c] + pppg9[c],ok,CPPPGOAN2,ok,ok,N/A
+CRNabc,atp[c] + crn[e] + h2o[c] --> adp[c] + crn[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+CRNabcpp,atp[c] + crn[p] + h2o[c] --> adp[c] + crn[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+CRNDabcpp,atp[c] + crn__D[p] + h2o[c] --> adp[c] + crn__D[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+CRNDt2rpp,crn__D[p] + h[p] <=> crn__D[c] + h[c],only when going forwards,ok,ok,ok,N/A
+CRNt2rpp,crn[p] + h[p] <=> crn[c] + h[c],only when going forwards,ok,ok,ok,N/A
+CRNt7,crn[e] + gbbtn[c] --> crn[c] + gbbtn[e],ok,ok,ok,ok,N/A
+CRNtex,crn[e] <=> crn[p],ok,ok,ok,ok,N/A
+CRO4abcpp,atp[c] + cro4[p] + h2o[c] --> adp[c] + cro4[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+CRO4t3,cro4[c] + h[e] --> cro4[e] + h[c],ok,ok,ok,ok,N/A
+CRO4tex,cro4[e] <=> cro4[p],only when going backwards,ok,ok,ok,N/A
+CS,accoa[c] + h2o[c] + oaa[c] --> cit[c] + coa[c] + h[c],ok,ok,ok,ok,N/A
+CSND,csn[c] + h2o[c] + h[c] --> nh4[c] + ura[c],ok,ok,ok,ok,N/A
+CTECOAI6,tdecoa[c] <=> td2coa[c],ok,ok,ok,ok,N/A
+CTECOAI7,hdcoa[c] <=> hdd2coa[c],ok,ok,ok,ok,N/A
+CTECOAI8,odecoa[c] <=> od2coa[c],ok,ok,ok,ok,N/A
+CTPS1,atp[c] + nh4[c] + utp[c] --> adp[c] + ctp[c] + 2.0 h[c] + pi[c],ok,ok,ok,ok,N/A
+CTPS2,atp[c] + gln__L[c] + h2o[c] + utp[c] --> adp[c] + ctp[c] + glu__L[c] + 2.0 h[c] + pi[c],ok,ok,ok,ok,N/A
+CU1Opp,4.0 cu[p] + 4.0 h[p] + o2[p] --> 4.0 cu2[p] + 2.0 h2o[p],ok,ok,ok,ok,N/A
+CU2tex,cu2[e] <=> cu2[p],ok,ok,ok,ok,N/A
+Cuabc,atp[c] + cu2[e] + h2o[c] --> adp[c] + cu2[c] + h[c] + pi[c],ok,ok,ok,Cut1,N/A
+CUabcpp,atp[c] + cu2[p] + h2o[c] --> adp[c] + cu2[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+Cut1,atp[c] + cu2[c] + h2o[c] --> adp[c] + cu2[e] + h[c] + pi[c],ok,ok,ok,Cuabc,N/A
+CUtex,cu[e] <=> cu[p],only when going backwards,ok,ok,ok,N/A
+CYO1a,2.0 ficytc[c] + 2.0 h[c] + qh2[c] --> 2.0 focytc[c] + 2.0 h[e] + q[c],ok,ok,ok,ok,N/A
+CYO1b,2.0 focytc[c] + 0.5 o2[c] --> 2.0 ficytc[c] + h2o[c],ok,ok,ok,ok,N/A
+CYS,h2s[c] + ser__L[c] --> cys__L[c] + h2o[c],ok,ok,ok,ok,N/A
+CYSabc2pp,atp[c] + cys__L[c] + h2o[c] --> adp[c] + cys__L[p] + h[c] + pi[c],ok,ok,ok,CYSabcpp,N/A
+CYSabcpp,atp[c] + cys__L[p] + h2o[c] --> adp[c] + cys__L[c] + h[c] + pi[c],ok,ok,ok,CYSabc2pp,N/A
+CYSDS,cys__L[c] + h2o[c] --> h2s[c] + nh4[c] + pyr[c],ok,ok,ok,ok,N/A
+CYSDSF,cys__L[c] --> ala__L[c] + s[c],ok,ok,ok,ok,N/A
+CYSLY3,cys__L[c] + h[c] + nadph[c] --> ala__L[c] + h2s[c] + nadp[c],ok,ok,ok,ok,N/A
+CYSS,acser[c] + h2s[c] --> ac[c] + cys__L[c] + h[c],ok,ok,ok,ok,N/A
+CYSTGL,cyst__L[c] + h2o[c] --> 2obut[c] + cys__L[c] + nh4[c],ok,ok,ok,ok,N/A
+CYSTGL_1,cysth__L[c] + h2o[c] --> 2obut[c] + cys__L[c] + nh4[c],ok,ok,ok,ok,N/A
+CYSTL,cyst__L[c] + h2o[c] --> hcys__L[c] + nh4[c] + pyr[c],ok,ok,ok,ok,N/A
+CYStpp,cys__L[c] --> cys__L[p],ok,ok,ok,ok,N/A
+CYSTS,hcys__L[c] + ser__L[c] --> cyst__L[c] + h2o[c],ok,ok,ok,ok,N/A
+CYSTS_2,hcys__L[c] + ser__L[c] --> cysth__L[c] + h2o[c],ok,ok,ok,ok,N/A
+CYTB_B2,2.0 h[c] + mql7[c] + 0.5 o2[c] --> h2o[c] + 2.0 h[e] + mqn7[c],ok,ok,ok,ok,N/A
+CYTBD,2.0 h[c] + 0.5 o2[c] + q8h2[c] --> h2o[c] + 2.0 h[e] + q8[c],ok,ok,ok,ok,N/A
+CYTBD2,2.0 h[c] + mql8[c] + 0.5 o2[c] --> h2o[c] + 2.0 h[e] + mqn8[c],ok,ok,ok,ok,N/A
+CYTBD2pp,2.0 h[c] + mql8[c] + 0.5 o2[c] --> h2o[c] + 2.0 h[p] + mqn8[c],ok,ok,ok,ok,N/A
+CYTBDpp_1,0.5 o2[p] + pqh2[p] --> h2o[p] + pq[p],ok,ok,ok,ok,N/A
+CYTD,cytd[c] + h2o[c] + h[c] --> nh4[c] + uri[c],ok,ok,ok,ok,N/A
+CYTDH,cytd[c] + h2o[c] --> csn[c] + rib__D[c],ok,ok,ok,ok,N/A
+CYTDK1,atp[c] + cytd[c] --> adp[c] + cmp[c] + h[c],ok,ok,ok,ok,N/A
+CYTDK2,cytd[c] + gtp[c] --> cmp[c] + gdp[c] + h[c],ok,ok,ok,ok,N/A
+CYTDt2,cytd[e] + h[e] --> cytd[c] + h[c],ok,ok,ok,ok,N/A
+CYTDt2pp,cytd[p] + h[p] <=> cytd[c] + h[c],only when going backwards,ok,ok,ok,N/A
+CYTK1,atp[c] + cmp[c] <=> adp[c] + cdp[c],only when going backwards,ok,ok,ok,N/A
+CYTK2,atp[c] + dcmp[c] <=> adp[c] + dcdp[c],only when going backwards,ok,ok,ok,N/A
+DAAOP,alaala[e] + h2o[e] --> 2.0 ala__D[e],ok,ok,ok,ok,N/A
+DACTt3,diact[c] + h[e] --> diact[e] + h[c],ok,ok,ok,ok,N/A
+DADA,dad_2[c] + h2o[c] + h[c] --> din[c] + nh4[c],ok,ok,ok,ok,N/A
+DADK,atp[c] + damp[c] <=> adp[c] + dadp[c],ok,ok,ok,ok,N/A
+DADNtex,dad_2[e] <=> dad_2[p],only when going forwards,ok,ok,ok,N/A
+DAGK120,12dgr120[c] + atp[c] --> adp[c] + h[c] + pa120[c],ok,ok,ok,ok,N/A
+DAGK140,12dgr140[c] + atp[c] --> adp[c] + h[c] + pa140[c],ok,ok,ok,ok,N/A
+DAGK141,12dgr141[c] + atp[c] --> adp[c] + h[c] + pa141[c],ok,ok,ok,ok,N/A
+DAGK160,12dgr160[c] + atp[c] --> adp[c] + h[c] + pa160[c],ok,ok,ok,ok,N/A
+DAGK161,12dgr161[c] + atp[c] --> adp[c] + h[c] + pa161[c],ok,ok,ok,ok,N/A
+DAGK180,12dgr180[c] + atp[c] --> adp[c] + h[c] + pa180[c],ok,ok,ok,ok,N/A
+DAGK181,12dgr181[c] + atp[c] --> adp[c] + h[c] + pa181[c],ok,ok,ok,ok,N/A
+DALAOX,ala__D[c] + h2o[c] + o2[c] --> h2o2[c] + nh4[c] + pyr[c],ok,ok,ok,ok,N/A
+DALAt2r,ala__D[e] + h[e] <=> ala__D[c] + h[c],ok,ok,ok,ok,N/A
+DALAtex,ala__D[e] <=> ala__D[p],only when going forwards,ok,ok,ok,N/A
+DAMPtex,damp[e] <=> damp[p],only when going backwards,ok,ok,ok,N/A
+DAPDC,26dap__M[c] + h[c] --> co2[c] + lys__L[c],ok,ok,ok,ok,N/A
+DAPE,26dap_LL[c] <=> 26dap__M[c],only when going backwards,ok,ok,ok,N/A
+DARBabcpp,arab__D[p] + atp[c] + h2o[c] --> adp[c] + arab__D[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+DARBt3ipp,arab__D[c] + h[p] --> arab__D[p] + h[c],ok,ok,ok,ok,N/A
+DARBtex,arab__D[e] <=> arab__D[p],ok,ok,ok,ok,N/A
+DASYN120,ctp[c] + h[c] + pa120[c] --> cdpdddecg[c] + ppi[c],ok,ok,ok,ok,N/A
+DASYN140,ctp[c] + h[c] + pa140[c] --> cdpdtdecg[c] + ppi[c],ok,ok,ok,ok,N/A
+DASYN141,ctp[c] + h[c] + pa141[c] --> cdpdtdec7eg[c] + ppi[c],ok,ok,ok,ok,N/A
+DASYN160,ctp[c] + h[c] + pa160[c] --> cdpdhdecg[c] + ppi[c],ok,ok,ok,ok,N/A
+DASYN161,ctp[c] + h[c] + pa161[c] --> cdpdhdec9eg[c] + ppi[c],ok,ok,ok,ok,N/A
+DASYN180,ctp[c] + h[c] + pa180[c] --> cdpdodecg[c] + ppi[c],ok,ok,ok,ok,N/A
+DASYN181,ctp[c] + h[c] + pa181[c] --> cdpdodec11eg[c] + ppi[c],ok,ok,ok,ok,N/A
+DATPHs,datp[c] + h2o[c] + h[c] --> ditp[c] + nh4[c],ok,ok,ok,ok,N/A
+DB4PS,ru5p__D[c] --> db4p[c] + for[c] + h[c],ok,ok,ok,ok,N/A
+DCAtex,dca[e] <=> dca[p],only when going backwards,ok,ok,ok,N/A
+DCMPtex,dcmp[e] <=> dcmp[p],only when going backwards,ok,ok,ok,N/A
+DCPDPS,frdp[c] + 7.0 ipdp[c] --> decdp_tb[c] + 7.0 ppi[c],ok,ok,ok,ok,N/A
+DCTPD,dctp[c] + h2o[c] + h[c] --> dutp[c] + nh4[c],ok,ok,ok,ok,N/A
+DCTPD2,ctp[c] + h2o[c] + h[c] --> nh4[c] + utp[c],ok,ok,ok,ok,N/A
+DCYTtex,dcyt[e] <=> dcyt[p],only when going forwards,ok,ok,ok,N/A
+DDPA,e4p[c] + h2o[c] + pep[c] --> 2dda7p[c] + pi[c],ok,ok,ok,ok,N/A
+DESAT16,h[c] + nadph[c] + o2[c] + pmtcoa[c] --> 2.0 h2o[c] + hdcoa[c] + nadp[c],ok,ok,ok,ok,N/A
+DESAT18,h[c] + nadph[c] + o2[c] + stcoa[c] --> 2.0 h2o[c] + nadp[c] + odecoa[c],ok,ok,ok,ok,N/A
+DGK1,atp[c] + dgmp[c] <=> adp[c] + dgdp[c],only when going backwards,ok,ok,ok,N/A
+DGMPtex,dgmp[e] <=> dgmp[p],only when going backwards,ok,ok,ok,N/A
+DGSNtex,dgsn[e] <=> dgsn[p],only when going forwards,ok,ok,ok,N/A
+DGUNC,2.0 gtp[c] --> cdigmp[c] + 2.0 ppi[c],ok,ok,ok,ok,N/A
+DH4MCHCDH,dh4mchc[c] + nad[c] --> 4mcat[c] + co2[c] + nadh[c],ok,ok,ok,ok,N/A
+DHACOAH,23dhacoa[c] + h2o[c] <=> 3hadpcoa[c],only when going backwards,ok,ok,ok,N/A
+DHAD1,23dhmb[c] --> 3mob[c] + h2o[c],ok,ok,ok,ok,N/A
+DHAD2,23dhmp[c] --> 3mop[c] + h2o[c],ok,ok,ok,ok,N/A
+DHAD3,23dhmp[c] --> 2o3mpt[c] + h2o[c],ok,ok,ok,ok,N/A
+DHAK,atp[c] + dha[c] --> adp[c] + dhap[c] + h[c],ok,ok,ok,ok,N/A
+DHAPT,dha[c] + pep[c] --> dhap[c] + pyr[c],ok,ok,ok,ok,N/A
+DHAt,dha[e] <=> dha[c],only when going backwards,ok,ok,ok,N/A
+DHBS,23dhb[c] + atp[c] + h[c] --> 23dhba[c] + ppi[c],ok,ok,ok,ok,N/A
+DHBSH,23dhbzs[c] + h2o[c] --> 23dhb[c] + ser__L[c],ok,ok,ok,ok,N/A
+DHCINDO,dhcinnm[c] + o2[c] --> h[c] + hkntd[c],ok,ok,ok,ok,N/A
+DHDPRy,23dhdp[c] + h[c] + nadph[c] --> nadp[c] + thdp[c],ok,ok,ok,ok,N/A
+DHDPS,aspsa[c] + pyr[c] --> 23dhdp[c] + 2.0 h2o[c] + h[c],ok,ok,ok,ok,N/A
+DHEDAA,24dhhed[c] --> pyr[c] + sucsal[c],ok,ok,ok,ok,N/A
+DHFR,dhf[c] + h[c] + nadph[c] <=> nadp[c] + thf[c],only when going backwards,ok,ok,ok,N/A
+DHFS,atp[c] + dhpt[c] + glu__L[c] --> adp[c] + dhf[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+DHNAOT4,dhna[c] + h[c] + octdp[c] --> 2dmmql8[c] + co2[c] + ppi[c],ok,ok,ok,ok,N/A
+DHNAS,cdhxfut[c] --> dhna[c] + glyald[c],ok,ok,ok,ok,N/A
+DHNPA_1,dhnpt[c] --> 2ahhmp[c] + gcald[c],ok,ok,ok,ok,N/A
+DHNPA2r,dhnpt[c] <=> 6hmhpt[c] + gcald[c],only when going backwards,ok,ok,ok,N/A
+DHORD2,dhor__S[c] + q8[c] --> orot[c] + q8h2[c],ok,ok,ok,ok,N/A
+DHORD3,dhor__S[c] + mqn6[c] <=> mql6[c] + orot[c],only when going forwards,ok,ok,ok,N/A
+DHORD5,dhor__S[c] + mqn8[c] --> mql8[c] + orot[c],ok,ok,ok,ok,N/A
+DHORTS,dhor__S[c] + h2o[c] <=> cbasp[c] + h[c],only when going forwards,ok,ok,ok,N/A
+DHPACCOAHIT,2dhphaccoa[c] + coa[c] + 2.0 h2o[c] --> 3hadpcoa[c] + accoa[c] + h2[c] + h[c],ok,ok,ok,ok,N/A
+DHPDO,34dhpha[c] + o2[c] --> 5cmhmsa[c] + h[c],ok,ok,ok,ok,N/A
+DHPPDA,25dhpp[c] + h2o[c] + h[c] --> 5apru[c] + nh4[c],ok,ok,ok,ok,N/A
+DHPPDA2,25drapp[c] + h2o[c] + h[c] --> 5apru[c] + nh4[c],ok,ok,ok,ok,N/A
+DHPS2,4abz[c] + 6hmhptpp[c] --> dhpt[c] + ppi[c],ok,ok,ok,ok,N/A
+DHQS,2dda7p[c] --> 3dhq[c] + pi[c],ok,ok,ok,ok,N/A
+DHQTi,3dhq[c] --> 3dhsk[c] + h2o[c],ok,ok,ok,ok,N/A
+DHXFUTC,2.0 amet[c] + dhxfut[c] + 2.0 flxr[c] --> cdhxfut[c] + 2.0 dad_5[c] + 2.0 flxso[c] + 2.0 met__L[c],ok,ok,ok,ok,N/A
+DIPEPabc15,atp[c] + cgly[e] + h2o[c] --> adp[c] + cgly[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+DKMPPD2,dkmpp[c] + 3.0 h2o[c] --> 2kmb[c] + for[c] + 6.0 h[c] + pi[c],ok,ok,ok,ok,N/A
+DMATT,dmpp[c] + ipdp[c] --> grdp[c] + ppi[c],ok,ok,ok,ok,N/A
+DMPPS,h2mb4p[c] + h[c] + nadh[c] --> dmpp[c] + h2o[c] + nad[c],ok,ok,ok,ok,N/A
+DNMPPA,dhpmp[c] + h2o[c] --> dhnpt[c] + pi[c],ok,ok,ok,ok,N/A
+DNTPPA,ahdt[c] + h2o[c] --> dhpmp[c] + h[c] + ppi[c],ok,ok,ok,ok,N/A
+DPCOAK,atp[c] + dpcoa[c] --> adp[c] + coa[c] + h[c],ok,ok,ok,ok,N/A
+DPPS,frdp[c] + 7.0 ipdp[c] --> decdp[c] + 7.0 ppi[c],ok,ok,ok,ok,N/A
+DPR,2dhp[c] + h[c] + nadph[c] --> nadp[c] + pant__R[c],ok,ok,ok,ok,N/A
+DRBK,atp[c] + drib[c] --> 2dr5p[c] + adp[c] + h[c],ok,ok,ok,ok,N/A
+DRIBabc,atp[c] + drib[e] + h2o[c] --> adp[c] + drib[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+DRPA,2dr5p[c] --> acald[c] + g3p[c],ok,ok,ok,ok,N/A
+DSERDHr,nadp[c] + ser__D[c] <=> 2amsa[c] + h[c] + nadph[c],ok,ok,ok,ok,N/A
+DSERt2,h[e] + ser__D[e] <=> h[c] + ser__D[c],ok,ok,ok,ok,N/A
+DTARTD,tartr__D[c] --> h2o[c] + oaa[c],ok,ok,ok,ok,N/A
+DTMPK,atp[c] + dtmp[c] <=> adp[c] + dtdp[c],ok,ok,ok,ok,N/A
+DTMPtex,dtmp[e] <=> dtmp[p],only when going backwards,ok,ok,ok,N/A
+DURIK1,atp[c] + duri[c] --> adp[c] + dump[c] + h[c],ok,ok,ok,ok,N/A
+DUTPDP,dutp[c] + h2o[c] --> dump[c] + h[c] + ppi[c],ok,ok,ok,ok,N/A
+DXPRIi,dxyl5p[c] + h[c] + nadph[c] --> 2me4p[c] + nadp[c],ok,ok,ok,ok,N/A
+DXPS,g3p[c] + h[c] + pyr[c] --> co2[c] + dxyl5p[c],ok,ok,ok,ok,N/A
+E4PD,e4p[c] + h2o[c] + nad[c] <=> 4per[c] + 2.0 h[c] + nadh[c],ok,ok,ok,ok,N/A
+EAR120y,h[c] + nadph[c] + tddec2eACP[c] --> ddcaACP[c] + nadp[c],ok,ok,ok,ok,N/A
+EAR121x,h[c] + nadh[c] + t3c5ddeceACP[c] --> cddec5eACP[c] + nad[c],ok,ok,ok,ok,N/A
+EAR141y,h[c] + nadph[c] + t3c7mrseACP[c] --> nadp[c] + tdeACP[c],ok,ok,ok,ok,N/A
+EAR160x,h[c] + nadh[c] + tpalm2eACP[c] --> nad[c] + palmACP[c],ok,ok,ok,ok,N/A
+EAR161x,h[c] + nadh[c] + t3c9palmeACP[c] --> hdeACP[c] + nad[c],ok,ok,ok,ok,N/A
+EAR180x,h[c] + nadh[c] + toctd2eACP[c] --> nad[c] + ocdcaACP[c],ok,ok,ok,ok,N/A
+EAR181x,h[c] + nadh[c] + t3c11vaceACP[c] --> nad[c] + octeACP[c],ok,ok,ok,ok,N/A
+EAR40x,but2eACP[c] + h[c] + nadh[c] --> butACP[c] + nad[c],ok,ok,ok,ok,N/A
+EAR60x,h[c] + nadh[c] + thex2eACP[c] --> hexACP[c] + nad[c],ok,ok,ok,ok,N/A
+EAR80y,h[c] + nadph[c] + toct2eACP[c] --> nadp[c] + ocACP[c],ok,ok,ok,ok,N/A
+ECOAH1,3hbcoa[c] <=> b2coa[c] + h2o[c],ok,ok,ok,ok,N/A
+ECOAH12,2mp2coa[c] + h2o[c] --> 3hibutcoa[c],ok,ok,ok,ok,N/A
+ECOAH2,3hhcoa[c] <=> h2o[c] + hx2coa[c],ok,ok,ok,ok,N/A
+ECOAH3,3hocoa[c] <=> h2o[c] + oc2coa[c],ok,ok,ok,ok,N/A
+ECOAH4,3hdcoa[c] <=> dc2coa[c] + h2o[c],ok,ok,ok,ok,N/A
+ECOAH5,3hddcoa[c] <=> dd2coa[c] + h2o[c],only when going forwards,ok,ok,ok,N/A
+ECOAH6,3htdcoa[c] <=> h2o[c] + td2coa[c],ok,ok,ok,ok,N/A
+ECOAH7,3hhdcoa[c] <=> h2o[c] + hdd2coa[c],ok,ok,ok,ok,N/A
+ECOAH8,3hodcoa[c] <=> h2o[c] + od2coa[c],ok,ok,ok,ok,N/A
+ECOAH9ir,2mb2coa[c] + h2o[c] <=> 3hmbcoa[c],only when going backwards,ok,ok,ok,N/A
+EDA,2ddg6p[c] --> g3p[c] + pyr[c],ok,ok,ok,ok,N/A
+EDD,6pgc[c] --> 2ddg6p[c] + h2o[c],ok,ok,ok,ok,N/A
+EDTXS1N,ddcaACP[c] + kdo2lipid4n[c] --> ACP[c] + kdo2lipid4Ln[c],ok,ok,ok,ok,N/A
+EDTXS2N,kdo2lipid4Ln[c] + myrsACP[c] --> ACP[c] + lipan[c],ok,ok,ok,ok,N/A
+ENO,2pg[c] <=> h2o[c] + pep[c],ok,ok,ok,ok,N/A
+ENTCS,3.0 23dhba[c] + 3.0 seramp[c] --> 6.0 amp[c] + enter[c] + 9.0 h[c],ok,ok,ok,ok,N/A
+ENTERES2,feenter[c] + 3.0 h2o[c] --> 3.0 23dhbzs[c] + fe3[c] + 3.0 h[c],ok,ok,ok,ok,N/A
+ETHAt6,etha[e] + h[e] --> etha[c] + h[c],etha[e];etha[c],ok,ok,ok,N/A
+ETHSabc,atp[c] + eths[e] + h2o[c] --> adp[c] + eths[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+ETHSO3abcpp,atp[c] + ethso3[p] + h2o[c] --> adp[c] + ethso3[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+ETHSO3tex,ethso3[e] <=> ethso3[p],only when going backwards,ok,ok,ok,N/A
+ETOHtex,etoh[e] <=> etoh[p],ok,ok,ok,ok,N/A
+ETOHtrpp,etoh[p] <=> etoh[c],ok,ok,ok,ok,N/A
+FA120ACPHi,ddcaACP[c] + h2o[c] --> ACP[c] + ddca[c] + h[c],ok,ok,ok,ok,N/A
+FA140ACPHi,h2o[c] + myrsACP[c] --> ACP[c] + h[c] + ttdca[c],ok,ok,ok,ok,N/A
+FA141ACPHi,h2o[c] + tdeACP[c] --> ACP[c] + h[c] + ttdcea[c],ok,ok,ok,ok,N/A
+FA160ACPHi,h2o[c] + palmACP[c] --> ACP[c] + h[c] + hdca[c],ok,ok,ok,ok,N/A
+FA161ACPHi,h2o[c] + hdeACP[c] --> ACP[c] + h[c] + hdcea[c],ok,ok,ok,ok,N/A
+FACOAE100,dcacoa[c] + h2o[c] --> coa[c] + dca[c] + h[c],ok,ok,ok,ok,N/A
+FACOAE120,ddcacoa[c] + h2o[c] --> coa[c] + ddca[c] + h[c],ok,ok,ok,ok,N/A
+FACOAE140,h2o[c] + tdcoa[c] --> coa[c] + h[c] + ttdca[c],ok,ok,ok,ok,N/A
+FACOAE141,h2o[c] + tdecoa[c] --> coa[c] + h[c] + ttdcea[c],ok,ok,ok,ok,N/A
+FACOAE160,h2o[c] + pmtcoa[c] --> coa[c] + h[c] + hdca[c],ok,ok,ok,ok,N/A
+FACOAE161,h2o[c] + hdcoa[c] --> coa[c] + h[c] + hdcea[c],ok,ok,ok,ok,N/A
+FACOAE180,h2o[c] + stcoa[c] --> coa[c] + h[c] + ocdca[c],ok,ok,ok,ok,N/A
+FACOAE181,h2o[c] + odecoa[c] --> coa[c] + h[c] + ocdcea[c],ok,ok,ok,ok,N/A
+FACOAE60,h2o[c] + hxcoa[c] --> coa[c] + h[c] + hxa[c],ok,ok,ok,ok,N/A
+FACOAE80,h2o[c] + occoa[c] --> coa[c] + h[c] + octa[c],ok,ok,ok,ok,N/A
+FACOAL100t2pp,atp[c] + coa[c] + dca[p] + h[p] --> amp[c] + dcacoa[c] + h[c] + ppi[c],ok,ok,ok,ok,N/A
+FACOAL120t2pp,atp[c] + coa[c] + ddca[p] + h[p] --> amp[c] + ddcacoa[c] + h[c] + ppi[c],ok,ok,ok,ok,N/A
+FACOAL140,atp[c] + coa[c] + ttdca[c] --> amp[c] + ppi[c] + tdcoa[c],ok,ok,ok,ok,N/A
+FACOAL140_ISO,atp[c] + coa[c] + fa1[c] --> amp[c] + fa1coa[c] + ppi[c],ok,ok,ok,ok,N/A
+FACOAL140t2pp,atp[c] + coa[c] + h[p] + ttdca[p] --> amp[c] + h[c] + ppi[c] + tdcoa[c],ok,ok,ok,ok,N/A
+FACOAL141t2pp,atp[c] + coa[c] + h[p] + ttdcea[p] --> amp[c] + h[c] + ppi[c] + tdecoa[c],ok,ok,ok,ok,N/A
+FACOAL150_anteiso,atp[c] + coa[c] + fa4[c] --> amp[c] + fa4coa[c] + ppi[c],ok,ok,ok,ok,N/A
+FACOAL150_ISO,atp[c] + coa[c] + fa3[c] --> amp[c] + fa3coa[c] + ppi[c],ok,ok,ok,ok,N/A
+FACOAL160,atp[c] + coa[c] + hdca[c] --> amp[c] + pmtcoa[c] + ppi[c],ok,ok,ok,ok,N/A
+FACOAL160_ISO,atp[c] + coa[c] + fa6[c] --> amp[c] + fa6coa[c] + ppi[c],ok,ok,ok,ok,N/A
+FACOAL160t2pp,atp[c] + coa[c] + h[p] + hdca[p] --> amp[c] + h[c] + pmtcoa[c] + ppi[c],ok,ok,ok,ok,N/A
+FACOAL161,atp[c] + coa[c] + hdcea[c] --> amp[c] + hdcoa[c] + ppi[c],ok,ok,ok,ok,N/A
+FACOAL161t2pp,atp[c] + coa[c] + h[p] + hdcea[p] --> amp[c] + h[c] + hdcoa[c] + ppi[c],ok,ok,ok,ok,N/A
+FACOAL170_anteiso,atp[c] + coa[c] + fa12[c] --> amp[c] + fa12coa[c] + ppi[c],ok,ok,ok,ok,N/A
+FACOAL170_ISO,atp[c] + coa[c] + fa11[c] --> amp[c] + fa11coa[c] + ppi[c],ok,ok,ok,ok,N/A
+FACOAL180,atp[c] + coa[c] + ocdca[c] --> amp[c] + ppi[c] + stcoa[c],ok,ok,ok,ok,N/A
+FACOAL180_2,atp[c] + coa[c] + ocdca[c] --> amp[c] + ppi[c] + strcoa[c],ok,ok,ok,ok,N/A
+FACOAL180t2pp,atp[c] + coa[c] + h[p] + ocdca[p] --> amp[c] + h[c] + ppi[c] + stcoa[c],ok,ok,ok,ok,N/A
+FACOAL181,atp[c] + coa[c] + ocdcea[c] --> amp[c] + odecoa[c] + ppi[c],ok,ok,ok,ok,N/A
+FACOAL181t2pp,atp[c] + coa[c] + h[p] + ocdcea[p] --> amp[c] + h[c] + odecoa[c] + ppi[c],ok,ok,ok,ok,N/A
+FACOAL200,arach[c] + atp[c] + coa[c] --> amp[c] + arachcoa[c] + ppi[c],ok,ok,ok,ok,N/A
+FACOAL40It2pp,atp[c] + coa[c] + h[p] + ibt[p] --> amp[c] + h[c] + ibcoa[c] + ppi[c],ok,ok,ok,ok,N/A
+FACOAL40t2pp,atp[c] + but[p] + coa[c] + h[p] --> amp[c] + btcoa[c] + h[c] + ppi[c],ok,ok,ok,ok,N/A
+FACOAL50It2pp,3mb[p] + atp[c] + coa[c] + h[p] --> amp[c] + h[c] + ivcoa[c] + ppi[c],ok,ok,ok,ok,N/A
+FACOAL60t2pp,atp[c] + coa[c] + h[p] + hxa[p] --> amp[c] + h[c] + hxcoa[c] + ppi[c],ok,ok,ok,ok,N/A
+FACOAL80,atp[c] + coa[c] + octa[c] --> amp[c] + occoa[c] + ppi[c],ok,ok,ok,ok,N/A
+FACOAL80t2pp,atp[c] + coa[c] + h[p] + octa[p] --> amp[c] + h[c] + occoa[c] + ppi[c],ok,ok,ok,ok,N/A
+FACOALPREPH,atp[c] + coa[c] + prephth[c] --> amp[c] + ppi[c] + prephthcoa[c],ok,ok,ok,ok,N/A
+FADMQOR,fadh2[c] + mqn8[c] --> fad[c] + mql8[c],ok,ok,ok,ok,N/A
+FADRx,fad[c] + h[c] + nadh[c] --> fadh2[c] + nad[c],ok,ok,ok,ok,N/A
+FADRx2,fad[c] + h[c] + nadph[c] --> fadh2[c] + nadp[c],ok,ok,ok,ok,N/A
+FALDH2,hmgth[c] + nad[c] <=> Sfglutth[c] + h[c] + nadh[c],only when going backwards,ok,ok,ok,N/A
+FALGTHLs,fald[c] + gthrd[c] <=> hmgth[c],only when going backwards,ok,ok,ok,N/A
+FAO1,atp[c] + 7.0 coa[c] + 6.0 fad[c] + 6.0 h2o[c] + 6.0 nad[c] + ttdca[c] --> 7.0 accoa[c] + amp[c] + 6.0 fadh2[c] + 6.0 h[c] + 6.0 nadh[c] + ppi[c],ok,ok,ok,ok,N/A
+FAO10,atp[c] + 9.0 coa[c] + 7.0 fad[c] + 8.0 h2o[c] + 8.0 nad[c] + ocdcea[c] --> 9.0 accoa[c] + amp[c] + 7.0 fadh2[c] + 8.0 h[c] + 8.0 nadh[c] + ppi[c],ok,ok,ok,ok,N/A
+FAO11,atp[c] + 8.0 coa[c] + 6.0 fad[c] + 7.0 h2o[c] + hdcea[c] + 7.0 nad[c] --> 8.0 accoa[c] + amp[c] + 6.0 fadh2[c] + 7.0 h[c] + 7.0 nadh[c] + ppi[c],ok,ok,ok,ok,N/A
+FAO2,atp[c] + 8.0 coa[c] + 7.0 fad[c] + 7.0 h2o[c] + hdca[c] + 7.0 nad[c] --> 8.0 accoa[c] + amp[c] + 7.0 fadh2[c] + 7.0 h[c] + 7.0 nadh[c] + ppi[c],ok,ok,ok,ok,N/A
+FAO3,atp[c] + 9.0 coa[c] + 8.0 fad[c] + 8.0 h2o[c] + 8.0 nad[c] + ocdca[c] --> 9.0 accoa[c] + amp[c] + 8.0 fadh2[c] + 8.0 h[c] + 8.0 nadh[c] + ppi[c],ok,ok,ok,ok,N/A
+FAS100,3.0 h[c] + malcoa[c] + 2.0 nadph[c] + octa[c] --> co2[c] + coa[c] + dca[c] + h2o[c] + 2.0 nadp[c],ok,ok,ok,ok,N/A
+FAS120,dca[c] + 3.0 h[c] + malcoa[c] + 2.0 nadph[c] --> co2[c] + coa[c] + ddca[c] + h2o[c] + 2.0 nadp[c],ok,ok,ok,ok,N/A
+FAS140,ddca[c] + 3.0 h[c] + malcoa[c] + 2.0 nadph[c] --> co2[c] + coa[c] + h2o[c] + 2.0 nadp[c] + ttdca[c],ok,ok,ok,ok,N/A
+FAS160,3.0 h[c] + malcoa[c] + 2.0 nadph[c] + ttdca[c] --> co2[c] + coa[c] + h2o[c] + hdca[c] + 2.0 nadp[c],ok,ok,ok,ok,N/A
+FAS161,4.0 h[c] + malcoa[c] + 3.0 nadph[c] + o2[c] + ttdca[c] --> co2[c] + coa[c] + 3.0 h2o[c] + hdcea[c] + 3.0 nadp[c],ok,ok,ok,ok,N/A
+FAS180,3.0 h[c] + hdca[c] + malcoa[c] + 2.0 nadph[c] --> co2[c] + coa[c] + h2o[c] + 2.0 nadp[c] + ocdca[c],ok,ok,ok,ok,N/A
+FAS181,4.0 h[c] + hdca[c] + malcoa[c] + 3.0 nadph[c] + o2[c] --> co2[c] + coa[c] + 3.0 h2o[c] + 3.0 nadp[c] + ocdcea[c],ok,ok,ok,ok,N/A
+FAS200,3.0 h[c] + malcoa[c] + 2.0 nadph[c] + ocdca[c] --> arach[c] + co2[c] + coa[c] + h2o[c] + 2.0 nadp[c],ok,ok,ok,ok,N/A
+FAS80_L,accoa[c] + 8.0 h[c] + 3.0 malcoa[c] + 6.0 nadph[c] --> 3.0 co2[c] + 4.0 coa[c] + 2.0 h2o[c] + 6.0 nadp[c] + octa[c],ok,ok,ok,ok,N/A
+FASC120ACP,dcaACP[c] + 3.0 h[c] + malACP[c] + 2.0 nadph[c] --> ACP[c] + co2[c] + ddcaACP[c] + h2o[c] + 2.0 nadp[c],ok,ok,ok,ok,N/A
+FASC140ACP,ddcaACP[c] + 3.0 h[c] + malACP[c] + 2.0 nadph[c] --> ACP[c] + co2[c] + h2o[c] + myrsACP[c] + 2.0 nadp[c],ok,ok,ok,ok,N/A
+FASC141ACP,ddcaACP[c] + 2.0 h[c] + malACP[c] + nadph[c] --> ACP[c] + co2[c] + h2o[c] + nadp[c] + tdeACP[c],ok,ok,ok,ok,N/A
+FASC160ACP,3.0 h[c] + malACP[c] + myrsACP[c] + 2.0 nadph[c] --> ACP[c] + co2[c] + h2o[c] + 2.0 nadp[c] + palmACP[c],ok,ok,ok,ok,N/A
+FASC161ACP,2.0 h[c] + malACP[c] + myrsACP[c] + nadph[c] --> ACP[c] + co2[c] + h2o[c] + hdeACP[c] + nadp[c],ok,ok,ok,ok,N/A
+FASC180ACP,3.0 h[c] + malACP[c] + 2.0 nadph[c] + palmACP[c] --> ACP[c] + co2[c] + h2o[c] + 2.0 nadp[c] + ocdcaACP[c],ok,ok,ok,ok,N/A
+FASC181ACP,2.0 h[c] + malACP[c] + nadph[c] + palmACP[c] --> ACP[c] + co2[c] + h2o[c] + nadp[c] + octeACP[c],ok,ok,ok,ok,N/A
+FASC200ACP,3.0 h[c] + malACP[c] + 2.0 nadph[c] + ocdcaACP[c] --> ACP[c] + arachACP[c] + co2[c] + h2o[c] + 2.0 nadp[c],ok,ok,ok,ok,N/A
+FASm220,arach[c] + 3.0 h[c] + mmcoa__S[c] + 2.0 nadph[c] --> co2[c] + coa[c] + h2o[c] + mbhn[c] + 2.0 nadp[c],ok,ok,ok,ok,N/A
+FASm240,3.0 h[c] + mbhn[c] + mmcoa__S[c] + 2.0 nadph[c] --> co2[c] + coa[c] + dmlgnc[c] + h2o[c] + 2.0 nadp[c],ok,ok,ok,ok,N/A
+FASm260,dmlgnc[c] + 3.0 h[c] + mmcoa__S[c] + 2.0 nadph[c] --> co2[c] + coa[c] + h2o[c] + 2.0 nadp[c] + tmhexc[c],ok,ok,ok,ok,N/A
+FASm280,3.0 h[c] + mmcoa__S[c] + 2.0 nadph[c] + tmhexc[c] --> co2[c] + coa[c] + h2o[c] + 2.0 nadp[c] + tamocta[c],ok,ok,ok,ok,N/A
+FBA,fdp[c] <=> dhap[c] + g3p[c],ok,ok,ok,ok,N/A
+FBP,fdp[c] + h2o[c] --> f6p[c] + pi[c],ok,ok,ok,ok,N/A
+FCLT,fe2[c] + ppp9[c] --> 2.0 h[c] + pheme[c],ok,ok,ok,ok,N/A
+FCOAH2,forcoa[c] + h2o[c] --> coa[c] + for[c] + h[c],ok,ok,ok,ok,N/A
+FDH,for[c] + nad[c] --> co2[c] + nadh[c],ok,ok,ok,ok,N/A
+FDH7,co2[c] + fdxr_42[c] + h[c] --> fdxo_42[c] + for[c],ok,ok,ok,ok,N/A
+FDMO,fmnh2[c] + isetac[c] + o2[c] --> fmn[c] + gcald[c] + h2o[c] + h[c] + so3[c],ok,ok,ok,ok,N/A
+FDMO1,eths[c] + fmnRD[c] + o2[c] --> acald[c] + fmn[c] + h2o[c] + h[c] + so3[c],ok,ok,ok,ok,N/A
+FDMO_1,fmnRD[c] + mso3[c] + o2[c] --> fald[c] + fmn[c] + h2o[c] + h[c] + so3[c],ok,ok,ok,ok,N/A
+FDMO2,fmnh2[c] + mso3[c] + o2[c] --> fald[c] + fmn[c] + h2o[c] + h[c] + so3[c],ok,ok,ok,ok,N/A
+FDMO2_1,buts[c] + fmnRD[c] + o2[c] --> btal[c] + fmn[c] + h2o[c] + h[c] + so3[c],ok,ok,ok,ok,N/A
+FDMO3,ethso3[c] + fmnh2[c] + o2[c] --> acald[c] + fmn[c] + h2o[c] + h[c] + so3[c],ok,ok,ok,ok,N/A
+FDMO3_1,fmnRD[c] + hexs[c] + o2[c] --> fmn[c] + h2o[c] + h[c] + hxal[c] + so3[c],ok,ok,ok,ok,N/A
+FDMO4,butso3[c] + fmnh2[c] + o2[c] --> btal[c] + fmn[c] + h2o[c] + h[c] + so3[c],ok,ok,ok,ok,N/A
+FDMO4_1,fmnRD[c] + o2[c] + taur[c] --> amacald[c] + fmn[c] + h2o[c] + h[c] + so3[c],ok,ok,ok,ok,N/A
+FDMO5_1,fmnRD[c] + o2[c] + sula[c] --> fmn[c] + glx[c] + h2o[c] + h[c] + so3[c],ok,ok,ok,ok,N/A
+FDMO6,fmnh2[c] + o2[c] + sulfac[c] --> fmn[c] + glx[c] + h2o[c] + h[c] + so3[c],ok,ok,ok,ok,N/A
+FDMO6_1,fmnRD[c] + istnt[c] + o2[c] --> fmn[c] + gcald[c] + h2o[c] + h[c] + so3[c],ok,ok,ok,ok,N/A
+FDMOtau,fmnh2[c] + o2[c] + taur[c] --> aacald[c] + fmn[c] + h2o[c] + h[c] + so3[c],ok,ok,ok,ok,N/A
+FE2abc,atp[c] + fe2[e] + h2o[c] --> adp[c] + fe2[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+FE2abcpp,atp[c] + fe2[p] + h2o[c] --> adp[c] + fe2[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+FE2Gabcpp,fe2[p] + gtp[c] + h2o[c] --> fe2[c] + gdp[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+FE2t3pp,fe2[c] + h[p] --> fe2[p] + h[c],ok,ok,ok,ok,N/A
+FE2t4pp,fe2[c] + h[p] + k[p] --> fe2[p] + h[c] + k[c],ok,ok,ok,ok,N/A
+FE2tex,fe2[e] <=> fe2[p],ok,ok,ok,ok,N/A
+FE3abc,atp[c] + fe3[e] + h2o[c] --> adp[c] + fe3[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+FE3abcpp,atp[c] + fe3[p] + h2o[c] --> adp[c] + fe3[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+FE3Gabcpp,fe3[p] + gtp[c] + h2o[c] --> fe3[c] + gdp[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+FE3t,fe3[e] --> fe3[c],ok,ok,ok,ok,N/A
+FE3tex,fe3[e] <=> fe3[p],ok,ok,ok,ok,N/A
+FEDCabc,atp[c] + 2.0 cit[e] + fe3[e] + h2o[c] --> adp[c] + 2.0 cit[c] + fe3[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+FEENTER2tpp,atp[c] + enter[c] + h2o[c] --> adp[c] + enter[p] + h[c] + pi[c],ok,ok,ok,ok,N/A
+FEENTERabcpp,atp[c] + feenter[p] + h2o[c] --> adp[c] + feenter[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+FEENTERR3,2.0 feenter[c] + rbflvrd[c] --> 2.0 enter[c] + 2.0 fe2[c] + 2.0 h[c] + ribflv[c],ok,ok,ok,ok,N/A
+FEENTERtex,enter[p] + h[p] --> enter[e] + h[c],ok,ok,ok,ok,N/A
+FEENTERtonex,feenter[e] + h[p] --> feenter[p] + h[c],ok,ok,ok,ok,N/A
+FEENTERtpp,enter[c] + h[p] --> enter[p] + h[c],ok,ok,ok,ok,N/A
+FEROpp,4.0 fe2[p] + 4.0 h[p] + o2[p] --> 4.0 fe3[p] + 2.0 h2o[p],ok,ok,ok,ok,N/A
+FFSD,h2o[c] + suc6p[c] --> fru[c] + g6p[c],ok,ok,ok,ok,N/A
+FGLU_1,forglu[c] + h2o[c] --> frmd[c] + glu__L[c],ok,ok,ok,ok,N/A
+FLDR,fldox[c] + h[c] + nadph[c] --> fldrd[c] + nadp[c],ok,ok,ok,ok,N/A
+FLNDPR2r,2.0 flxr[c] + h[c] + nadh[c] + 2.0 nadp[c] <=> 2.0 flxso[c] + nad[c] + 2.0 nadph[c],only when going forwards,ok,ok,ok,N/A
+FLVR,h[c] + nadph[c] + ribflv[c] --> nadp[c] + rbflvrd[c],ok,ok,ok,ok,N/A
+FMNAT,atp[c] + fmn[c] + h[c] --> fad[c] + ppi[c],ok,ok,ok,ok,N/A
+FMNRx,fmn[c] + h[c] + nadh[c] --> fmnh2[c] + nad[c],ok,ok,ok,ok,N/A
+FMNRx2,fmn[c] + h[c] + nadph[c] --> fmnh2[c] + nadp[c],ok,ok,ok,ok,N/A
+FMNRy,fmn[c] + h[c] + nadph[c] --> fmnRD[c] + nadp[c],ok,ok,ok,ok,N/A
+FOLD3,2ahhmd[c] + 4abz[c] --> dhpt[c] + ppi[c],ok,ok,ok,ok,N/A
+FOMETRi,5fthf[c] + h[c] --> h2o[c] + methf[c],ok,ok,THFAT,THFAT,N/A
+FORAMD,frmd[c] + h2o[c] --> for[c] + nh4[c],ok,ok,ok,ok,N/A
+FORCT,forcoa[c] + oxa[c] <=> for[c] + oxalcoa[c],only when going forwards,ok,ok,ok,N/A
+FORGLUIH,forglu[c] + h2o[c] + 2.0 h[c] --> Nforglu[c] + nh3[c],ok,ok,ok,ok,N/A
+FORtex,for[e] <=> for[p],ok,ok,ok,ok,N/A
+FRD2,fum[c] + mql8[c] --> mqn8[c] + succ[c],ok,ok,ok,ok,N/A
+FRD2rpp,2.0 h[p] + mqn8[c] + succ[c] --> fum[c] + 2.0 h[c] + mql8[c],ok,ok,ok,ok,N/A
+FRD3,2dmmql8[c] + fum[c] --> 2dmmq8[c] + succ[c],ok,ok,ok,ok,N/A
+FRDO,fdxrd[c] + nadp[c] <=> fdxox[c] + h[c] + nadph[c],only when going backwards,ok,ok,ok,N/A
+FRNDPR2r,fdxr_42[c] + h[c] + nadh[c] + 2.0 nadp[c] --> fdxo_42[c] + nad[c] + 2.0 nadph[c],ok,ok,ok,ok,N/A
+FRUK,atp[c] + f1p[c] --> adp[c] + fdp[c] + h[c],ok,ok,ok,ok,N/A
+FRUpts,fru[e] + pep[c] --> f1p[c] + pyr[c],ok,ok,ok,ok,N/A
+FRUptspp,fru[p] + pep[c] --> f1p[c] + pyr[c],ok,ok,ok,ok,N/A
+FRUt3,fru[p] + h[p] --> fru[c] + h[c],ok,ok,ok,ok,N/A
+FTHFCL,5fthf[c] + atp[c] --> adp[c] + methf[c] + pi[c],ok,ok,ok,ok,N/A
+FTHFD,10fthf[c] + h2o[c] --> for[c] + h[c] + thf[c],ok,ok,ok,ok,N/A
+FUM,fum[c] + h2o[c] <=> mal__L[c],ok,ok,ok,ok,N/A
+FUMAC,4fumacac[c] + h2o[c] --> acac[c] + fum[c] + h[c],ok,ok,ok,ok,N/A
+FUTH,fut[c] + h2o[c] --> dhxfut[c] + hxan[c],ok,ok,ok,ok,N/A
+FUTS,chor[c] + h[c] + imp[c] + pep[c] --> co2[c] + fut[c] + 2.0 pi[c] + pyr[c],ok,ok,ok,ok,N/A
+G1PACT,accoa[c] + gam1p[c] --> acgam1p[c] + coa[c] + h[c],ok,ok,ok,ok,N/A
+G1PCTYT,ctp[c] + g1p[c] + h[c] <=> cdpglc[c] + ppi[c],only when going backwards,ok,ok,ok,N/A
+G1PTT,dttp[c] + g1p[c] + h[c] --> dtdpglu[c] + ppi[c],ok,ok,ok,ok,N/A
+G1SAT,glu1sa[c] <=> 5aop[c],only when going backwards,ok,ok,ok,N/A
+G2PP,glyc2p[c] + h2o[c] --> glyc[c] + pi[c],ok,ok,ok,ok,N/A
+G3PAT120,ddcaACP[c] + glyc3p[c] --> 1ddecg3p[c] + ACP[c],ok,ok,ok,ok,N/A
+G3PAT140,glyc3p[c] + myrsACP[c] --> 1tdecg3p[c] + ACP[c],ok,ok,ok,ok,N/A
+G3PAT141,glyc3p[c] + tdeACP[c] --> 1tdec7eg3p[c] + ACP[c],ok,ok,ok,ok,N/A
+G3PAT160,glyc3p[c] + palmACP[c] --> 1hdecg3p[c] + ACP[c],ok,ok,ok,ok,N/A
+G3PAT161,glyc3p[c] + hdeACP[c] --> 1hdec9eg3p[c] + ACP[c],ok,ok,ok,ok,N/A
+G3PAT180,glyc3p[c] + ocdcaACP[c] --> 1odecg3p[c] + ACP[c],ok,ok,ok,ok,N/A
+G3PAT181,glyc3p[c] + octeACP[c] --> 1odec11eg3p[c] + ACP[c],ok,ok,ok,ok,N/A
+G3PCabcpp,atp[c] + g3pc[p] + h2o[c] --> adp[c] + g3pc[c] + h[c] + pi[c],g3pc[p];g3pc[c],ok,ok,ok,N/A
+G3PCT,ctp[c] + glyc3p[c] + h[c] --> cdpglyc[c] + ppi[c],ok,ok,ok,ok,N/A
+G3PCtex,g3pc[e] <=> g3pc[p],g3pc[e];g3pc[p],ok,ok,ok,N/A
+G3PD1,glyc3p[c] + nad[c] <=> dhap[c] + h[c] + nadh[c],ok,ok,ok,ok,N/A
+G3PEabcpp,atp[c] + g3pe[p] + h2o[c] --> adp[c] + g3pe[c] + h[c] + pi[c],g3pe[p];g3pe[c],ok,ok,ok,N/A
+G3PEtex,g3pe[e] <=> g3pe[p],g3pe[e];g3pe[p],ok,ok,ok,N/A
+G3PGabcpp,atp[c] + g3pg[p] + h2o[c] --> adp[c] + g3pg[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+G3PIabcpp,atp[c] + g3pi[p] + h2o[c] --> adp[c] + g3pi[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+G3PItex,g3pi[e] <=> g3pi[p],only when going backwards,ok,ok,ok,N/A
+G3POA_BS,0.07 fa11coa[c] + 0.17 fa12coa[c] + 0.01 fa1coa[c] + 0.2 fa3coa[c] + 0.34 fa4coa[c] + 0.05 fa6coa[c] + glyc3p[c] + 0.1 pmtcoa[c] + 0.03 strcoa[c] + 0.03 tdcoa[c] --> 0.01 1ag3p_BS[c] + coa[c],ok,ok,ok,ok,N/A
+G3PSabcpp,atp[c] + g3ps[p] + h2o[c] --> adp[c] + g3ps[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+G3PStex,g3ps[e] <=> g3ps[p],only when going backwards,ok,ok,ok,N/A
+G3PT,glyc3p[c] + h2o[c] --> glyc[c] + pi[c],ok,ok,ok,ok,N/A
+G5SADs,glu5sa[c] --> 1pyr5c[c] + h2o[c] + h[c],ok,ok,ok,ok,N/A
+G5SD,glu5p[c] + h[c] + nadph[c] --> glu5sa[c] + nadp[c] + pi[c],ok,ok,ok,ok,N/A
+G5SD2,glu5p[c] + h[c] + nadh[c] --> glu5sa[c] + nad[c] + pi[c],ok,ok,ok,ok,N/A
+G6PDA,gam6p[c] + h2o[c] --> f6p[c] + nh4[c],ok,ok,ok,ok,N/A
+G6PDH2r,g6p[c] + nadp[c] <=> 6pgl[c] + h[c] + nadph[c],only when going backwards,ok,ok,ok,N/A
+GADktpp,fad[c] + glcn[p] <=> 2dhglcn[p] + fadh2[c],only when going backwards,ok,ok,ok,N/A
+GALabc,atp[c] + gal[e] + h2o[c] --> adp[c] + gal[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+GALabcpp,atp[c] + gal[p] + h2o[c] --> adp[c] + gal[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+GALBDtex,gal_bD[e] <=> gal_bD[p],only when going backwards,ok,ok,ok,N/A
+GALCTNt2r,galctn__D[e] + h[e] <=> galctn__D[c] + h[c],galctn__D[e];galctn__D[c],ok,ok,ok,N/A
+GALKr,atp[c] + gal[c] <=> adp[c] + gal1p[c] + h[c],only when going backwards,ok,ok,ok,N/A
+GALM2pp,gal_bD[p] --> gal[p],ok,ok,ok,ok,N/A
+GALS3,h2o[c] + melib[c] --> gal[c] + glc__D[c],ok,ok,ok,ok,N/A
+GALT,gal1p[c] + h[c] + utp[c] <=> ppi[c] + udpgal[c],only when going backwards,ok,ok,ok,N/A
+GALTpts,galt[e] + pep[c] --> galt1p[c] + pyr[c],ok,ok,ok,ok,N/A
+GALUi,g1p[c] + h[c] + utp[c] --> ppi[c] + udpg[c],ok,ok,ok,ok,N/A
+GALURt2rpp,galur[p] + h[p] <=> galur[c] + h[c],galur[p];galur[c],ok,ok,ok,N/A
+GALURtex,galur[e] <=> galur[p],galur[e];galur[p],ok,ok,ok,N/A
+GAMpts,gam[e] + pep[c] --> gam6p[c] + pyr[c],ok,ok,ok,ok,N/A
+GAPD,g3p[c] + nad[c] + pi[c] <=> 13dpg[c] + h[c] + nadh[c],ok,ok,ok,ok,N/A
+GARFT,10fthf[c] + gar[c] <=> fgam[c] + h[c] + thf[c],only when going backwards,ok,ok,ok,N/A
+GBBTNabc,atp[c] + gbbtn[e] + h2o[c] --> adp[c] + gbbtn[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+GCALDD,gcald[c] + h2o[c] + nad[c] --> glyclt[c] + 2.0 h[c] + nadh[c],ok,ok,ok,ok,N/A
+GCCa,gly[c] + h[c] + lpro[c] --> alpro[c] + co2[c],ok,ok,ok,ok,N/A
+GCCb,alpro[c] + thf[c] --> dhlpro[c] + mlthf[c] + nh4[c],ok,ok,ok,ok,N/A
+GCCc,dhlpro[c] + nad[c] --> h[c] + lpro[c] + nadh[c],ok,ok,ok,ok,N/A
+GDBTALDH,gdbtal[c] + h2o[c] + nad[c] --> 4gudbutn[c] + 2.0 h[c] + nadh[c],ok,ok,ok,ok,N/A
+GDPDPK,atp[c] + gdp[c] --> amp[c] + h[c] + ppgpp[c],ok,ok,ok,ok,N/A
+GDPMNP,gdpmann[c] + h2o[c] --> gmp[c] + 2.0 h[c] + man1p[c],ok,ok,ok,ok,N/A
+GDPTPDP,gdptp[c] + h2o[c] --> gtp[c] + ppi[c],ok,ok,ok,ok,N/A
+GF6PTA,f6p[c] + gln__L[c] --> gam6p[c] + glu__L[c],ok,ok,ok,ok,N/A
+GGGABADr,ggbutal[c] + h2o[c] + nadp[c] <=> gg4abut[c] + 2.0 h[c] + nadph[c],only when going backwards,ok,ok,ok,N/A
+GGGABAH,gg4abut[c] + h2o[c] --> 4abut[c] + glu__L[c],ok,ok,ok,ok,N/A
+GGLUCT2,gluala[c] --> 5oxpro[c] + ala__L[c],ok,ok,ok,ok,N/A
+GGPTRCO,ggptrc[c] + h2o[c] + o2[c] --> ggbutal[c] + h2o2[c] + nh4[c],ok,ok,ok,ok,N/A
+GGPTRCS,atp[c] + glu__L[c] + ptrc[c] --> adp[c] + ggptrc[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+GGTAe2,gthrd[e] + h2o[e] <=> cgly[e] + glu__L[e],ok,ok,ok,ok,N/A
+GHBDHx,h[c] + nadh[c] + sucsal[c] <=> ghb[c] + nad[c],ghb[c],ok,ok,ok,N/A
+GHMT2r,ser__L[c] + thf[c] <=> gly[c] + h2o[c] + mlthf[c],ok,ok,ok,ok,N/A
+GK1,atp[c] + gmp[c] <=> adp[c] + gdp[c],only when going backwards,ok,ok,ok,N/A
+GLBRAN2,glycogen[c] --> bglycogen[c],ok,ok,GLDBRAN2,GLDBRAN2,N/A
+GLCabc,atp[c] + glc__D[e] + h2o[c] --> adp[c] + glc__D[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+GLCabcpp,atp[c] + glc__D[p] + h2o[c] --> adp[c] + glc__D[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+GLCDpp,glc__D[p] + h2o[p] + q8[c] --> glcn[p] + h[p] + q8h2[c],ok,ok,ok,ok,N/A
+GLCNt2ir,glcn__D[e] + h[e] --> glcn__D[c] + h[c],ok,ok,ok,ok,N/A
+GLCNt2r,glcn[e] + h[e] <=> glcn[c] + h[c],ok,ok,ok,ok,N/A
+GLCNt2rpp,glcn[p] + h[p] <=> glcn[c] + h[c],ok,ok,ok,ok,N/A
+GLCOAS,atp[c] + coa[c] + glutar[c] --> adp[c] + glutcoa[c] + pi[c],ok,ok,ok,ok,N/A
+GLCP,glycogen[c] + pi[c] --> g1p[c],ok,ok,ok,ok,N/A
+GLCpts,glc__D[e] + pep[c] --> g6p[c] + pyr[c],ok,ok,ok,ok,N/A
+GLCptspp,glc__D[p] + pep[c] --> g6p[c] + pyr[c],ok,ok,ok,ok,N/A
+GLCRAL,5dh4dglc[c] --> 2h3oppan[c] + pyr[c],ok,ok,ok,ok,N/A
+GLCRAL_1,5d4dglcr[c] --> 2h3opp[c] + pyr[c],ok,ok,ok,ok,N/A
+GLCRD,glcr[c] --> 5dh4dglc[c] + h2o[c],ok,ok,ok,ok,N/A
+GLCRD_1,glcr[c] --> 5d4dglcr[c] + h2o[c],ok,ok,ok,ok,N/A
+GLCRt2r,glcr[e] + h[e] <=> glcr[c] + h[c],only when going backwards,ok,ok,ok,N/A
+GLCt2pp,glc__D[p] + h[p] --> glc__D[c] + h[c],ok,ok,ok,ok,N/A
+GLCTR4N,hhlipan[c] + udpg[c] --> ghhlipan[c] + h[c] + udp[c],ok,ok,ok,ok,N/A
+GLCURt2r,glcur[e] + h[e] <=> glcur[c] + h[c],ok,ok,ok,ok,N/A
+GLCURt2rpp,glcur[p] + h[p] <=> glcur[c] + h[c],ok,ok,ok,ok,N/A
+GLCURtex,glcur[e] <=> glcur[p],ok,ok,ok,ok,N/A
+GLDBRAN2,bglycogen[c] --> glycogen[c],ok,ok,GLBRAN2,GLBRAN2,N/A
+GLNabc,atp[c] + gln__L[e] + h2o[c] --> adp[c] + gln__L[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+GLNabcpp,atp[c] + gln__L[p] + h2o[c] --> adp[c] + gln__L[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+GLNS,atp[c] + glu__L[c] + nh4[c] --> adp[c] + gln__L[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+GLNtex,gln__L[e] <=> gln__L[p],only when going backwards,ok,ok,ok,N/A
+GLS,glucan4[c] + 3.0 h2o[c] --> 4.0 glc__D[c],ok,ok,ok,ok,N/A
+GLS2,glucan6[c] + 5.0 h2o[c] --> 6.0 glc__D[c],ok,ok,ok,ok,N/A
+GLTPD,galt1p[c] + nad[c] <=> h[c] + nadh[c] + tag6p__D[c],only when going backwards,ok,ok,ok,N/A
+GLU5K,atp[c] + glu__L[c] --> adp[c] + glu5p[c],ok,ok,ok,ok,N/A
+GLUabc,atp[c] + glu__L[e] + h2o[c] --> adp[c] + glu__L[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+GLUabcpp,atp[c] + glu__L[p] + h2o[c] --> adp[c] + glu__L[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+GLUABUTt7pp,4abut[c] + glu__L[p] <=> 4abut[p] + glu__L[c],only when going backwards,ok,ok,ok,N/A
+GLUCAN2abc,atp[c] + glucan6[e] + h2o[c] --> adp[c] + glucan6[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+GLUCANabc,atp[c] + glucan4[e] + h2o[c] --> adp[c] + glucan4[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+GLUCYS,atp[c] + cys__L[c] + glu__L[c] --> adp[c] + glucys[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+GLUDC,glu__L[c] + h[c] --> 4abut[c] + co2[c],ok,ok,ok,ok,N/A
+GLU_Dt2,glu__D[e] + h[e] --> glu__D[c] + h[c],ok,ok,ok,ok,N/A
+GLUDxi,glu__L[c] + h2o[c] + nad[c] --> akg[c] + h[c] + nadh[c] + nh4[c],ok,ok,ok,ok,N/A
+GLUPRT,gln__L[c] + h2o[c] + prpp[c] --> glu__L[c] + ppi[c] + pram[c],ok,ok,ok,ok,N/A
+GLUR,glu__D[c] <=> glu__L[c],ok,ok,ok,ok,N/A
+GLUSy,akg[c] + gln__L[c] + h[c] + nadph[c] --> 2.0 glu__L[c] + nadp[c],ok,ok,ok,ok,N/A
+GLUt2rpp,glu__L[p] + h[p] <=> glu__L[c] + h[c],ok,ok,ok,ok,N/A
+GLUt4,glu__L[e] + na1[e] --> glu__L[c] + na1[c],ok,ok,ok,ok,N/A
+GLUTCOADHc,fad[c] + glutcoa[c] + h[c] --> b2coa[c] + co2[c] + fadh2[c],ok,ok,ok,ok,N/A
+GLUTRR,glutrna[c] + h[c] + nadph[c] --> glu1sa[c] + nadp[c] + trnaglu[c],ok,ok,ok,ok,N/A
+GLUTRS,atp[c] + glu__L[c] + trnaglu[c] --> amp[c] + glutrna[c] + ppi[c],ok,ok,ok,ok,N/A
+GLXCL,2.0 glx[c] + h[c] --> 2h3oppan[c] + co2[c],ok,ok,ok,ok,N/A
+GLXO1,glx[c] + h2o[c] + nad[c] --> 2.0 h[c] + nadh[c] + oxa[c],ok,ok,ok,ok,N/A
+GLYabcpp,atp[c] + gly[p] + h2o[c] --> adp[c] + gly[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+GLYALDDr,glyald[c] + h2o[c] + nad[c] --> glyc__R[c] + 2.0 h[c] + nadh[c],ok,ok,ok,ok,N/A
+GLYAT,accoa[c] + gly[c] <=> 2aobut[c] + coa[c],ok,ok,GLYATi,GLYATi,N/A
+GLYATi,2aobut[c] + coa[c] --> accoa[c] + gly[c],ok,ok,GLYAT,GLYAT,N/A
+GLYBabc,atp[c] + glyb[e] + h2o[c] --> adp[c] + glyb[c] + h[c] + pi[c],glyb[e];glyb[c],ok,ok,ok,N/A
+GLYBabcpp,atp[c] + glyb[p] + h2o[c] --> adp[c] + glyb[c] + h[c] + pi[c],glyb[p];glyb[c],ok,ok,ok,N/A
+GLYBtex,glyb[e] <=> glyb[p],glyb[e];glyb[p],ok,ok,ok,N/A
+GLYC2Pabcpp,atp[c] + glyc2p[p] + h2o[c] --> adp[c] + glyc2p[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+GLYC2Ptex,glyc2p[e] <=> glyc2p[p],only when going backwards,ok,ok,ok,N/A
+GLYC3Pabc,atp[c] + glyc3p[e] + h2o[c] --> adp[c] + glyc3p[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+GLYC3Pabcpp,atp[c] + glyc3p[p] + h2o[c] --> adp[c] + glyc3p[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+GLYCK,atp[c] + glyc__R[c] --> 3pg[c] + adp[c] + h[c],ok,ok,ok,ok,N/A
+GLYCK2,atp[c] + glyc__R[c] --> 2pg[c] + adp[c] + h[c],ok,ok,ok,ok,N/A
+GLYCL,gly[c] + nad[c] + thf[c] --> co2[c] + mlthf[c] + nadh[c] + nh4[c],ok,ok,GLYCL_2,GLYCL_2,N/A
+GLYCL_2,co2[c] + mlthf[c] + nadh[c] + nh4[c] --> gly[c] + nad[c] + thf[c],ok,ok,GLYCL,GLYCL,N/A
+GLYCLTDx,glx[c] + h[c] + nadh[c] --> glyclt[c] + nad[c],ok,ok,ok,ok,N/A
+GLYCOGENt,glycogen[e] --> glycogen[c],ok,ok,ok,ok,N/A
+GLYCt1,glyc[e] --> glyc[c],ok,ok,ok,ok,N/A
+GLYCtex,glyc[e] <=> glyc[p],ok,ok,ok,ok,N/A
+GLYCTO1,glyclt[c] + o2[c] --> glx[c] + h2o2[c],ok,ok,ok,ok,N/A
+GLYCTO2,glyclt[c] + q8[c] --> glx[c] + q8h2[c],ok,ok,ok,ok,N/A
+GLYCTO3,glyclt[c] + mqn8[c] --> glx[c] + mql8[c],ok,ok,ok,ok,N/A
+GLYCTO4,2dmmq8[c] + glyclt[c] --> 2dmmql8[c] + glx[c],ok,ok,ok,ok,N/A
+GLYCtpp,glyc[c] <=> glyc[p],ok,ok,ok,ok,N/A
+GLYK,atp[c] + glyc[c] --> adp[c] + glyc3p[c] + h[c],ok,ok,ok,ok,N/A
+GLYOX,h2o[c] + lgt__S[c] --> gthrd[c] + h[c] + lac__D[c],ok,ok,ok,ok,N/A
+GLYtex,gly[e] <=> gly[p],only when going backwards,ok,ok,ok,N/A
+GM2LIPAabcpp,atp[c] + h2o[c] + hghhlipan[c] --> adp[c] + h[c] + hghhlipan[p] + pi[c],ok,ok,ok,ok,N/A
+GM2LIPAabctex,atp[c] + gm2lipa[p] + h2o[c] --> adp[c] + gm2lipa[e] + h[c] + pi[c],ok,ok,ok,ok,N/A
+GMHEPAT,atp[c] + gmhep1p[c] + h[c] --> adphep_DD[c] + ppi[c],ok,ok,ok,ok,N/A
+GMHEPK,atp[c] + gmhep7p[c] --> adp[c] + gmhep17bp[c] + h[c],ok,ok,ok,ok,N/A
+GMHEPPA,gmhep17bp[c] + h2o[c] --> gmhep1p[c] + pi[c],ok,ok,ok,ok,N/A
+GMPS,atp[c] + nh4[c] + xmp[c] --> amp[c] + gmp[c] + 2.0 h[c] + ppi[c],ok,ok,ok,ok,N/A
+GMPS2,atp[c] + gln__L[c] + h2o[c] + xmp[c] --> amp[c] + glu__L[c] + gmp[c] + 2.0 h[c] + ppi[c],ok,ok,ok,ok,N/A
+GMPtex,gmp[e] <=> gmp[p],only when going backwards,ok,ok,ok,N/A
+GND,6pgc[c] + nadp[c] --> co2[c] + nadph[c] + ru5p__D[c],ok,ok,ok,ok,N/A
+GNK,atp[c] + glcn[c] --> 6pgc[c] + adp[c] + h[c],ok,ok,ok,ok,N/A
+GNKr,atp[c] + glcn__D[c] --> 6pgc[c] + adp[c] + h[c],ok,ok,ok,ok,N/A
+GPDDA1,g3pc[c] + h2o[c] --> chol[c] + glyc3p[c] + h[c],g3pc[c];chol[c],ok,ok,ok,N/A
+GPDDA2,g3pe[c] + h2o[c] --> etha[c] + glyc3p[c] + h[c],g3pe[c];etha[c],ok,ok,ok,N/A
+GPDDA3,g3ps[c] + h2o[c] --> glyc3p[c] + h[c] + ser__L[c],ok,ok,ok,ok,N/A
+GPDDA4,g3pg[c] + h2o[c] --> glyc3p[c] + glyc[c] + h[c],ok,ok,ok,ok,N/A
+GPDDA5,g3pi[c] + h2o[c] --> glyc3p[c] + h[c] + inost[c],ok,ok,ok,ok,N/A
+GRTT,grdp[c] + ipdp[c] --> frdp[c] + ppi[c],ok,ok,ok,ok,N/A
+GSNt2pp,gsn[p] + h[p] --> gsn[c] + h[c],ok,ok,ok,ok,N/A
+GSPMDA,gtspmd[c] + h2o[c] --> gthrd[c] + spmd[c],ok,ok,ok,ok,N/A
+GSPMDS,atp[c] + gthrd[c] + spmd[c] --> adp[c] + gtspmd[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+GTHOr,gthox[c] + h[c] + nadph[c] <=> 2.0 gthrd[c] + nadp[c],only when going backwards,ok,ok,ok,N/A
+GTHPi,2.0 gthrd[c] + h2o2[c] --> gthox[c] + 2.0 h2o[c],ok,ok,ok,ok,N/A
+GTHRDabc2pp,atp[c] + gthrd[c] + h2o[c] --> adp[c] + gthrd[p] + h[c] + pi[c],ok,ok,ok,GTHRDabcpp,N/A
+GTHRDabcpp,atp[c] + gthrd[p] + h2o[c] --> adp[c] + gthrd[c] + h[c] + pi[c],ok,ok,ok,GTHRDabc2pp,N/A
+GTHRDHpp,gthrd[p] + h2o[p] --> cgly[p] + glu__L[p],ok,ok,ok,ok,N/A
+GTHS,atp[c] + glucys[c] + gly[c] --> adp[c] + gthrd[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+GTMLT,ala__L[c] + gthrd[c] --> cgly[c] + gluala[c],ok,ok,ok,ok,N/A
+GTPCI,gtp[c] + h2o[c] --> ahdt[c] + for[c] + h[c],ok,ok,ok,ok,N/A
+GTPCII,gtp[c] + 3.0 h2o[c] --> 25dhpp[c] + for[c] + 2.0 h[c] + ppi[c],ok,ok,ok,ok,N/A
+GTPCII2,gtp[c] + 3.0 h2o[c] --> 25drapp[c] + for[c] + 2.0 h[c] + ppi[c],ok,ok,ok,ok,N/A
+GTPDPK,atp[c] + gtp[c] --> amp[c] + gdptp[c] + h[c],ok,ok,ok,ok,N/A
+GTPH1,gtp[c] + 2.0 h2o[c] --> gmp[c] + 2.0 h[c] + 2.0 pi[c],ok,ok,ok,ok,N/A
+GTPHs,gtp[c] + h2o[c] + h[c] --> nh4[c] + xtp[c],ok,ok,ok,ok,N/A
+GUAD,gua[c] + h2o[c] + h[c] --> nh4[c] + xan[c],ok,ok,ok,ok,N/A
+GUAPRT,gua[c] + prpp[c] --> gmp[c] + ppi[c],ok,ok,ok,ok,N/A
+GUAtex,gua[e] <=> gua[p],gua[e];gua[p],ok,ok,ok,N/A
+GUDBUTNAH,4gudbutn[c] + h2o[c] --> 4abut[c] + urea[c],ok,ok,ok,ok,N/A
+H2CO3D,co2[c] + h2o[c] <=> h2co3[c],h2co3[c],ok,ok,ok,N/A
+H2Otex,h2o[e] <=> h2o[p],ok,ok,ok,ok,N/A
+H2Otpp,h2o[p] <=> h2o[c],ok,ok,ok,ok,N/A
+H2St,h2s[e] <=> h2s[c],ok,ok,ok,ok,N/A
+H2tex,h2[e] <=> h2[p],ok,ok,ok,ok,N/A
+H2tpp,h2[p] <=> h2[c],ok,ok,ok,ok,N/A
+HACD1,aacoa[c] + h[c] + nadh[c] <=> 3hbcoa[c] + nad[c],ok,ok,ok,ok,N/A
+HACD2,3ohcoa[c] + h[c] + nadh[c] <=> 3hhcoa[c] + nad[c],ok,ok,ok,ok,N/A
+HACD3,3oocoa[c] + h[c] + nadh[c] <=> 3hocoa[c] + nad[c],ok,ok,ok,ok,N/A
+HACD4,3odcoa[c] + h[c] + nadh[c] <=> 3hdcoa[c] + nad[c],ok,ok,ok,ok,N/A
+HACD5,3oddcoa[c] + h[c] + nadh[c] <=> 3hddcoa[c] + nad[c],only when going forwards,ok,ok,ok,N/A
+HACD6,3otdcoa[c] + h[c] + nadh[c] <=> 3htdcoa[c] + nad[c],ok,ok,ok,ok,N/A
+HACD7,3ohdcoa[c] + h[c] + nadh[c] <=> 3hhdcoa[c] + nad[c],ok,ok,ok,ok,N/A
+HACD8,3ohodcoa[c] + h[c] + nadh[c] <=> 3hodcoa[c] + nad[c],ok,ok,ok,ok,N/A
+HACD9,3hmbcoa[c] + nad[c] <=> 2maacoa[c] + h[c] + nadh[c],only when going backwards,ok,ok,ok,N/A
+HADPCOADH3,3hadpcoa[c] + nad[c] <=> h[c] + nadh[c] + oxadpcoa[c],only when going backwards,ok,ok,ok,N/A
+HBZOPT,4hbz[c] + octdp[c] --> 3ophb[c] + ppi[c],ok,ok,ok,ok,N/A
+HCINNMt2r,3hcinnm[e] + h[e] <=> 3hcinnm[c] + h[c],only when going backwards,ok,ok,ok,N/A
+HCINNMt2rpp,3hcinnm[p] + h[p] <=> 3hcinnm[c] + h[c],3hcinnm[p],ok,ok,ok,N/A
+HCO3E,co2[c] + h2o[c] <=> h[c] + hco3[c],ok,ok,ok,ok,N/A
+HCO3tex,hco3[e] <=> hco3[p],only when going backwards,ok,ok,ok,N/A
+HCYSMT,amet[c] + hcys__L[c] --> ahcys[c] + h[c] + met__L[c],ok,ok,ok,ok,N/A
+HEPT1N,adphep_LD[c] + lipan[c] --> adp[c] + h[c] + hlipan[c],ok,ok,ok,ok,N/A
+HEPT2N,adphep_LD[c] + hlipan[c] --> adp[c] + h[c] + hhlipan[c],ok,ok,ok,ok,N/A
+HEPT5N,adphep_LD[c] + ghhlipan[c] --> adp[c] + h[c] + hghhlipan[c],ok,ok,ok,ok,N/A
+HEX1,atp[c] + glc__D[c] --> adp[c] + g6p[c] + h[c],ok,ok,ok,ok,N/A
+HEX4,atp[c] + man[c] --> adp[c] + h[c] + man6p[c],ok,ok,ok,ok,N/A
+HEX7,atp[c] + fru[c] --> adp[c] + f6p[c] + h[c],ok,ok,ok,ok,N/A
+HEXSabc,atp[c] + h2o[c] + hexs[e] --> adp[c] + h[c] + hexs[c] + pi[c],ok,ok,ok,ok,N/A
+HEXt2rpp,h[p] + hxa[p] <=> h[c] + hxa[c],only when going forwards,ok,ok,ok,N/A
+HG2t3pp,h[p] + hg2[c] --> h[c] + hg2[p],hg2[c];hg2[p],ok,ok,ok,N/A
+HG2tex,hg2[e] <=> hg2[p],hg2[e];hg2[p],ok,ok,ok,N/A
+HGNTOR,hgentis[c] + o2[c] --> 4mlacac[c] + h[c],ok,ok,ok,ok,N/A
+HHDDI,2hh24dd[c] <=> 2ohed[c],only when going backwards,ok,ok,ok,N/A
+HIBDkt,3hmp[c] + nad[c] --> h[c] + mmtsa[c] + nadh[c],ok,ok,ok,ok,N/A
+HISabc,atp[c] + h2o[c] + his__L[e] --> adp[c] + h[c] + his__L[c] + pi[c],ok,ok,ok,ok,N/A
+HISabcpp,atp[c] + h2o[c] + his__L[p] --> adp[c] + h[c] + his__L[c] + pi[c],ok,ok,ok,ok,N/A
+HISDr,his__L[c] --> nh4[c] + urcan[c],ok,ok,ok,ok,N/A
+HISTD,h2o[c] + histd[c] + 2.0 nad[c] --> 3.0 h[c] + his__L[c] + 2.0 nadh[c],ok,ok,ok,ok,N/A
+HIStex,his__L[e] <=> his__L[p],only when going backwards,ok,ok,ok,N/A
+HISTP,h2o[c] + hisp[c] --> histd[c] + pi[c],ok,ok,ok,ok,N/A
+HKNDDH,h2o[c] + hkndd[c] --> h[c] + op4en[c] + succ[c],ok,ok,ok,ok,N/A
+HKNTDH,h2o[c] + hkntd[c] --> fum[c] + h[c] + op4en[c],ok,ok,ok,ok,N/A
+HKtpp,atp[c] + h2o[c] + k[p] --> adp[c] + h[p] + k[c] + pi[c],ok,ok,ok,ok,N/A
+HMBS,h2o[c] + 4.0 ppbng[c] --> hmbil[c] + 4.0 nh4[c],ok,ok,ok,ok,N/A
+HMGCOASi,aacoa[c] + accoa[c] + h2o[c] --> coa[c] + h[c] + hmgcoa[c],ok,ok,ok,ok,N/A
+HMGL,hmgcoa[c] --> acac[c] + accoa[c],ok,ok,ok,ok,N/A
+HMPK1,4ahmmp[c] + atp[c] --> 4ampm[c] + adp[c] + h[c],ok,ok,ok,ok,N/A
+HMPK2,4ahmmp[c] + ctp[c] --> 4ampm[c] + cdp[c] + h[c],ok,ok,ok,ok,N/A
+HMPK3,4ahmmp[c] + utp[c] --> 4ampm[c] + h[c] + udp[c],ok,ok,ok,ok,N/A
+HMPK4,4ahmmp[c] + gtp[c] --> 4ampm[c] + gdp[c] + h[c],ok,ok,ok,ok,N/A
+HMSH,2hmcnsad[c] + h2o[c] --> for[c] + 2.0 h[c] + op4en[c],ok,ok,ok,ok,N/A
+HMSH2,h2o[c] + hmccms[c] --> 2hchd[c] + for[c] + h[c],ok,ok,ok,ok,N/A
+HOPNTAL2,4hoxoh[c] --> ppal[c] + pyr[c],ok,ok,ok,ok,N/A
+HOPNTAL3,4h2opntn[c] --> acald[c] + pyr[c],ok,ok,ok,ok,N/A
+HOXPRx,glyc__R[c] + nad[c] <=> 2h3opp[c] + h[c] + nadh[c],only when going forwards,ok,ok,ok,N/A
+HPA3MO,4hphac[c] + h[c] + nadh[c] + o2[c] --> 34dhpha[c] + h2o[c] + nad[c],ok,ok,ok,ok,N/A
+HPAtex,4hphac[e] <=> 4hphac[p],only when going backwards,ok,ok,ok,N/A
+HPPK,2ahhmp[c] + atp[c] --> 2ahhmd[c] + amp[c] + h[c],ok,ok,ok,ok,N/A
+HPPK2,6hmhpt[c] + atp[c] --> 6hmhptpp[c] + amp[c] + h[c],ok,ok,ok,ok,N/A
+HPPPNDO,dhpppn[c] + o2[c] --> h[c] + hkndd[c],ok,ok,ok,ok,N/A
+HPPPNt2r,3hpppn[e] + h[e] <=> 3hpppn[c] + h[c],only when going backwards,ok,ok,ok,N/A
+HPPPNt2rpp,3hpppn[p] + h[p] <=> 3hpppn[c] + h[c],3hpppn[p],ok,ok,ok,N/A
+HPYRRx,h[c] + hpyr[c] + nadh[c] --> glyc__R[c] + nad[c],ok,ok,ok,ok,N/A
+HQNt6,h[e] + hqn[e] <=> h[c] + hqn[c],only when going forwards,ok,ok,ok,N/A
+HSDy,hom__L[c] + nadp[c] <=> aspsa[c] + h[c] + nadph[c],only when going forwards,ok,ok,ok,N/A
+HSERTA,accoa[c] + hom__L[c] <=> achms[c] + coa[c],only when going backwards,ok,ok,ok,N/A
+HSK,atp[c] + hom__L[c] --> adp[c] + h[c] + phom[c],ok,ok,ok,ok,N/A
+HSST,hom__L[c] + succoa[c] --> coa[c] + suchms[c],ok,ok,ok,ok,N/A
+HSTPT,glu__L[c] + imacp[c] --> akg[c] + hisp[c],ok,ok,ok,ok,N/A
+Htex,h[e] <=> h[p],ok,ok,ok,ok,N/A
+HXAND,h2o[c] + hxan[c] + nad[c] --> h[c] + nadh[c] + xan[c],ok,ok,ok,ok,N/A
+HXCT,accoa[c] + hxa[c] --> ac[c] + hxcoa[c],ok,ok,ok,ok,N/A
+HXPRT,hxan[c] + prpp[c] --> imp[c] + ppi[c],ok,ok,ok,ok,N/A
+HYD1,h2[c] + 2.0 h[c] + q8[c] --> 2.0 h[e] + q8h2[c],ok,ok,ok,ok,N/A
+HYD1pp,h2[c] + 2.0 h[c] + q8[c] --> 2.0 h[p] + q8h2[c],ok,ok,ok,ok,N/A
+HYD2,h2[c] + 2.0 h[c] + mqn8[c] --> 2.0 h[e] + mql8[c],ok,ok,ok,ok,N/A
+HYD2pp,h2[c] + 2.0 h[c] + mqn8[c] --> 2.0 h[p] + mql8[c],ok,ok,ok,ok,N/A
+HYD3,2dmmq8[c] + h2[c] + 2.0 h[c] --> 2dmmql8[c] + 2.0 h[e],ok,ok,ok,ok,N/A
+HYD3pp,2dmmq8[c] + h2[c] + 2.0 h[c] --> 2dmmql8[c] + 2.0 h[p],ok,ok,ok,ok,N/A
+HYDA1,h2[e] + 2.0 h[c] + mqn6[c] --> 2.0 h[e] + mql6[c],ok,ok,ok,ok,N/A
+HYPOE,h2o[c] + pyam5p[c] --> pi[c] + pydam[c],ok,ok,ok,ok,N/A
+HYXNtex,hxan[e] <=> hxan[p],hxan[e];hxan[p],ok,ok,ok,N/A
+I2FE2SR,2fe1s[c] + iscssh[c] + iscu[c] --> 4.0 h[c] + iscs[c] + iscu_2fe2s[c],ok,ok,ok,ok,N/A
+I2FE2SS2,fadh2[c] + 2.0 fe2[c] + 2.0 iscssh[c] + iscu_2fe2s[c] --> fad[c] + 6.0 h[c] + 2.0 iscs[c] + iscu_2fe2s2[c],ok,ok,ok,ok,N/A
+I2FE2ST,4.0 h[c] + iscu_2fe2s[c] --> 2fe2s[c] + iscu[c],ok,ok,ok,ok,N/A
+I4FE4SR,fadh2[c] + 2.0 h[c] + iscu_2fe2s2[c] --> fad[c] + iscu_4fe4s[c],ok,ok,ok,ok,N/A
+I4FE4ST,4.0 h[c] + iscu_4fe4s[c] --> 4fe4s[c] + iscu[c],ok,ok,ok,ok,N/A
+IBTMr,btcoa[c] <=> ibcoa[c],ok,ok,ok,ok,N/A
+IBTtex,ibt[e] <=> ibt[p],only when going backwards,ok,ok,ok,N/A
+ICDHyr,icit[c] + nadp[c] <=> akg[c] + co2[c] + nadph[c],ok,ok,ok,ok,N/A
+ICITt_kt,h[p] + icit[p] <=> h[c] + icit[c],icit[p],ok,ok,ok,N/A
+ICL,icit[c] --> glx[c] + succ[c],ok,ok,ok,ok,N/A
+ICYSDS,cys__L[c] + iscs[c] --> ala__L[c] + iscssh[c],ok,ok,ok,ok,N/A
+IDONt2r,h[e] + idon__L[e] <=> h[c] + idon__L[c],idon__L[e];idon__L[c],ok,ok,ok,N/A
+IDONt2rpp,h[p] + idon__L[p] <=> h[c] + idon__L[c],idon__L[p];idon__L[c],ok,ok,ok,N/A
+IG3PS,gln__L[c] + prlp[c] --> aicar[c] + eig3p[c] + glu__L[c] + h[c],ok,ok,ok,ok,N/A
+IGPDH,eig3p[c] --> h2o[c] + imacp[c],ok,ok,ok,ok,N/A
+IGPS,2cpr5p[c] + h[c] --> 3ig3p[c] + co2[c] + h2o[c],ok,ok,ok,ok,N/A
+ILEabc,atp[c] + h2o[c] + ile__L[e] --> adp[c] + h[c] + ile__L[c] + pi[c],ok,ok,ok,ok,N/A
+ILEabcpp,atp[c] + h2o[c] + ile__L[p] --> adp[c] + h[c] + ile__L[c] + pi[c],ok,ok,ok,ok,N/A
+ILEDHr,h2o[c] + ile__L[c] + nad[c] <=> 2o3mpt[c] + h[c] + nadh[c] + nh4[c],only when going forwards,ok,ok,ok,N/A
+ILETA,akg[c] + ile__L[c] <=> 3mop[c] + glu__L[c],ok,ok,ok,ok,N/A
+ILEtex,ile__L[e] <=> ile__L[p],only when going backwards,ok,ok,ok,N/A
+IMPC,h2o[c] + imp[c] <=> fprica[c],only when going forwards,ok,ok,ok,N/A
+IMPD,h2o[c] + imp[c] + nad[c] --> h[c] + nadh[c] + xmp[c],ok,ok,ok,ok,N/A
+IMPtex,imp[e] <=> imp[p],only when going backwards,ok,ok,ok,N/A
+INOSR,inost[c] + nadp[c] <=> 2ins[c] + h[c] + nadph[c],ok,ok,ok,ok,N/A
+INS2D,inost[c] + nad[c] --> 2ins[c] + h[c] + nadh[c],ok,ok,ok,ok,N/A
+INSCR,2ins[c] + atp[c] --> adp[c] + dhap[c] + 2.0 h[c] + msa[c],ok,ok,ok,ok,N/A
+INSt2pp,h[p] + ins[p] <=> h[c] + ins[c],only when going backwards,ok,ok,ok,N/A
+INSTabc,atp[c] + h2o[c] + inost[e] --> adp[c] + h[c] + inost[c] + pi[c],ok,ok,ok,ok,N/A
+IPDDI,ipdp[c] <=> dmpp[c],ok,ok,ok,ok,N/A
+IPDPS,h2mb4p[c] + h[c] + nadh[c] --> h2o[c] + ipdp[c] + nad[c],ok,ok,ok,ok,N/A
+IPMD,3c2hmp[c] + nad[c] --> 3c4mop[c] + h[c] + nadh[c],ok,ok,ok,ok,N/A
+IPPMIa,3c2hmp[c] <=> 2ippm[c] + h2o[c],only when going forwards,ok,ok,ok,N/A
+IPPMIb,2ippm[c] + h2o[c] <=> 3c3hmp[c],only when going forwards,ok,ok,ok,N/A
+IPPS,3mob[c] + accoa[c] + h2o[c] --> 3c3hmp[c] + coa[c] + h[c],ok,ok,ok,ok,N/A
+ISETACabcpp,atp[c] + h2o[c] + isetac[p] --> adp[c] + h[c] + isetac[c] + pi[c],ok,ok,ok,ok,N/A
+ISETACtex,isetac[e] <=> isetac[p],only when going backwards,ok,ok,ok,N/A
+ISTNTabc,atp[c] + h2o[c] + istnt[e] --> adp[c] + h[c] + istnt[c] + pi[c],ok,ok,ok,ok,N/A
+ITCY,cytd[c] + itp[c] --> cmp[c] + h[c] + idp[c],ok,ok,ok,ok,N/A
+IZPN,4izp[c] + h2o[c] --> forglu[c] + h[c],ok,ok,ok,ok,N/A
+IZPN_1,4izp[c] + h2o[c] --> forglu[c],ok,ok,ok,ok,N/A
+Kabc,atp[c] + h2o[c] + k[e] --> adp[c] + h[c] + k[c] + pi[c],ok,ok,ok,ok,N/A
+Kabcpp,atp[c] + h2o[c] + k[p] --> adp[c] + h[c] + k[c] + pi[c],ok,ok,ok,ok,N/A
+KARA1,23dhmb[c] + nadp[c] <=> alac__S[c] + h[c] + nadph[c],ok,ok,KARA1i,KARA1i,N/A
+KARA1i,alac__S[c] + h[c] + nadph[c] --> 23dhmb[c] + nadp[c],ok,ok,KARA1,KARA1,N/A
+KARA2,2ahbut[c] + h[c] + nadph[c] <=> 23dhmp[c] + nadp[c],only when going backwards,ok,ok,ok,N/A
+KAS1,14.0 h[c] + ibcoa[c] + 5.0 malcoa[c] + 10.0 nadph[c] --> 5.0 co2[c] + 6.0 coa[c] + fa1[c] + 4.0 h2o[c] + 10.0 nadp[c],ok,ok,ok,ok,N/A
+KAS11,17.0 h[c] + ivcoa[c] + 6.0 malcoa[c] + 12.0 nadph[c] --> 6.0 co2[c] + 7.0 coa[c] + fa11[c] + 5.0 h2o[c] + 12.0 nadp[c],ok,ok,ok,ok,N/A
+KAS12,2mbcoa[c] + 17.0 h[c] + 6.0 malcoa[c] + 12.0 nadph[c] --> 6.0 co2[c] + 7.0 coa[c] + fa12[c] + 5.0 h2o[c] + 12.0 nadp[c],ok,ok,ok,ok,N/A
+KAS13,accoa[c] + 23.0 h[c] + 8.0 malcoa[c] + 16.0 nadph[c] --> 8.0 co2[c] + 9.0 coa[c] + 7.0 h2o[c] + 16.0 nadp[c] + ocdca[c],ok,ok,ok,ok,N/A
+KAS14,acACP[c] + h[c] + malACP[c] --> ACP[c] + actACP[c] + co2[c],ok,ok,ok,ok,N/A
+KAS15,accoa[c] + h[c] + malACP[c] --> actACP[c] + co2[c] + coa[c],ok,ok,ok,ok,N/A
+KAS16,ddcaACP[c] + 2.0 h[c] + malACP[c] + nadph[c] --> 3hmrsACP[c] + ACP[c] + co2[c] + nadp[c],ok,ok,ok,ok,N/A
+KAS17,accoa[c] + 22.0 h[c] + 8.0 malcoa[c] + 15.0 nadph[c] --> 8.0 co2[c] + 9.0 coa[c] + 7.0 h2o[c] + 15.0 nadp[c] + ocdcea[c],ok,ok,ok,ok,N/A
+KAS2,accoa[c] + 17.0 h[c] + 6.0 malcoa[c] + 12.0 nadph[c] --> 6.0 co2[c] + 7.0 coa[c] + 5.0 h2o[c] + 12.0 nadp[c] + ttdca[c],ok,ok,ok,ok,N/A
+KAS3,14.0 h[c] + ivcoa[c] + 5.0 malcoa[c] + 10.0 nadph[c] --> 5.0 co2[c] + 6.0 coa[c] + fa3[c] + 4.0 h2o[c] + 10.0 nadp[c],ok,ok,ok,ok,N/A
+KAS4,2mbcoa[c] + 14.0 h[c] + 5.0 malcoa[c] + 10.0 nadph[c] --> 5.0 co2[c] + 6.0 coa[c] + fa4[c] + 4.0 h2o[c] + 10.0 nadp[c],ok,ok,ok,ok,N/A
+KAS6,17.0 h[c] + ibcoa[c] + 6.0 malcoa[c] + 12.0 nadph[c] --> 6.0 co2[c] + 7.0 coa[c] + fa6[c] + 5.0 h2o[c] + 12.0 nadp[c],ok,ok,ok,ok,N/A
+KAS7,accoa[c] + 19.0 h[c] + 7.0 malcoa[c] + 13.0 nadph[c] --> 7.0 co2[c] + 8.0 coa[c] + 6.0 h2o[c] + hdcea[c] + 13.0 nadp[c],ok,ok,ok,ok,N/A
+KAS8,accoa[c] + 20.0 h[c] + 7.0 malcoa[c] + 14.0 nadph[c] --> 7.0 co2[c] + 8.0 coa[c] + 6.0 h2o[c] + hdca[c] + 14.0 nadp[c],ok,ok,ok,ok,N/A
+KAS_HP,2.0 h[c] + malACP[c] + myrsACP[c] + nadph[c] --> 3hpalmACP[c] + ACP[c] + co2[c] + nadp[c],ok,ok,ok,ok,N/A
+KAS_HP2,2.0 h[c] + malACP[c] + nadph[c] + palmACP[c] --> 3hoctaACP[c] + ACP[c] + co2[c] + nadp[c],ok,ok,ok,ok,N/A
+KAT1,aacoa[c] + coa[c] --> 2.0 accoa[c],ok,ok,ACACT1r,ACACT1r,N/A
+KAT2,3ohcoa[c] + coa[c] --> accoa[c] + btcoa[c],ok,ok,ACACT2r,ACACT2r,N/A
+KAT3,3oocoa[c] + coa[c] --> accoa[c] + hxcoa[c],ok,ok,ACACT3r,ACACT3r,N/A
+KAT4,3odcoa[c] + coa[c] --> accoa[c] + occoa[c],ok,ok,ACACT4r,ACACT4r,N/A
+KAT5,3oddcoa[c] + coa[c] --> accoa[c] + dcacoa[c],ok,ok,ACACT5r,ACACT5r,N/A
+KAT6,3otdcoa[c] + coa[c] --> accoa[c] + ddcacoa[c],ok,ok,ACACT6r,ACACT6r,N/A
+KAT7,3ohdcoa[c] + coa[c] --> accoa[c] + tdcoa[c],ok,ok,ACACT7r,ACACT7r,N/A
+KDOCT2,ctp[c] + kdo[c] --> ckdo[c] + ppi[c],ok,ok,ok,ok,N/A
+KDOPP,h2o[c] + kdo8p[c] --> kdo[c] + pi[c],ok,ok,ok,ok,N/A
+KDOPS,ara5p[c] + h2o[c] + pep[c] --> kdo8p[c] + pi[c],ok,ok,ok,ok,N/A
+Kt1,k[e] --> k[c],ok,ok,ok,ok,N/A
+Kt2pp,h[p] + k[p] --> h[c] + k[c],ok,ok,ok,Kt3pp,N/A
+Kt2r,h[e] + k[e] --> h[c] + k[c],ok,ok,ok,Kt3r,N/A
+Kt3pp,h[p] + k[c] --> h[c] + k[p],ok,ok,ok,Kt2pp,N/A
+Kt3r,h[e] + k[c] --> h[c] + k[e],ok,ok,ok,Kt2r,N/A
+Ktex,k[e] <=> k[p],ok,ok,ok,ok,N/A
+LA4NTGM2pp,hghhlipan[p] + uLa4n[p] --> gm2lipa[p] + udcpp[p],ok,ok,ok,ok,N/A
+LACZpp,h2o[p] + lcts[p] --> gal[p] + glc__D[p],ok,ok,ok,ok,N/A
+LALADGLUtex,LalaDglu[e] <=> LalaDglu[p],only when going backwards,ok,ok,ok,N/A
+LALADGLUtpp,LalaDglu[p] + h[p] --> LalaDglu[c] + h[c],ok,ok,ok,ok,N/A
+LALALGLUtex,LalaLglu[e] <=> LalaLglu[p],only when going backwards,ok,ok,ok,N/A
+LALALGLUtpp,LalaLglu[p] + h[p] --> LalaLglu[c] + h[c],ok,ok,ok,ok,N/A
+LALDO,gthrd[c] + lald__D[c] + nad[c] <=> h[c] + lgt__S[c] + nadh[c],only when going backwards,ok,ok,ok,N/A
+LALGP,LalaLglu[c] + h2o[c] --> ala__L[c] + glu__L[c],ok,ok,ok,ok,N/A
+LCADi,h2o[c] + lald__L[c] + nad[c] --> 2.0 h[c] + lac__L[c] + nadh[c],ok,ok,ok,ok,N/A
+LCARR,h[c] + lald__D[c] + nadh[c] <=> 12ppd__R[c] + nad[c],only when going forwards,ok,ok,ok,N/A
+LCTSabc,atp[c] + h2o[c] + lcts[e] --> adp[c] + h[c] + lcts[c] + pi[c],ok,ok,ok,ok,N/A
+LCTSt3ipp,h[p] + lcts[c] --> h[c] + lcts[p],ok,ok,ok,ok,N/A
+LCYSTabc,Lcyst[e] + atp[c] + h2o[c] --> Lcyst[c] + adp[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+LCYSTabcpp,Lcyst[p] + atp[c] + h2o[c] --> Lcyst[c] + adp[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+LCYSTtex,Lcyst[e] <=> Lcyst[p],only when going backwards,ok,ok,ok,N/A
+LDGUNPD,5pg35pg[c] + h2o[c] --> 2.0 gmp[c] + h[c],ok,ok,ok,ok,N/A
+LDH_D,lac__D[c] + nad[c] <=> h[c] + nadh[c] + pyr[c],only when going backwards,ok,ok,ok,N/A
+LEUabc,atp[c] + h2o[c] + leu__L[e] --> adp[c] + h[c] + leu__L[c] + pi[c],ok,ok,ok,ok,N/A
+LEUabcpp,atp[c] + h2o[c] + leu__L[p] --> adp[c] + h[c] + leu__L[c] + pi[c],ok,ok,ok,ok,N/A
+LEUTA,akg[c] + leu__L[c] <=> 4mop[c] + glu__L[c],ok,ok,ok,ok,N/A
+LEUtex,leu__L[e] <=> leu__L[p],only when going backwards,ok,ok,ok,N/A
+LIPO1S24_BS,2400.0 cdpglyc[c] + d12dg_BS[c] + 2400.0 udpg[c] --> 2400.0 cmp[c] + 4800.0 h[c] + lipo1_24_BS[c] + 2400.0 udp[c],ok,ok,ok,ok,N/A
+LIPO2S24_BS,2400.0 cdpglyc[c] + d12dg_BS[c] + 2400.0 uacgam[c] --> 2400.0 cmp[c] + 4800.0 h[c] + lipo2_24_BS[c] + 2400.0 udp[c],ok,ok,ok,ok,N/A
+LIPO3S24_BS,2400.0 ala__D[c] + 2400.0 atp[c] + 2400.0 cdpglyc[c] + d12dg_BS[c] + 2400.0 h2o[c] --> 2400.0 amp[c] + 2400.0 cmp[c] + 4800.0 h[c] + lipo3_24_BS[c] + 2400.0 ppi[c],ok,ok,ok,ok,N/A
+LIPO4S24_BS,2400.0 cdpglyc[c] + d12dg_BS[c] --> 2400.0 cmp[c] + 2400.0 h[c] + lipo4_24_BS[c],ok,ok,ok,ok,N/A
+LIPOCT,h[c] + ocACP[c] --> ACP[c] + octapb[c],ok,ok,ok,ok,N/A
+LIPOS,4fe4s[c] + 2.0 amet[c] + h[c] + nad[c] + octapb[c] --> 2fe2s[c] + 2.0 dad_5[c] + 2.0 fe2[c] + lipopb[c] + 2.0 met__L[c] + nadh[c],ok,ok,ok,ok,N/A
+L_LACD2,lac__L[c] + q8[c] --> pyr[c] + q8h2[c],ok,ok,ok,ok,N/A
+L_LACD3,lac__L[c] + mqn8[c] --> mql8[c] + pyr[c],ok,ok,ok,ok,N/A
+L_LACt3,h[e] + lac__L[c] --> h[c] + lac__L[e],ok,ok,ok,ok,N/A
+LLEUDr,h2o[c] + leu__L[c] + nad[c] <=> 4mop[c] + h[c] + nadh[c] + nh4[c],ok,ok,ok,ok,N/A
+LMNe,14.0 h2o[e] + lmn30[e] --> 15.0 lmn2[e],ok,ok,ok,ok,N/A
+LPADSSN,lipidXn[c] + u23gn[c] --> h[c] + lipidAdsn[c] + udp[c],ok,ok,ok,ok,N/A
+LPLIPAL1A160pp,1hdecg3p[p] + h2o[p] --> glyc3p[p] + h[p] + hdca[p],ok,ok,ok,ok,N/A
+LPLIPAL1G120pp,1agpg120[p] + h2o[p] --> ddca[p] + g3pg[p] + h[p],ok,ok,ok,ok,N/A
+LPLIPAL1G140pp,1agpg140[p] + h2o[p] --> g3pg[p] + h[p] + ttdca[p],ok,ok,ok,ok,N/A
+LPLIPAL1G160pp,1agpg160[p] + h2o[p] --> g3pg[p] + h[p] + hdca[p],ok,ok,ok,ok,N/A
+LPLIPAL1G180pp,1agpg180[p] + h2o[p] --> g3pg[p] + h[p] + ocdca[p],ok,ok,ok,ok,N/A
+LPLIPAL1G181pp,1agpg181[p] + h2o[p] --> g3pg[p] + h[p] + ocdcea[p],ok,ok,ok,ok,N/A
+LPLIPAL2E160,2agpe160[c] + h2o[c] --> g3pe[c] + h[c] + hdca[c],2agpe160[c];g3pe[c],ok,ok,ok,N/A
+LPLIPAL2E180,2agpe180[c] + h2o[c] --> g3pe[c] + h[c] + ocdca[c],2agpe180[c];g3pe[c],ok,ok,ok,N/A
+LPLIPAL2G141,2agpg141[c] + h2o[c] --> g3pg[c] + h[c] + ttdcea[c],ok,ok,ok,ok,N/A
+LPLIPAL2G161,2agpg161[c] + h2o[c] --> g3pg[c] + h[c] + hdcea[c],ok,ok,ok,ok,N/A
+LSERDHr,nadp[c] + ser__L[c] <=> 2amsa[c] + h[c] + nadph[c],ok,ok,ok,ok,N/A
+LYSabc,atp[c] + h2o[c] + lys__L[e] --> adp[c] + h[c] + lys__L[c] + pi[c],ok,ok,ok,ok,N/A
+LYSabcpp,atp[c] + h2o[c] + lys__L[p] --> adp[c] + h[c] + lys__L[c] + pi[c],ok,ok,ok,ok,N/A
+LYSMO,lys__L[c] + o2[c] --> 5apentam[c] + co2[c] + h2o[c] + h[c],ok,ok,ok,ok,N/A
+LYSt3pp,h[p] + lys__L[c] --> h[c] + lys__L[p],ok,ok,ok,ok,N/A
+LYSt3r,h[e] + lys__L[c] --> h[c] + lys__L[e],ok,ok,ok,ok,N/A
+LYStex,lys__L[e] <=> lys__L[p],ok,ok,ok,ok,N/A
+M1PD,mnl1p[c] + nad[c] <=> f6p[c] + h[c] + nadh[c],only when going backwards,ok,ok,ok,N/A
+MACACI,4mlacac[c] --> 4fumacac[c],ok,ok,ok,ok,N/A
+MACCOAT,2maacoa[c] + coa[c] --> accoa[c] + ppcoa[c],ok,ok,ok,ok,N/A
+MACPD,h[c] + malACP[c] --> acACP[c] + co2[c],ok,ok,ok,ok,N/A
+MAL6PG,h2o[c] + malt6p[c] --> g6p[c] + glc__D[c],ok,ok,ok,ok,N/A
+MALS,accoa[c] + glx[c] + h2o[c] --> coa[c] + h[c] + mal__L[c],ok,ok,ok,ok,N/A
+MALT,h2o[c] + malt[c] --> 2.0 glc__D[c],ok,ok,ok,ok,N/A
+MALTabc,atp[c] + h2o[c] + malt[e] --> adp[c] + h[c] + malt[c] + pi[c],ok,ok,ok,ok,N/A
+MALTabcpp,atp[c] + h2o[c] + malt[p] --> adp[c] + h[c] + malt[c] + pi[c],ok,ok,ok,ok,N/A
+MALTHPabc,atp[c] + h2o[c] + malthp[e] --> adp[c] + h[c] + malthp[c] + pi[c],ok,ok,ok,ok,N/A
+MALTHXabc,atp[c] + h2o[c] + malthx[e] --> adp[c] + h[c] + malthx[c] + pi[c],ok,ok,ok,ok,N/A
+MALTHXabcpp,atp[c] + h2o[c] + malthx[p] --> adp[c] + h[c] + malthx[c] + pi[c],ok,ok,ok,ok,N/A
+MALTHXtexi,malthx[e] --> malthx[p],ok,ok,ok,ok,N/A
+MALTPTabc,atp[c] + h2o[c] + maltpt[e] --> adp[c] + h[c] + maltpt[c] + pi[c],ok,ok,ok,ok,N/A
+MALTpts,malt[e] + pep[c] --> malt6p[c] + pyr[c],ok,ok,ok,ok,N/A
+MALTptspp,malt[p] + pep[c] --> malt6p[c] + pyr[c],ok,ok,ok,ok,N/A
+MALTtexi,malt[e] --> malt[p],ok,ok,ok,ok,N/A
+MALTTRabc,atp[c] + h2o[c] + malttr[e] --> adp[c] + h[c] + malttr[c] + pi[c],ok,ok,ok,ok,N/A
+MALTTTRabc,atp[c] + h2o[c] + maltttr[e] --> adp[c] + h[c] + maltttr[c] + pi[c],ok,ok,ok,ok,N/A
+MAN1PT,gtp[c] + h[c] + man1p[c] --> gdpmann[c] + ppi[c],ok,ok,ok,ok,N/A
+MAN1PT2,gdp[c] + h[c] + man1p[c] --> gdpmann[c] + pi[c],ok,ok,ok,ok,N/A
+MAN6PI,man6p[c] <=> f6p[c],ok,ok,ok,ok,N/A
+MANpts,man[e] + pep[c] --> man6p[c] + pyr[c],ok,ok,ok,ok,N/A
+MCD,h[c] + malcoa[c] --> accoa[c] + co2[c],ok,ok,ok,ok,N/A
+MCITL2,micit[c] <=> pyr[c] + succ[c],micit[c],ok,ok,ok,N/A
+MCOATA,ACP[c] + malcoa[c] <=> coa[c] + malACP[c],only when going backwards,ok,ok,ok,N/A
+MCSNAH,5mcsn[c] + h2o[c] + h[c] <=> nh4[c] + thym[c],5mcsn[c],ok,ok,ok,N/A
+MCTP1Aex,murein5p5p[e] --> ala__D[e] + murein5px4p[e],ok,ok,ok,ok,N/A
+MCTP1App,murein5p5p[p] --> ala__D[p] + murein5px4p[p],ok,ok,ok,ok,N/A
+MCTP1Bex,murein5p5p[e] --> alaala[e] + murein5px3p[e],ok,ok,ok,ok,N/A
+MCTP1Bpp,murein5p5p[p] --> alaala[p] + murein5px3p[p],ok,ok,ok,ok,N/A
+MCTP2Aex,murein5p5p5p[e] --> 2.0 ala__D[e] + murein5px4px4p[e],ok,ok,ok,ok,N/A
+MCTP2App,murein5p5p5p[p] --> 2.0 ala__D[p] + murein5px4px4p[p],ok,ok,ok,ok,N/A
+MDDCP1ex,h2o[e] + murein5px4p[e] --> ala__D[e] + murein4px4p[e],ok,ok,ok,ok,N/A
+MDDCP1pp,h2o[p] + murein5px4p[p] --> ala__D[p] + murein4px4p[p],ok,ok,ok,ok,N/A
+MDDCP2ex,h2o[e] + murein5px4px4p[e] --> ala__D[e] + murein4px4px4p[e],ok,ok,ok,ok,N/A
+MDDCP2pp,h2o[p] + murein5px4px4p[p] --> ala__D[p] + murein4px4px4p[p],ok,ok,ok,ok,N/A
+MDDCP3ex,h2o[e] + murein5p5p[e] --> ala__D[e] + murein5p4p[e],ok,ok,ok,ok,N/A
+MDDCP3pp,h2o[p] + murein5p5p[p] --> ala__D[p] + murein5p4p[p],ok,ok,ok,ok,N/A
+MDDCP4ex,h2o[e] + murein5p4p[e] --> ala__D[e] + murein4p4p[e],ok,ok,ok,ok,N/A
+MDDCP4pp,h2o[p] + murein5p4p[p] --> ala__D[p] + murein4p4p[p],ok,ok,ok,ok,N/A
+MDDCP5ex,h2o[e] + murein5p3p[e] --> ala__D[e] + murein4p3p[e],ok,ok,ok,ok,N/A
+MDDCP5pp,h2o[p] + murein5p3p[p] --> ala__D[p] + murein4p3p[p],ok,ok,ok,ok,N/A
+MDDEP1pp,h2o[p] + murein4px4p[p] --> murein4p4p[p],ok,ok,ok,ok,N/A
+MDDEP3pp,h2o[p] + murein5px4p[p] --> murein5p4p[p],ok,ok,ok,ok,N/A
+MDDEP4pp,h2o[p] + murein4px4px4p[p] --> murein4px4p4p[p],ok,ok,ok,ok,N/A
+MDH,mal__L[c] + nad[c] <=> h[c] + nadh[c] + oaa[c],ok,ok,ok,ok,N/A
+MDRPD,5mdru1p[c] --> dkmpp[c] + h2o[c],ok,ok,ok,ok,N/A
+ME1,mal__L[c] + nad[c] --> co2[c] + nadh[c] + pyr[c],ok,ok,ok,ok,N/A
+ME2,mal__L[c] + nadp[c] --> co2[c] + nadph[c] + pyr[c],ok,ok,ok,ok,N/A
+MECDPDH2,2mecdp[c] + nadh[c] --> h2mb4p[c] + h2o[c] + nad[c],ok,ok,ok,ok,N/A
+MECDPDH4,2mecdp[c] + fdxr_42[c] + h[c] --> fdxo_42[c] + h2mb4p[c] + h2o[c],ok,ok,ok,ok,N/A
+MECDPS,2p4c2me[c] --> 2mecdp[c] + cmp[c],ok,ok,ok,ok,N/A
+MEHLER,h[c] + nadph[c] + 0.5 o2[c] --> h2o[c] + nadp[c],ok,ok,ok,ok,N/A
+MELIBabc,atp[c] + h2o[c] + melib[e] --> adp[c] + h[c] + melib[c] + pi[c],ok,ok,ok,ok,N/A
+MELIBt3ipp,h[p] + melib[c] --> h[c] + melib[p],ok,ok,ok,ok,N/A
+MELIBtex,melib[e] <=> melib[p],only when going forwards,ok,ok,ok,N/A
+MEOHtex,meoh[e] <=> meoh[p],meoh[e];meoh[p],ok,ok,ok,N/A
+MEPCT,2me4p[c] + ctp[c] + h[c] --> 4c2me[c] + ppi[c],ok,ok,ok,ok,N/A
+METabc,atp[c] + h2o[c] + met__L[e] --> adp[c] + h[c] + met__L[c] + pi[c],ok,ok,ok,ok,N/A
+METAT,atp[c] + h2o[c] + met__L[c] --> amet[c] + pi[c] + ppi[c],ok,ok,ok,ok,N/A
+METB1,achms[c] + cys__L[c] --> ac[c] + cyst__L[c] + h[c],ok,ok,ok,ok,N/A
+METGL,h2o[c] + met__L[c] --> 2obut[c] + ch4s[c] + nh4[c],ok,ok,ok,ok,N/A
+METOX1s,h2o2[c] + met__L[c] --> h2o[c] + metsox_S__L[c],ok,ok,ok,ok,N/A
+METOX2s,h2o2[c] + met__L[c] --> h2o[c] + metsox_R__L[c],ok,ok,ok,ok,N/A
+METS,5mthf[c] + hcys__L[c] --> h[c] + met__L[c] + thf[c],ok,ok,ok,ok,N/A
+METSabc,atp[c] + h2o[c] + metox[e] --> adp[c] + h[c] + metox[c] + pi[c],ok,ok,ok,ok,N/A
+METSOXR1,metsox_S__L[c] + trdrd[c] --> h2o[c] + met__L[c] + trdox[c],ok,ok,ok,ok,N/A
+METSOXR2,metsox_R__L[c] + trdrd[c] --> h2o[c] + met__L[c] + trdox[c],ok,ok,ok,ok,N/A
+METSRabc,atp[c] + h2o[c] + metox__R[e] --> adp[c] + h[c] + metox__R[c] + pi[c],ok,ok,ok,ok,N/A
+METSR1,metox__R[c] + trdrd[c] --> h2o[c] + met__L[c] + trdox[c],ok,ok,ok,ok,N/A
+METSS1,metox[c] + trdrd[c] --> h2o[c] + met__L[c] + trdox[c],ok,ok,ok,ok,N/A
+MG2tex,mg2[e] <=> mg2[p],only when going backwards,ok,ok,ok,N/A
+MG2uabcpp,atp[c] + h2o[c] + mg2[p] --> adp[c] + h[c] + mg2[c] + pi[c],ok,ok,ok,ok,N/A
+MGSA,dhap[c] --> mthgxl[c] + pi[c],ok,ok,ok,ok,N/A
+MI1PP,h2o[c] + mi1p__D[c] --> inost[c] + pi[c],ok,ok,ok,ok,N/A
+MI1PS,g6p[c] --> mi1p__D[c],ok,ok,ok,ok,N/A
+MLDCP3App,h2o[p] + murein5px3p[p] --> alaala[p] + murein3px3p[p],ok,ok,ok,ok,N/A
+MLDEP1pp,h2o[p] + murein3px3p[p] --> murein3p3p[p],ok,ok,ok,ok,N/A
+MLDEP2pp,h2o[p] + murein5px3p[p] --> murein5p3p[p],ok,ok,ok,ok,N/A
+MLTG1,h2o[c] + malttr[c] --> glc__D[c] + malt[c],ok,ok,ok,ok,N/A
+MLTG2,h2o[c] + maltttr[c] --> glc__D[c] + malttr[c],ok,ok,ok,ok,N/A
+MLTGY1pp,murein4p4p[p] --> 2.0 anhgm4p[p],ok,ok,ok,ok,N/A
+MLTGY2pp,murein4p3p[p] --> anhgm3p[p] + anhgm4p[p],ok,ok,ok,ok,N/A
+MLTGY3pp,murein3p3p[p] --> 2.0 anhgm3p[p],ok,ok,ok,ok,N/A
+MLTGY4pp,murein4px4p4p[p] --> anhgm4p[p] + murein4px4p[p],ok,ok,ok,ok,N/A
+MLTP1,maltpt[c] + pi[c] <=> g1p[c] + maltttr[c],ok,ok,ok,ok,N/A
+MME,mmcoa__R[c] <=> mmcoa__S[c],only when going backwards,ok,ok,ok,N/A
+MMM,succoa[c] --> mmcoa__S[c],ok,ok,ok,ok,N/A
+MMM2,succoa[c] --> mmcoa__R[c],ok,ok,ok,ok,N/A
+MMSAD2,coa[c] + nad[c] + ppal[c] <=> h[c] + nadh[c] + ppcoa[c],ok,ok,ok,ok,N/A
+MMSAD3,coa[c] + msa[c] + nad[c] --> accoa[c] + co2[c] + nadh[c],ok,ok,ok,ok,N/A
+MMTSAO,coa[c] + mmtsa[c] + nad[c] --> co2[c] + nadh[c] + ppcoa[c],ok,ok,ok,ok,N/A
+MN2t3pp,h[p] + mn2[c] --> h[c] + mn2[p],ok,ok,ok,MNt2pp,N/A
+MN6PP,h2o[c] + man6p[c] --> man[c] + pi[c],ok,ok,ok,ok,N/A
+MNabc,atp[c] + h2o[c] + mn2[e] --> adp[c] + h[c] + mn2[c] + pi[c],ok,ok,ok,ok,N/A
+MNabc_1,atp[c] + h2o[c] + mn2[p] --> adp[c] + h[c] + mn2[c] + pi[c],ok,ok,ok,ok,N/A
+MNLDH2,mnl[c] + nad[c] --> fru[c] + h[c] + nadh[c],ok,ok,ok,ok,N/A
+MNLDHr,mnl[c] + nad[c] <=> h[c] + man[c] + nadh[c],only when going forwards,ok,ok,ok,N/A
+MNLpts,mnl[e] + pep[c] --> mnl1p[c] + pyr[c],ok,ok,ok,ok,N/A
+MNt2pp,h[p] + mn2[p] --> h[c] + mn2[c],ok,ok,ok,MN2t3pp,N/A
+MNtex,mn2[e] <=> mn2[p],ok,ok,ok,ok,N/A
+MOADSUx,iscssh[c] + moadamp[c] + nadh[c] --> amp[c] + iscs[c] + moadcosh[c] + nad[c],ok,ok,ok,ok,N/A
+MOAT2N,ckdo[c] + kdolipid4n[c] --> cmp[c] + h[c] + kdo2lipid4n[c],ok,ok,ok,ok,N/A
+MOATN,ckdo[c] + lipidAn[c] --> cmp[c] + h[c] + kdolipid4n[c],ok,ok,ok,ok,N/A
+MOBDabc,atp[c] + h2o[c] + mobd[e] --> adp[c] + h[c] + mobd[c] + pi[c],ok,ok,ok,ok,N/A
+MOBDabcpp,atp[c] + h2o[c] + mobd[p] --> adp[c] + h[c] + mobd[c] + pi[c],ok,ok,ok,ok,N/A
+MOBDtex,mobd[e] <=> mobd[p],only when going backwards,ok,ok,ok,N/A
+MOCOS,2.0 h[c] + mobd[c] + mptamp[c] --> amp[c] + cu2[c] + h2o[c] + moco[c],ok,ok,ok,ok,N/A
+MOHMT,3mob[c] + h2o[c] + mlthf[c] --> 2dhp[c] + thf[c],ok,ok,ok,ok,N/A
+MOTH,h2o[c] + motre[c] --> maltpt[c] + tre[c],ok,ok,ok,ok,N/A
+MOTS,malthp[c] --> motre[c],ok,ok,ok,ok,N/A
+MPTAT,atp[c] + h[c] + mpt[c] --> mptamp[c] + ppi[c],ok,ok,ok,ok,N/A
+MPTG,2.0 uaagmda[c] --> 2.0 h[c] + murein5p5p[p] + 2.0 udcpdp[c],ok,ok,ok,ok,N/A
+MPTG2,murein5p5p[p] + uaagmda[c] --> h[c] + murein5p5p5p[p] + udcpdp[c],ok,ok,ok,ok,N/A
+MPTG2ex,murein5p5p[e] + uaagmda[e] --> h[e] + murein5p5p5p[e] + udcpdp[e],ok,ok,ok,ok,N/A
+MPTGex,2.0 uaagmda[e] --> 2.0 h[e] + murein5p5p[e] + 2.0 udcpdp[e],ok,ok,ok,ok,N/A
+MPTS,cpmp[c] + cu2[c] + 2.0 moadcosh[c] --> 5.0 h[c] + 2.0 moadcoo[c] + mpt[c],ok,ok,ok,ok,N/A
+MPTSS,atp[c] + h[c] + moadcoo[c] --> moadamp[c] + ppi[c],ok,ok,ok,ok,N/A
+MSHAMID,bmnmsh[c] + h2o[c] --> acysbmn[c] + igam[c],ok,ok,ok,ok,N/A
+MSHS,accoa[c] + cigam[c] --> coa[c] + msh[c],ok,ok,ok,ok,N/A
+MSO3abc,atp[c] + h2o[c] + mso3[e] --> adp[c] + h[c] + mso3[c] + pi[c],ok,ok,ok,ok,N/A
+MSO3abcpp,atp[c] + h2o[c] + mso3[p] --> adp[c] + h[c] + mso3[c] + pi[c],ok,ok,ok,ok,N/A
+MSO3tex,mso3[e] <=> mso3[p],only when going backwards,ok,ok,ok,N/A
+MSULR,ch4s[c] + 3.0 h2o[c] + 3.0 nadp[c] <=> 4.0 h[c] + mso3[c] + 3.0 nadph[c],only when going backwards,ok,ok,ok,N/A
+MTAP,5mta[c] + pi[c] --> 5mdr1p[c] + ade[c],ok,ok,ok,ok,N/A
+MTHFC,h2o[c] + methf[c] <=> 10fthf[c] + h[c],only when going backwards,ok,ok,ok,N/A
+MTHFD,mlthf[c] + nadp[c] <=> methf[c] + nadph[c],ok,ok,ok,ok,N/A
+MTHFD2i,mlthf[c] + nad[c] --> methf[c] + nadh[c],ok,ok,ok,ok,N/A
+MTHFR2,2.0 h[c] + mlthf[c] + nadh[c] --> 5mthf[c] + nad[c],ok,ok,ok,MTHFR2_1,N/A
+MTHFR2_1,h[c] + mlthf[c] + nadh[c] --> 5mthf[c] + nad[c],ok,ok,ok,MTHFR2,N/A
+MTHFR3,2.0 h[c] + mlthf[c] + nadph[c] --> 5mthf[c] + nadp[c],ok,ok,ok,ok,N/A
+MTI,tre[c] <=> malt[c],only when going backwards,ok,ok,ok,N/A
+MTRI,5mdr1p[c] <=> 5mdru1p[c],only when going backwards,ok,ok,ok,N/A
+MUCCYCI,ccmuac[c] + h[c] <=> mucl[c],only when going backwards,ok,ok,ok,N/A
+MUCLI,mucl[c] <=> 5odhf2a[c],only when going backwards,ok,ok,ok,N/A
+MYCTR,2.0 msh[c] + nadp[c] --> h[c] + mssg[c] + nadph[c],mssg[c],ok,ok,ok,N/A
+MYCTR2,gthox[c] + 2.0 msh[c] --> 2.0 gthrd[c] + mssg[c],mssg[c],ok,ok,ok,N/A
+N2tex,n2[e] <=> n2[p],only when going backwards,ok,ok,ok,N/A
+N2trpp,n2[p] <=> n2[c],only when going backwards,ok,ok,ok,N/A
+NAabcO,atp[c] + h2o[c] + na1[c] --> adp[c] + h[c] + na1[e] + pi[c],ok,ok,ok,ok,N/A
+NACODA,acg5sa[c] + h2o[c] --> ac[c] + glu5sa[c],ok,ok,ok,ok,N/A
+NADDP,h2o[c] + nad[c] --> amp[c] + 2.0 h[c] + nmn[c],ok,ok,ok,ok,N/A
+NADFADOR,fadh2[c] + fdxr_42[c] + 2.0 nad[c] <=> fad[c] + fdxo_42[c] + 2.0 nadh[c],ok,ok,ok,ok,N/A
+NADH10,h[c] + mqn8[c] + nadh[c] --> mql8[c] + nad[c],ok,ok,ok,ok,N/A
+NADH16,4.0 h[c] + nadh[c] + q8[c] --> 3.0 h[e] + nad[c] + q8h2[c],ok,ok,ok,NADH6,N/A
+NADH16pp,4.0 h[c] + nadh[c] + q8[c] --> 3.0 h[p] + nad[c] + q8h2[c],ok,ok,ok,ok,N/A
+NADH17pp,4.0 h[c] + mqn8[c] + nadh[c] --> 3.0 h[p] + mql8[c] + nad[c],ok,ok,ok,ok,N/A
+NADH18pp,2dmmq8[c] + 4.0 h[c] + nadh[c] --> 2dmmql8[c] + 3.0 h[p] + nad[c],ok,ok,ok,ok,N/A
+NADH2r,h[c] + nadh[c] + q[c] --> nad[c] + qh2[c],ok,ok,ok,ok,N/A
+NADH4,h[c] + mqn7[c] + nadh[c] --> mql7[c] + nad[c],ok,ok,ok,ok,N/A
+NADH5,h[c] + nadh[c] + q8[c] --> nad[c] + q8h2[c],ok,ok,ok,ok,N/A
+NADH6,4.5 h[c] + nadh[c] + q8[c] --> 3.5 h[e] + nad[c] + q8h2[c],ok,ok,ok,NADH16,N/A
+NADH7,3.0 h[c] + mqn8[c] + nadh[c] --> 2.0 h[e] + mql8[c] + nad[c],ok,ok,ok,ok,N/A
+NADH8,2dmmq8[c] + 3.8 h[c] + nadh[c] --> 2dmmql8[c] + 2.8 h[e] + nad[c],ok,ok,ok,ok,N/A
+NADH9,2dmmq8[c] + h[c] + nadh[c] --> 2dmmql8[c] + nad[c],ok,ok,ok,ok,N/A
+NADK,atp[c] + nad[c] --> adp[c] + h[c] + nadp[c],ok,ok,ok,ok,N/A
+NADPHQR2,h[c] + nadph[c] + q8[c] --> nadp[c] + q8h2[c],ok,ok,ok,ok,N/A
+NADPHQR3,h[c] + mqn8[c] + nadph[c] --> mql8[c] + nadp[c],ok,ok,ok,ok,N/A
+NADS1,atp[c] + dnad[c] + nh4[c] --> amp[c] + h[c] + nad[c] + ppi[c],ok,ok,ok,ok,N/A
+NADS2,atp[c] + dnad[c] + gln__L[c] + h2o[c] --> amp[c] + glu__L[c] + h[c] + nad[c] + ppi[c],ok,ok,ok,ok,N/A
+NAKtr,k[c] + na1[e] --> k[e] + na1[c],ok,ok,ok,ok,N/A
+NAPRT,h[c] + nac[c] + prpp[c] --> nicrnt[c] + ppi[c],ok,ok,ok,ok,N/A
+NAt3_1,h[e] + na1[c] --> h[c] + na1[e],ok,ok,ok,NAt3_2,N/A
+NAt3_2,2.0 h[e] + na1[c] --> 2.0 h[c] + na1[e],ok,ok,ok,NAt3_1,N/A
+NAt3_2pp,2.0 h[p] + na1[c] --> 2.0 h[c] + na1[p],ok,ok,ok,NAt3pp,N/A
+NAt3pp,h[p] + na1[c] --> h[c] + na1[p],ok,ok,ok,NAt3_2pp,N/A
+NAtex,na1[e] <=> na1[p],ok,ok,ok,ok,N/A
+NDH_1,3.0 h[c] + mqn6[c] + nadph[c] --> 2.0 h[e] + mql6[c] + nadp[c],ok,ok,ok,ok,N/A
+NDH1_1p,4.0 h[c] + nadph[c] + pq[p] --> 3.0 h[p] + nadp[c] + pqh2[p],ok,ok,ok,ok,N/A
+NDH1_2p,4.0 h[c] + nadh[c] + pq[p] --> 3.0 h[p] + nad[c] + pqh2[p],ok,ok,ok,ok,N/A
+NDH1_4pp,co2[p] + h2o[c] + 3.0 h[c] + nadph[c] + pq[p] --> 3.0 h[p] + hco3[c] + nadp[c] + pqh2[p],ok,ok,ok,ok,N/A
+NDPK1,atp[c] + gdp[c] --> adp[c] + gtp[c],ok,ok,ok,ok,N/A
+NDPK2,atp[c] + udp[c] --> adp[c] + utp[c],ok,ok,ok,ok,N/A
+NDPK3,atp[c] + cdp[c] --> adp[c] + ctp[c],ok,ok,ok,ok,N/A
+NDPK4,atp[c] + dtdp[c] --> adp[c] + dttp[c],ok,ok,ok,ok,N/A
+NDPK5,atp[c] + dgdp[c] --> adp[c] + dgtp[c],ok,ok,ok,ok,N/A
+NDPK6,atp[c] + dudp[c] --> adp[c] + dutp[c],ok,ok,ok,ok,N/A
+NDPK7,atp[c] + dcdp[c] --> adp[c] + dctp[c],ok,ok,ok,ok,N/A
+NDPK8,atp[c] + dadp[c] --> adp[c] + datp[c],ok,ok,ok,ok,N/A
+NDPK9,atp[c] + idp[c] --> adp[c] + itp[c],ok,ok,ok,ok,N/A
+NFORGLUAH,Nforglu[c] + h2o[c] --> for[c] + glu__L[c] + 2.0 h[c],ok,ok,ok,ok,N/A
+NH3c,h[c] + nh3[c] <=> nh4[c],only when going backwards,ok,ok,ok,N/A
+NH4OHDs,h[c] + nh4oh[c] <=> h2o[c] + nh4[c],only when going backwards,ok,ok,ok,N/A
+NH4tex,nh4[e] <=> nh4[p],ok,ok,ok,ok,N/A
+NH4tpp,nh4[p] <=> nh4[c],ok,ok,ok,ok,N/A
+NI2t3pp,h[p] + ni2[c] --> h[c] + ni2[p],ok,ok,ok,ok,N/A
+NI2t4pp,h[p] + k[p] + ni2[c] --> h[c] + k[c] + ni2[p],ok,ok,ok,ok,N/A
+NI2tex,ni2[e] <=> ni2[p],only when going forwards,ok,ok,ok,N/A
+NI2uabcpp,atp[c] + h2o[c] + ni2[p] --> adp[c] + h[c] + ni2[c] + pi[c],ok,ok,ok,ok,N/A
+NIabc,atp[c] + h2o[c] + ni2[e] --> adp[c] + h[c] + ni2[c] + pi[c],ok,ok,ok,ok,N/A
+NIT1b_1,16.0 atp[c] + 4.0 fdxr_42[c] + 16.0 h2o[c] + n2[c] --> 16.0 adp[c] + 4.0 fdxo_42[c] + h2[c] + 6.0 h[c] + 2.0 nh4[c] + 16.0 pi[c],ok,ok,ok,ok,N/A
+NMNAT,atp[c] + h[c] + nmn[c] --> nad[c] + ppi[c],ok,ok,ok,ok,N/A
+NMNN,h2o[c] + nmn[c] --> h[c] + ncam[c] + r5p[c],ok,ok,ok,ok,N/A
+NMNPtpp,nmn[p] --> nmn[c],ok,ok,ok,ok,N/A
+NMNtex,nmn[e] <=> nmn[p],only when going backwards,ok,ok,ok,N/A
+NNAM,h2o[c] + ncam[c] --> nac[c] + nh4[c],ok,ok,ok,ok,N/A
+NNATr,atp[c] + h[c] + nicrnt[c] <=> dnad[c] + ppi[c],only when going backwards,ok,ok,ok,N/A
+NNDPR,2.0 h[c] + prpp[c] + quln[c] --> co2[c] + nicrnt[c] + ppi[c],ok,ok,ok,ok,N/A
+NO2tex,no2[e] <=> no2[p],no2[e];no2[p],ok,ok,ok,N/A
+NO3abcpp,atp[c] + h2o[c] + no3[p] --> adp[c] + h[c] + no3[c] + pi[c],ok,ok,ok,ok,N/A
+NO3tex,no3[e] <=> no3[p],only when going backwards,ok,ok,ok,N/A
+NODOx,nadh[c] + 2.0 no[c] + 2.0 o2[c] --> h[c] + nad[c] + 2.0 no3[c],ok,ok,ok,ok,N/A
+NODOy,nadph[c] + 2.0 no[c] + 2.0 o2[c] --> h[c] + nadp[c] + 2.0 no3[c],ok,ok,ok,ok,N/A
+NOt,no[e] <=> no[c],only when going backwards,ok,ok,ok,N/A
+NOX,h[c] + nadh[c] + o2[c] --> h2o2[c] + nad[c],ok,ok,ok,ok,N/A
+NTD1,dump[c] + h2o[c] --> duri[c] + pi[c],ok,ok,ok,ok,N/A
+NTD10pp,h2o[p] + xmp[p] --> pi[p] + xtsn[p],ok,ok,ok,ok,N/A
+NTD11pp,h2o[p] + imp[p] --> ins[p] + pi[p],ok,ok,ok,ok,N/A
+NTD12,dimp[c] + h2o[c] --> din[c] + pi[c],ok,ok,ok,ok,N/A
+NTD2,h2o[c] + ump[c] --> pi[c] + uri[c],ok,ok,ok,ok,N/A
+NTD2pp,h2o[p] + ump[p] --> pi[p] + uri[p],ok,ok,ok,ok,N/A
+NTD3pp,dcmp[p] + h2o[p] --> dcyt[p] + pi[p],ok,ok,ok,ok,N/A
+NTD4pp,cmp[p] + h2o[p] --> cytd[p] + pi[p],ok,ok,ok,ok,N/A
+NTD5,dtmp[c] + h2o[c] --> pi[c] + thymd[c],ok,ok,ok,ok,N/A
+NTD5pp,dtmp[p] + h2o[p] --> pi[p] + thymd[p],ok,ok,ok,ok,N/A
+NTD6pp,damp[p] + h2o[p] --> dad_2[p] + pi[p],ok,ok,ok,ok,N/A
+NTD7pp,amp[p] + h2o[p] --> adn[p] + pi[p],ok,ok,ok,ok,N/A
+NTD8pp,dgmp[p] + h2o[p] --> dgsn[p] + pi[p],ok,ok,ok,ok,N/A
+NTD9pp,gmp[p] + h2o[p] --> gsn[p] + pi[p],ok,ok,ok,ok,N/A
+NTP1,atp[c] + h2o[c] --> adp[c] + h[c] + pi[c],ok,ATPM,ok,ok,N/A
+NTP10,h2o[c] + itp[c] --> h[c] + idp[c] + pi[c],ok,ok,ok,ok,N/A
+NTP3,gtp[c] + h2o[c] --> gdp[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+NTP5,ctp[c] + h2o[c] --> cdp[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+NTPP1,dgtp[c] + h2o[c] --> dgmp[c] + h[c] + ppi[c],ok,ok,ok,ok,N/A
+NTPP10,ditp[c] + h2o[c] --> dimp[c] + h[c] + ppi[c],ok,ok,ok,ok,N/A
+NTPP11,h2o[c] + xtp[c] --> h[c] + ppi[c] + xmp[c],ok,ok,ok,ok,N/A
+NTPP2,gtp[c] + h2o[c] --> gmp[c] + h[c] + ppi[c],ok,ok,ok,ok,N/A
+NTPP3,dctp[c] + h2o[c] --> dcmp[c] + h[c] + ppi[c],ok,ok,ok,ok,N/A
+NTPP4,ctp[c] + h2o[c] --> cmp[c] + h[c] + ppi[c],ok,ok,ok,ok,N/A
+NTPP5,datp[c] + h2o[c] --> damp[c] + h[c] + ppi[c],ok,ok,ok,ok,N/A
+NTPP6,atp[c] + h2o[c] --> amp[c] + h[c] + ppi[c],ok,ok,ok,ok,N/A
+NTPP7,dttp[c] + h2o[c] --> dtmp[c] + h[c] + ppi[c],ok,ok,ok,ok,N/A
+NTPP8,h2o[c] + utp[c] --> h[c] + ppi[c] + ump[c],ok,ok,ok,ok,N/A
+NTPP9,h2o[c] + itp[c] --> h[c] + imp[c] + ppi[c],ok,ok,ok,ok,N/A
+NTPTP1,dgtp[c] + h2o[c] --> dgsn[c] + pppi[c],ok,ok,ok,ok,N/A
+NTPTP2,gtp[c] + h2o[c] --> gsn[c] + pppi[c],ok,ok,ok,ok,N/A
+NTRARz,no3[c] + trdrd[c] --> h2o[c] + no2[c] + trdox[c],ok,ok,ok,ok,N/A
+NTRIR2x,5.0 h[c] + 3.0 nadh[c] + no2[c] --> 2.0 h2o[c] + 3.0 nad[c] + nh4[c],ok,ok,ok,ok,N/A
+NTRIRx,4.0 h[c] + 3.0 nadh[c] + no2[c] --> h2o[c] + 3.0 nad[c] + nh4oh[c],ok,ok,ok,ok,N/A
+NTRIRy,4.0 h[c] + 3.0 nadph[c] + no2[c] --> h2o[c] + 3.0 nadp[c] + nh4oh[c],ok,ok,ok,ok,N/A
+O2t,o2[e] <=> o2[c],ok,ok,ok,ok,N/A
+O2tpp,o2[p] <=> o2[c],only when going forwards,ok,ok,ok,N/A
+OAADC,h[c] + oaa[c] --> co2[c] + pyr[c],ok,ok,ok,ok,N/A
+OACT,accoa[c] + udcpo4[c] --> coa[c] + udcpo5[c],ok,ok,ok,ok,N/A
+OALT,cdpabeq[c] + udcdpgalrmnman[c] --> cdp[c] + h[c] + udcpo4[c],ok,ok,ok,ok,N/A
+OAO5t3ex,udcpo5[p] --> udcpo5[e],ok,ok,ok,ok,N/A
+OAO5t3pp,h[p] + udcpo5[c] --> h[c] + udcpo5[p],ok,ok,ok,ok,N/A
+OARGDC,5g2oxpt[c] + h[c] --> co2[c] + gdbtal[c],ok,ok,ok,ok,N/A
+OBDHc,2obut[c] + coa[c] + nad[c] --> co2[c] + nadh[c] + ppcoa[c],ok,ok,ok,ok,N/A
+OCBT,cbp[c] + orn[c] <=> citr__L[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+OCOAT1,acac[c] + succoa[c] --> aacoa[c] + succ[c],ok,ok,ok,ok,N/A
+OCOAT2r,3mb[c] + succoa[c] <=> ivcoa[c] + succ[c],only when going backwards,ok,ok,ok,N/A
+OCTAtex,octa[e] <=> octa[p],only when going backwards,ok,ok,ok,N/A
+OCTDPS,frdp[c] + 5.0 ipdp[c] --> octdp[c] + 5.0 ppi[c],ok,ok,ok,ok,N/A
+OCTNLL,atp[c] + h[c] + octa[c] --> amp[c] + octapb[c] + ppi[c],ok,ok,ok,ok,N/A
+OGLT,udcpp[c] + udpgal[c] --> udcdpgal[c] + ump[c],ok,ok,ok,ok,N/A
+OHEDH,2ohed[c] + h2o[c] --> 24dhhed[c],ok,ok,ok,ok,N/A
+OHPBAT,glu__L[c] + ohpb[c] <=> akg[c] + phthr[c],ok,ok,ok,ok,N/A
+OIVD1r,4mop[c] + coa[c] + nad[c] --> co2[c] + ivcoa[c] + nadh[c],ok,ok,ok,ok,N/A
+OIVD2,3mob[c] + coa[c] + nad[c] --> co2[c] + ibcoa[c] + nadh[c],ok,ok,ok,ok,N/A
+OIVD3,3mop[c] + coa[c] + nad[c] --> 2mbcoa[c] + co2[c] + nadh[c],ok,ok,ok,ok,N/A
+OMCDC,3c4mop[c] + h[c] --> 4mop[c] + co2[c],ok,ok,ok,ok,N/A
+OMLT,gdpmann[c] + udcdpgalrmn[c] --> gdp[c] + h[c] + udcdpgalrmnman[c],ok,ok,ok,ok,N/A
+OMPDC,h[c] + orot5p[c] --> co2[c] + ump[c],ok,ok,ok,ok,N/A
+OOR3r,akg[c] + coa[c] + fdxox[c] + h[c] --> co2[c] + fdxrd[c] + succoa[c],ok,ok,ok,ok,N/A
+OP4ENH2,2hchd[c] + h2o[c] --> 4hoxoh[c],ok,ok,ok,ok,N/A
+OP4ENH3,h2o[c] + op4en[c] --> 4h2opntn[c],ok,ok,ok,ok,N/A
+OPAH,5oxpro[c] + atp[c] + 2.0 h2o[c] --> adp[c] + glu__L[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+OPHBDC,3ophb[c] + h[c] --> 2oph[c] + co2[c],ok,ok,ok,ok,N/A
+OPHHX,2oph[c] + 0.5 o2[c] --> 2ohph[c],ok,ok,ok,ok,N/A
+OPTCCL,5cohe[c] + h[c] --> 2hh24dd[c] + co2[c],ok,ok,ok,ok,N/A
+ORLT,dtdprmn[c] + udcdpgal[c] --> dtdp[c] + h[c] + udcdpgalrmn[c],ok,ok,ok,ok,N/A
+ORNabc,atp[c] + h2o[c] + orn[e] --> adp[c] + h[c] + orn[c] + pi[c],ok,ok,ok,ok,N/A
+ORNabcpp,atp[c] + h2o[c] + orn[p] --> adp[c] + h[c] + orn[c] + pi[c],ok,ok,ok,ok,N/A
+ORNCD,orn[c] --> nh4[c] + pro__L[c],ok,ok,ok,ok,N/A
+ORNDC,h[c] + orn[c] --> co2[c] + ptrc[c],ok,ok,ok,ok,N/A
+ORNTA,akg[c] + orn[c] --> glu5sa[c] + glu__L[c],ok,ok,ok,ok,N/A
+ORNTA_1,akg[c] + orn__L[c] --> glu5sa[c] + glu__L[c],orn__L[c],ok,ok,ok,N/A
+ORNTAC,acorn[c] + glu__L[c] <=> acglu[c] + orn[c],ok,ok,ok,ok,N/A
+ORNtex,orn[e] <=> orn[p],only when going backwards,ok,ok,ok,N/A
+ORPT,orot5p[c] + ppi[c] <=> orot[c] + prpp[c],only when going forwards,ok,ok,ok,N/A
+OXACOAL,atp[c] + coa[c] + oxa[c] --> amp[c] + oxalcoa[c] + ppi[c],ok,ok,ok,ok,N/A
+OXCOAHDH,2oxpaccoa[c] + 2.0 h2o[c] + nadp[c] --> 3oxdhscoa[c] + 2.0 h[c] + nadph[c],ok,ok,ok,ok,N/A
+OXDHCOAT,3oxdhscoa[c] + coa[c] --> 23dhacoa[c] + accoa[c],ok,ok,ok,ok,N/A
+OXFOt4pp,for[c] + oxa[p] <=> for[p] + oxa[c],ok,ok,ok,ok,N/A
+OXFOtex,oxa[e] <=> oxa[p],ok,ok,ok,ok,N/A
+OXGDC,akg[c] + h[c] --> co2[c] + sucsal[c],ok,ok,ok,ok,N/A
+OXOAEL,5odhf2a[c] + h2o[c] --> 3oxoadp[c] + h[c],ok,ok,ok,ok,N/A
+OXPTNDH,h2o[c] + nad[c] + oxptn[c] --> glutar[c] + 2.0 h[c] + nadh[c],ok,ok,ok,ok,N/A
+P5CD,1pyr5c[c] + 2.0 h2o[c] + nad[c] --> glu__L[c] + h[c] + nadh[c],ok,ok,ok,ok,N/A
+P5CR,1pyr5c[c] + 2.0 h[c] + nadph[c] --> nadp[c] + pro__L[c],ok,ok,ok,ok,N/A
+P5CRx,1pyr5c[c] + 2.0 h[c] + nadh[c] --> nad[c] + pro__L[c],ok,ok,ok,ok,N/A
+PA120abcpp,atp[c] + h2o[c] + pa120[c] --> adp[c] + h[c] + pa120[p] + pi[c],ok,ok,ok,ok,N/A
+PA140abcpp,atp[c] + h2o[c] + pa140[c] --> adp[c] + h[c] + pa140[p] + pi[c],ok,ok,ok,ok,N/A
+PA141abcpp,atp[c] + h2o[c] + pa141[c] --> adp[c] + h[c] + pa141[p] + pi[c],ok,ok,ok,ok,N/A
+PA160abcpp,atp[c] + h2o[c] + pa160[c] --> adp[c] + h[c] + pa160[p] + pi[c],ok,ok,ok,ok,N/A
+PA161abcpp,atp[c] + h2o[c] + pa161[c] --> adp[c] + h[c] + pa161[p] + pi[c],ok,ok,ok,ok,N/A
+PA180abcpp,atp[c] + h2o[c] + pa180[c] --> adp[c] + h[c] + pa180[p] + pi[c],ok,ok,ok,ok,N/A
+PA181abcpp,atp[c] + h2o[c] + pa181[c] --> adp[c] + h[c] + pa181[p] + pi[c],ok,ok,ok,ok,N/A
+PACCOAE,h[c] + nadph[c] + o2[c] + phaccoa[c] --> h2o[c] + nadp[c] + rephaccoa[c],ok,ok,ok,ok,N/A
+PACCOAL,atp[c] + coa[c] + pac[c] --> amp[c] + phaccoa[c] + ppi[c],ok,ok,ok,ok,N/A
+PACt1,pac[e] <=> pac[p],pac[p],ok,ok,ok,N/A
+PACt2r,h[e] + pac[e] <=> h[c] + pac[c],only when going backwards,ok,ok,ok,N/A
+PANTS,ala_B[c] + atp[c] + pant__R[c] --> amp[c] + h[c] + pnto__R[c] + ppi[c],ok,ok,ok,ok,N/A
+PAPA120pp,h2o[p] + pa120[p] --> 12dgr120[p] + pi[p],ok,ok,ok,ok,N/A
+PAPA140pp,h2o[p] + pa140[p] --> 12dgr140[p] + pi[p],ok,ok,ok,ok,N/A
+PAPA141pp,h2o[p] + pa141[p] --> 12dgr141[p] + pi[p],ok,ok,ok,ok,N/A
+PAPA160,h2o[c] + pa160[c] --> 12dgr160[c] + pi[c],ok,ok,ok,ok,N/A
+PAPA161pp,h2o[p] + pa161[p] --> 12dgr161[p] + pi[p],ok,ok,ok,ok,N/A
+PAPA180pp,h2o[p] + pa180[p] --> 12dgr180[p] + pi[p],ok,ok,ok,ok,N/A
+PAPA181pp,h2o[p] + pa181[p] --> 12dgr181[p] + pi[p],ok,ok,ok,ok,N/A
+PAP_BS,0.01 12dag3p_BS[c] + h2o[c] --> 0.01 12dgr_BS[c] + pi[c],ok,ok,ok,ok,N/A
+PAPPT3,udcpp[c] + ugmda[c] --> uagmda[c] + ump[c],ok,ok,ok,ok,N/A
+PAPSR,paps[c] + trdrd[c] --> 2.0 h[c] + pap[c] + so3[c] + trdox[c],ok,ok,ok,ok,N/A
+PC,atp[c] + hco3[c] + pyr[c] --> adp[c] + h[c] + oaa[c] + pi[c],ok,ok,ok,ok,N/A
+PDE1,camp[c] + h2o[c] --> amp[c] + h[c],ok,ok,ok,ok,N/A
+PDH,coa[c] + nad[c] + pyr[c] --> accoa[c] + co2[c] + nadh[c],ok,ok,ok,ok,N/A
+PDHa,h[c] + lpam[c] + pyr[c] --> adhlam[c] + co2[c],ok,ok,ok,ok,N/A
+PDHbr,adhlam[c] + coa[c] <=> accoa[c] + dhlam[c],only when going backwards,ok,ok,ok,N/A
+PDHcr,dhlam[c] + nad[c] --> h[c] + lpam[c] + nadh[c],ok,ok,ok,ok,N/A
+PDIMAS,2.0 h[c] + phthiocerol[c] + 2.0 tamocta[c] --> 2.0 h2o[c] + pdima[c],ok,ok,ok,ok,N/A
+PDIMAT,pdima[c] --> pdima[e],ok,ok,ok,ok,N/A
+PDX5POi,o2[c] + pdx5p[c] --> h2o2[c] + pydx5p[c],ok,ok,ok,ok,N/A
+PDX5PS,dxyl5p[c] + nad[c] + phthr[c] --> co2[c] + 2.0 h2o[c] + h[c] + nadh[c] + pdx5p[c] + pi[c],ok,ok,ok,ok,N/A
+PDXPP,h2o[c] + pdx5p[c] --> pi[c] + pydxn[c],ok,ok,ok,ok,N/A
+PE120abcpp,atp[c] + h2o[c] + pe120[c] --> adp[c] + h[c] + pe120[p] + pi[c],ok,ok,ok,ok,N/A
+PE140abcpp,atp[c] + h2o[c] + pe140[c] --> adp[c] + h[c] + pe140[p] + pi[c],ok,ok,ok,ok,N/A
+PE141abcpp,atp[c] + h2o[c] + pe141[c] --> adp[c] + h[c] + pe141[p] + pi[c],ok,ok,ok,ok,N/A
+PE160abcpp,atp[c] + h2o[c] + pe160[c] --> adp[c] + h[c] + pe160[p] + pi[c],pe160[c];pe160[p],ok,ok,ok,N/A
+PE161abcpp,atp[c] + h2o[c] + pe161[c] --> adp[c] + h[c] + pe161[p] + pi[c],ok,ok,ok,ok,N/A
+PE180abcpp,atp[c] + h2o[c] + pe180[c] --> adp[c] + h[c] + pe180[p] + pi[c],pe180[c];pe180[p],ok,ok,ok,N/A
+PE181abcpp,atp[c] + h2o[c] + pe181[c] --> adp[c] + h[c] + pe181[p] + pi[c],ok,ok,ok,ok,N/A
+PEPCK_re,gtp[c] + oaa[c] --> co2[c] + gdp[c] + pep[c],ok,ok,ok,ok,N/A
+PERD,4per[c] + nad[c] <=> h[c] + nadh[c] + ohpb[c],ok,ok,ok,ok,N/A
+PFK,atp[c] + f6p[c] --> adp[c] + fdp[c] + h[c],ok,ok,ok,ok,N/A
+PFK_2,atp[c] + tag6p__D[c] --> adp[c] + h[c] + tagdp__D[c],ok,ok,ok,ok,N/A
+PFOR,coa[c] + fldox[c] + h[c] + pyr[c] --> accoa[c] + co2[c] + fldrd[c],ok,ok,ok,ok,N/A
+PG120abcpp,atp[c] + h2o[c] + pg120[c] --> adp[c] + h[c] + pg120[p] + pi[c],ok,ok,ok,ok,N/A
+PG140abcpp,atp[c] + h2o[c] + pg140[c] --> adp[c] + h[c] + pg140[p] + pi[c],ok,ok,ok,ok,N/A
+PG141abcpp,atp[c] + h2o[c] + pg141[c] --> adp[c] + h[c] + pg141[p] + pi[c],ok,ok,ok,ok,N/A
+PG160abcpp,atp[c] + h2o[c] + pg160[c] --> adp[c] + h[c] + pg160[p] + pi[c],ok,ok,ok,ok,N/A
+PG161abcpp,atp[c] + h2o[c] + pg161[c] --> adp[c] + h[c] + pg161[p] + pi[c],ok,ok,ok,ok,N/A
+PG180abcpp,atp[c] + h2o[c] + pg180[c] --> adp[c] + h[c] + pg180[p] + pi[c],ok,ok,ok,ok,N/A
+PG181abcpp,atp[c] + h2o[c] + pg181[c] --> adp[c] + h[c] + pg181[p] + pi[c],ok,ok,ok,ok,N/A
+PGAMT,gam1p[c] <=> gam6p[c],only when going forwards,ok,ok,ok,N/A
+PGCD,3pg[c] + nad[c] --> 3php[c] + h[c] + nadh[c],ok,ok,ok,ok,N/A
+PGI,g6p[c] <=> f6p[c],ok,ok,ok,ok,N/A
+PGK,3pg[c] + atp[c] <=> 13dpg[c] + adp[c],ok,ok,ok,ok,N/A
+PGL,6pgl[c] + h2o[c] --> 6pgc[c] + h[c],ok,ok,ok,ok,N/A
+PGLCNDH,6p2dhglcn[c] + nadph[c] <=> 6pgc[c] + 2.0 h[c] + nadp[c],only when going backwards,ok,ok,ok,N/A
+PGLYCP,2pglyc[c] + h2o[c] --> glyclt[c] + pi[c],ok,ok,ok,ok,N/A
+PGM,2pg[c] <=> 3pg[c],ok,ok,ok,ok,N/A
+PGMT,g1p[c] <=> g6p[c],ok,ok,ok,ok,N/A
+PGP120abcpp,atp[c] + h2o[c] + pgp120[c] --> adp[c] + h[c] + pgp120[p] + pi[c],ok,ok,ok,ok,N/A
+PGP140abcpp,atp[c] + h2o[c] + pgp140[c] --> adp[c] + h[c] + pgp140[p] + pi[c],ok,ok,ok,ok,N/A
+PGP141abcpp,atp[c] + h2o[c] + pgp141[c] --> adp[c] + h[c] + pgp141[p] + pi[c],ok,ok,ok,ok,N/A
+PGP160abcpp,atp[c] + h2o[c] + pgp160[c] --> adp[c] + h[c] + pgp160[p] + pi[c],ok,ok,ok,ok,N/A
+PGP161abcpp,atp[c] + h2o[c] + pgp161[c] --> adp[c] + h[c] + pgp161[p] + pi[c],ok,ok,ok,ok,N/A
+PGP180abcpp,atp[c] + h2o[c] + pgp180[c] --> adp[c] + h[c] + pgp180[p] + pi[c],ok,ok,ok,ok,N/A
+PGP181abcpp,atp[c] + h2o[c] + pgp181[c] --> adp[c] + h[c] + pgp181[p] + pi[c],ok,ok,ok,ok,N/A
+PGPP120pp,h2o[p] + pgp120[p] --> pg120[p] + pi[p],ok,ok,ok,ok,N/A
+PGPP140pp,h2o[p] + pgp140[p] --> pg140[p] + pi[p],ok,ok,ok,ok,N/A
+PGPP141pp,h2o[p] + pgp141[p] --> pg141[p] + pi[p],ok,ok,ok,ok,N/A
+PGPP160pp,h2o[p] + pgp160[p] --> pg160[p] + pi[p],ok,ok,ok,ok,N/A
+PGPP161pp,h2o[p] + pgp161[p] --> pg161[p] + pi[p],ok,ok,ok,ok,N/A
+PGPP180pp,h2o[p] + pgp180[p] --> pg180[p] + pi[p],ok,ok,ok,ok,N/A
+PGPP181pp,h2o[p] + pgp181[p] --> pg181[p] + pi[p],ok,ok,ok,ok,N/A
+PGSA120,cdpdddecg[c] + glyc3p[c] --> cmp[c] + h[c] + pgp120[c],ok,ok,ok,ok,N/A
+PGSA140,cdpdtdecg[c] + glyc3p[c] --> cmp[c] + h[c] + pgp140[c],ok,ok,ok,ok,N/A
+PGSA141,cdpdtdec7eg[c] + glyc3p[c] --> cmp[c] + h[c] + pgp141[c],ok,ok,ok,ok,N/A
+PGSA160,cdpdhdecg[c] + glyc3p[c] --> cmp[c] + h[c] + pgp160[c],ok,ok,ok,ok,N/A
+PGSA161,cdpdhdec9eg[c] + glyc3p[c] --> cmp[c] + h[c] + pgp161[c],ok,ok,ok,ok,N/A
+PGSA180,cdpdodecg[c] + glyc3p[c] --> cmp[c] + h[c] + pgp180[c],ok,ok,ok,ok,N/A
+PGSA181,cdpdodec11eg[c] + glyc3p[c] --> cmp[c] + h[c] + pgp181[c],ok,ok,ok,ok,N/A
+PHACOAOR,h2[c] + o2[c] + phaccoa[c] --> 2dhphaccoa[c],ok,ok,ok,ok,N/A
+PHEMEabcpp,atp[c] + h2o[c] + pheme[c] --> adp[c] + h[c] + pheme[p] + pi[c],ok,ok,ok,ok,N/A
+PHEMEtiex,pheme[p] --> pheme[e],ok,ok,ok,ok,N/A
+PHETA1,akg[c] + phe__L[c] <=> glu__L[c] + phpyr[c],only when going forwards,ok,ok,ok,N/A
+PHTHDLS,h[c] + prephth[c] --> co2[c] + phthdl[c],ok,ok,ok,ok,N/A
+PHTHS,amet[c] + nadph[c] + phthdl[c] --> ahcys[c] + nadp[c] + phthiocerol[c],ok,ok,ok,ok,N/A
+PIabc,atp[c] + h2o[c] + pi[e] --> adp[c] + h[c] + 2.0 pi[c],ok,ok,ok,ok,N/A
+PIt2rpp,h[p] + pi[p] <=> h[c] + pi[c],ok,ok,ok,ok,N/A
+PItex,pi[e] <=> pi[p],ok,ok,ok,ok,N/A
+PIuabcpp,atp[c] + h2o[c] + pi[p] --> adp[c] + h[c] + 2.0 pi[c],ok,ok,ok,ok,N/A
+PLCD,h2o[c] + ptd1ino160[c] --> 12dgr160[c] + h[c] + mi1p__D[c],ok,ok,ok,ok,N/A
+PLIPA1E120pp,h2o[p] + pe120[p] --> 2agpe120[p] + ddca[p] + h[p],ok,ok,ok,ok,N/A
+PLIPA1E140pp,h2o[p] + pe140[p] --> 2agpe140[p] + h[p] + ttdca[p],ok,ok,ok,ok,N/A
+PLIPA1E141pp,h2o[p] + pe141[p] --> 2agpe141[p] + h[p] + ttdcea[p],ok,ok,ok,ok,N/A
+PLIPA1E160pp,h2o[p] + pe160[p] --> 2agpe160[p] + h[p] + hdca[p],pe160[p];2agpe160[p],ok,ok,ok,N/A
+PLIPA1E161pp,h2o[p] + pe161[p] --> 2agpe161[p] + h[p] + hdcea[p],ok,ok,ok,ok,N/A
+PLIPA1E180pp,h2o[p] + pe180[p] --> 2agpe180[p] + h[p] + ocdca[p],pe180[p];2agpe180[p],ok,ok,ok,N/A
+PLIPA1E181pp,h2o[p] + pe181[p] --> 2agpe181[p] + h[p] + ocdcea[p],ok,ok,ok,ok,N/A
+PLIPA1G120pp,h2o[p] + pg120[p] --> 2agpg120[p] + ddca[p] + h[p],ok,ok,ok,ok,N/A
+PLIPA1G140pp,h2o[p] + pg140[p] --> 2agpg140[p] + h[p] + ttdca[p],ok,ok,ok,ok,N/A
+PLIPA1G141pp,h2o[p] + pg141[p] --> 2agpg141[p] + h[p] + ttdcea[p],ok,ok,ok,ok,N/A
+PLIPA1G160pp,h2o[p] + pg160[p] --> 2agpg160[p] + h[p] + hdca[p],ok,ok,ok,ok,N/A
+PLIPA1G161pp,h2o[p] + pg161[p] --> 2agpg161[p] + h[p] + hdcea[p],ok,ok,ok,ok,N/A
+PLIPA1G180pp,h2o[p] + pg180[p] --> 2agpg180[p] + h[p] + ocdca[p],ok,ok,ok,ok,N/A
+PLIPA1G181pp,h2o[p] + pg181[p] --> 2agpg181[p] + h[p] + ocdcea[p],ok,ok,ok,ok,N/A
+PLIPA2A160pp,h2o[p] + pa160[p] --> 1hdecg3p[p] + h[p] + hdca[p],ok,ok,ok,ok,N/A
+PLIPA2G120pp,h2o[p] + pg120[p] --> 1agpg120[p] + ddca[p] + h[p],ok,ok,ok,ok,N/A
+PLIPA2G140pp,h2o[p] + pg140[p] --> 1agpg140[p] + h[p] + ttdca[p],ok,ok,ok,ok,N/A
+PLIPA2G160pp,h2o[p] + pg160[p] --> 1agpg160[p] + h[p] + hdca[p],ok,ok,ok,ok,N/A
+PLIPA2G180pp,h2o[p] + pg180[p] --> 1agpg180[p] + h[p] + ocdca[p],ok,ok,ok,ok,N/A
+PLIPA2G181pp,h2o[p] + pg181[p] --> 1agpg181[p] + h[p] + ocdcea[p],ok,ok,ok,ok,N/A
+PLPS,g3p[c] + gln__L[c] + r5p[c] --> glu__L[c] + 3.0 h2o[c] + h[c] + pi[c] + pydx5p[c],ok,ok,ok,ok,N/A
+PMANM,man1p[c] <=> man6p[c],ok,ok,ok,ok,N/A
+PMDPHT,5aprbu[c] + h2o[c] --> 4r5au[c] + pi[c],ok,ok,ok,ok,N/A
+PMPK,4ampm[c] + atp[c] --> 2mahmp[c] + adp[c],ok,ok,ok,ok,N/A
+PNTK,atp[c] + pnto__R[c] --> 4ppan[c] + adp[c] + h[c],ok,ok,ok,ok,N/A
+PNTOt2,h[e] + pnto__R[e] <=> h[c] + pnto__R[c],ok,ok,ok,ok,N/A
+POAACR,nadh[c] + poaac[c] --> 3amac[c] + h2o[c] + nad[c],ok,ok,ok,ok,N/A
+POX,h2o[c] + pyr[c] + q8[c] --> ac[c] + co2[c] + q8h2[c],ok,ok,ok,ok,N/A
+PPA,h2o[c] + ppi[c] --> h[c] + 2.0 pi[c],ok,ok,ok,ok,N/A
+PPA_1pp,h2o[c] + ppi[c] --> h[p] + 2.0 pi[c],ok,ok,ok,ok,N/A
+PPA2,h2o[c] + pppi[c] --> h[c] + pi[c] + ppi[c],ok,ok,ok,ok,N/A
+PPAKr,adp[c] + ppap[c] <=> atp[c] + ppa[c],only when going backwards,ok,ok,ok,N/A
+PPAt2pp,h[p] + ppa[p] --> h[c] + ppa[c],ok,ok,ok,ok,N/A
+PPAt4pp,na1[p] + ppa[p] --> na1[c] + ppa[c],ok,ok,ok,ok,N/A
+PPAtex,ppa[e] <=> ppa[p],only when going backwards,ok,ok,ok,N/A
+PPBNGS,2.0 5aop[c] --> 2.0 h2o[c] + h[c] + ppbng[c],ok,ok,ok,ok,N/A
+PPC,co2[c] + h2o[c] + pep[c] --> h[c] + oaa[c] + pi[c],ok,ok,ok,ok,N/A
+PPCDC,4ppcys[c] + h[c] --> co2[c] + pan4p[c],ok,ok,ok,ok,N/A
+PPCK,atp[c] + oaa[c] --> adp[c] + co2[c] + pep[c],ok,ok,ok,ok,N/A
+PPCOAC,atp[c] + hco3[c] + ppcoa[c] --> adp[c] + h[c] + mmcoa__S[c] + pi[c],ok,ok,ok,ok,N/A
+PPDK,atp[c] + pi[c] + pyr[c] --> amp[c] + h[c] + pep[c] + ppi[c],ok,ok,ok,ok,N/A
+PPGKr,glc__D[c] + pi[c] <=> g6p[c] + h2o[c],ok,ok,ok,ok,N/A
+PPGPPDP,h2o[c] + ppgpp[c] --> gdp[c] + ppi[c],ok,ok,ok,ok,N/A
+PPK2r,atp[c] + ppi[c] --> adp[c] + pppi[c],ok,ok,ok,ok,N/A
+PPKr,atp[c] + pi[c] --> adp[c] + ppi[c],ok,ok,ok,ok,N/A
+PPNCL,4ppan[c] + ctp[c] + cys__L[c] --> 4ppcys[c] + cdp[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+PPNCL2,4ppan[c] + ctp[c] + cys__L[c] --> 4ppcys[c] + cmp[c] + h[c] + ppi[c],ok,ok,ok,ok,N/A
+PPNCL3,4ppan[c] + atp[c] + cys__L[c] --> 4ppcys[c] + amp[c] + h[c] + ppi[c],ok,ok,ok,ok,N/A
+PPND,nad[c] + pphn[c] --> 34hpp[c] + co2[c] + nadh[c],ok,ok,ok,ok,N/A
+PPNDH,h[c] + pphn[c] --> co2[c] + h2o[c] + phpyr[c],ok,ok,ok,ok,N/A
+PPPGO,1.5 o2[c] + pppg9[c] --> 3.0 h2o[c] + ppp9[c],ok,ok,ok,ok,N/A
+PPS,atp[c] + h2o[c] + pyr[c] --> amp[c] + 2.0 h[c] + pep[c] + pi[c],ok,ok,ok,ok,N/A
+PPTGS_BS,uaagmda[c] --> h[c] + peptido_BS[c] + udcpdp[c],ok,ok,ok,ok,N/A
+PRAGSr,atp[c] + gly[c] + pram[c] <=> adp[c] + gar[c] + h[c] + pi[c],only when going backwards,ok,ok,ok,N/A
+PRAIi,pran[c] --> 2cpr5p[c],ok,ok,ok,ok,N/A
+PRAIS,atp[c] + fpram[c] --> adp[c] + air[c] + 2.0 h[c] + pi[c],ok,ok,ok,ok,N/A
+PRAMPC,h2o[c] + prbamp[c] --> prfp[c],ok,ok,ok,ok,N/A
+PRASCSi,5aizc[c] + asp__L[c] + atp[c] --> 25aics[c] + adp[c] + h[c] + pi[c],ok,ok,ok,ok,N/A
+PRATPP,h2o[c] + prbatp[c] --> h[c] + ppi[c] + prbamp[c],ok,ok,ok,ok,N/A
+PREPHACPH,h2o[c] + prephthACP[c] --> ACP[c] + h[c] + prephth[c],ok,ok,ok,ok,N/A
+PREPTHS,arachACP[c] + 14.0 h[c] + 2.0 malcoa[c] + 2.0 mmcoa__S[c] + 10.0 nadph[c] --> 2.0 co2[c] + 4.0 coa[c] + 5.0 h2o[c] + 10.0 nadp[c] + prephthACP[c],ok,ok,ok,ok,N/A
+PREPTTA,ACP[c] + prephthcoa[c] <=> coa[c] + prephthACP[c],only when going backwards,ok,ok,ok,N/A
+PRFGS,atp[c] + fgam[c] + gln__L[c] + h2o[c] --> adp[c] + fpram[c] + glu__L[c] + h[c] + pi[c],ok,ok,ok,PRFGS_1,N/A
+PRFGS_1,atp[c] + fgam[c] + gln__L[c] + h2o[c] --> adp[c] + fpram[c] + glu__L[c] + 2.0 h[c] + pi[c],ok,ok,ok,PRFGS,N/A
+PRMICI,prfp[c] <=> prlp[c],only when going backwards,ok,ok,ok,N/A
+PROabc,atp[c] + h2o[c] + pro__L[e] --> adp[c] + h[c] + pi[c] + pro__L[c],ok,ok,ok,ok,N/A
+PROabcpp,atp[c] + h2o[c] + pro__L[p] --> adp[c] + h[c] + pi[c] + pro__L[c],ok,ok,ok,ok,N/A
+PROD2,fad[c] + pro__L[c] --> 1pyr5c[c] + fadh2[c] + h[c],ok,ok,ok,ok,N/A
+PROGLYabcpp,atp[c] + h2o[c] + progly[p] --> adp[c] + h[c] + pi[c] + progly[c],ok,ok,ok,ok,N/A
+PROGLYtex,progly[e] <=> progly[p],only when going backwards,ok,ok,ok,N/A
+PROtex,pro__L[e] <=> pro__L[p],only when going backwards,ok,ok,ok,N/A
+PRPPS,atp[c] + r5p[c] <=> amp[c] + h[c] + prpp[c],only when going backwards,ok,ok,ok,N/A
+PSCVT,pep[c] + skm5p[c] <=> 3psme[c] + pi[c],only when going backwards,ok,ok,ok,N/A
+PSD160,h[c] + ps160[c] --> co2[c] + pe160[c],ps160[c];pe160[c],ok,ok,ok,N/A
+PSD180,h[c] + ps180[c] --> co2[c] + pe180[c],ps180[c];pe180[c],ok,ok,ok,N/A
+PSERT,3php[c] + glu__L[c] --> akg[c] + pser__L[c],ok,ok,ok,ok,N/A
+PSP_L,h2o[c] + pser__L[c] --> pi[c] + ser__L[c],ok,ok,ok,ok,N/A
+PSSA160,cdpdhdecg[c] + ser__L[c] --> cmp[c] + h[c] + ps160[c],ps160[c],ok,ok,ok,N/A
+PSSA180,cdpdodecg[c] + ser__L[c] --> cmp[c] + h[c] + ps180[c],ps180[c],ok,ok,ok,N/A
+PTA2,pi[c] + ppcoa[c] --> coa[c] + ppap[c],ok,ok,ok,ok,N/A
+PTAr,accoa[c] + pi[c] <=> actp[c] + coa[c],ok,ok,ok,ok,N/A
+PTOLDOX,h[c] + nadh[c] + o2[c] + p_tol[c] --> dh4mchc[c] + nad[c],ok,ok,ok,ok,N/A
+PTPATi,atp[c] + h[c] + pan4p[c] --> dpcoa[c] + ppi[c],ok,ok,ok,ok,N/A
+PTRCabc,atp[c] + h2o[c] + ptrc[e] --> adp[c] + h[c] + pi[c] + ptrc[c],ok,ok,ok,ok,N/A
+PTRCabcpp,atp[c] + h2o[c] + ptrc[p] --> adp[c] + h[c] + pi[c] + ptrc[c],ok,ok,ok,ok,N/A
+PTRCt2pp,h[p] + ptrc[p] --> h[c] + ptrc[c],ok,ok,ok,ok,N/A
+PTRCTA,akg[c] + ptrc[c] --> 4abutn[c] + glu__L[c],ok,ok,ok,ok,N/A
+PTRCtex,ptrc[e] <=> ptrc[p],ok,ok,ok,ok,N/A
+PUNP1,adn[c] + pi[c] <=> ade[c] + r1p[c],only when going forwards,ok,ok,ok,N/A
+PUNP2,dad_2[c] + pi[c] <=> 2dr1p[c] + ade[c],only when going forwards,ok,ok,ok,N/A
+PUNP3,gsn[c] + pi[c] <=> gua[c] + r1p[c],only when going backwards,ok,ok,ok,N/A
+PUNP4,dgsn[c] + pi[c] <=> 2dr1p[c] + gua[c],only when going backwards,ok,ok,ok,N/A
+PUNP5,ins[c] + pi[c] <=> hxan[c] + r1p[c],only when going backwards,ok,ok,ok,N/A
+PUNP6,din[c] + pi[c] <=> 2dr1p[c] + hxan[c],only when going backwards,ok,ok,ok,N/A
+PUNP7,pi[c] + xtsn[c] <=> r1p[c] + xan[c],only when going backwards,ok,ok,ok,N/A
+PXMO,h[c] + nadh[c] + o2[c] + p_xyl[c] --> 4mbzalc[c] + h2o[c] + nad[c],ok,ok,ok,ok,N/A
+P_Xylt1,p_xyl[e] <=> p_xyl[p],only when going backwards,ok,ok,ok,N/A
+P_XYLtpp,p_xyl[p] <=> p_xyl[c],only when going backwards,ok,ok,ok,N/A
+PYAM5PO,h2o[c] + o2[c] + pyam5p[c] --> h2o2[c] + nh4[c] + pydx5p[c],ok,ok,ok,ok,N/A
+PYDXK,atp[c] + pydx[c] --> adp[c] + h[c] + pydx5p[c],ok,ok,ok,ok,N/A
+PYDXNO,o2[c] + pydxn[c] --> h2o2[c] + pydx[c],ok,ok,ok,ok,N/A
+PYDXO,2.0 h2o[c] + nh4[c] + 0.5 o2[c] + pydx[c] <=> 2.0 h2o2[c] + pydam[c],only when going forwards,ok,ok,ok,N/A
+PYDXPP,h2o[c] + pydx5p[c] --> pi[c] + pydx[c],ok,ok,ok,ok,N/A
+PYK,adp[c] + h[c] + pep[c] --> atp[c] + pyr[c],ok,ok,ok,ok,N/A
+PYRDC,h[c] + pyr[c] --> acald[c] + co2[c],ok,ok,ok,ok,N/A
+PYROX,h[c] + nadh[c] + o2[c] + ura[c] --> nad[c] + uracp[c],ok,ok,ok,ok,N/A
+PYRt2rpp,h[p] + pyr[p] <=> h[c] + pyr[c],ok,ok,ok,ok,N/A
+PYRt4pp,na1[p] + pyr[p] --> na1[c] + pyr[c],ok,ok,ok,ok,N/A
+PYRtex,pyr[e] <=> pyr[p],ok,ok,ok,ok,N/A
+QRr,h[c] + nadph[c] + q[c] --> nadp[c] + qh2[c],ok,ok,ok,ok,N/A
+QULNS,dhap[c] + iasp[c] --> 2.0 h2o[c] + pi[c] + quln[c],ok,ok,ok,ok,N/A
+RAFFabc,atp[c] + h2o[c] + raffin[e] --> adp[c] + h[c] + pi[c] + raffin[c],ok,ok,ok,ok,N/A
+RAFFtex,raffin[e] <=> raffin[p],only when going backwards,ok,ok,ok,N/A
+RAFGH,h2o[c] + raffin[c] --> gal[c] + sucr[c],ok,ok,ok,ok,N/A
+RAFHpp,h2o[p] + raffin[p] --> fru[p] + melib[p],ok,ok,ok,ok,N/A
+RBFK,atp[c] + ribflv[c] --> adp[c] + fmn[c] + h[c],ok,ok,ok,ok,N/A
+RBFSa,4r5au[c] + db4p[c] --> dmlz[c] + 2.0 h2o[c] + pi[c],ok,ok,ok,ok,N/A
+RBFSb,2.0 dmlz[c] --> 4r5au[c] + ribflv[c],ok,ok,ok,ok,N/A
+RBK,atp[c] + rib__D[c] --> adp[c] + h[c] + r5p[c],ok,ok,ok,ok,N/A
+RBK_L1,atp[c] + rbl__L[c] --> adp[c] + h[c] + ru5p__L[c],ok,ok,ok,ok,N/A
+RBP4E,ru5p__L[c] <=> xu5p__D[c],only when going backwards,ok,ok,ok,N/A
+RDXR,nadh[c] + 2.0 rdxo[c] --> h[c] + nad[c] + 2.0 rdxr[c],ok,ok,ok,ok,N/A
+REPHACCOAI,rephaccoa[c] <=> 2oxpaccoa[c],only when going backwards,ok,ok,ok,N/A
+RIBabc,atp[c] + h2o[c] + rib__D[e] --> adp[c] + h[c] + pi[c] + rib__D[c],ok,ok,ok,RIBabc1,N/A
+RIBabc1,atp[c] + h2o[c] + rib__D[c] --> adp[c] + h[c] + pi[c] + rib__D[e],ok,ok,ok,RIBabc,N/A
+RIBabcpp,atp[c] + h2o[c] + rib__D[p] --> adp[c] + h[c] + pi[c] + rib__D[c],ok,ok,ok,ok,N/A
+RIBtex,rib__D[e] <=> rib__D[p],only when going backwards,ok,ok,ok,N/A
+RMI,rmn[c] <=> rml[c],only when going backwards,ok,ok,ok,N/A
+RMK,atp[c] + rml[c] --> adp[c] + h[c] + rml1p[c],ok,ok,ok,ok,N/A
+RMNabc,atp[c] + h2o[c] + rmn[e] --> adp[c] + h[c] + pi[c] + rmn[c],ok,ok,ok,ok,N/A
+RMPA,rml1p[c] <=> dhap[c] + lald__L[c],only when going backwards,ok,ok,ok,N/A
+RNDR1,adp[c] + trdrd[c] --> dadp[c] + h2o[c] + trdox[c],ok,ok,ok,ok,N/A
+RNDR2,gdp[c] + trdrd[c] --> dgdp[c] + h2o[c] + trdox[c],ok,ok,ok,ok,N/A
+RNDR3,cdp[c] + trdrd[c] --> dcdp[c] + h2o[c] + trdox[c],ok,ok,ok,ok,N/A
+RNDR4,trdrd[c] + udp[c] --> dudp[c] + h2o[c] + trdox[c],ok,ok,ok,ok,N/A
+RNTR1c,atp[c] + fldrd[c] --> datp[c] + fldox[c] + h2o[c],ok,ok,ok,ok,N/A
+RNTR1c2,atp[c] + 2.0 flxr[c] + 2.0 h[c] --> datp[c] + 2.0 flxso[c] + h2o[c],ok,ok,ok,ok,N/A
+RNTR2c,fldrd[c] + gtp[c] --> dgtp[c] + fldox[c] + h2o[c],ok,ok,ok,ok,N/A
+RNTR2c2,2.0 flxr[c] + gtp[c] + 2.0 h[c] --> dgtp[c] + 2.0 flxso[c] + h2o[c],ok,ok,ok,ok,N/A
+RNTR3c,ctp[c] + fldrd[c] --> dctp[c] + fldox[c] + h2o[c],ok,ok,ok,ok,N/A
+RNTR3c2,ctp[c] + 2.0 flxr[c] + 2.0 h[c] --> dctp[c] + 2.0 flxso[c] + h2o[c],ok,ok,ok,ok,N/A
+RNTR4c,fldrd[c] + utp[c] --> dutp[c] + fldox[c] + h2o[c],ok,ok,ok,ok,N/A
+RNTR4c2,2.0 flxr[c] + 2.0 h[c] + utp[c] --> dutp[c] + 2.0 flxso[c] + h2o[c],ok,ok,ok,ok,N/A
+ROO,4.0 h[c] + o2[c] + 4.0 rdxr[c] --> 2.0 h2o[c] + 4.0 rdxo[c],ok,ok,ok,ok,N/A
+RPE,ru5p__D[c] <=> xu5p__D[c],ok,ok,ok,ok,N/A
+RPI,r5p[c] <=> ru5p__D[c],ok,ok,ok,ok,N/A
+S2FE2SR,2fe1s[c] + atp[c] + h2o[c] + sufbcd[c] + sufsesh[c] --> adp[c] + 5.0 h[c] + pi[c] + sufbcd_2fe2s[c] + sufse[c],ok,ok,ok,ok,N/A
+S2FE2SS2,atp[c] + fadh2[c] + 2.0 fe2[c] + h2o[c] + sufbcd_2fe2s[c] + 2.0 sufsesh[c] --> adp[c] + fad[c] + 7.0 h[c] + pi[c] + sufbcd_2fe2s2[c] + 2.0 sufse[c],ok,ok,ok,ok,N/A
+S2FE2ST,4.0 h[c] + sufbcd_2fe2s[c] --> 2fe2s[c] + sufbcd[c],ok,ok,ok,ok,N/A
+S4FE4SR,fadh2[c] + 2.0 h[c] + sufbcd_2fe2s2[c] --> fad[c] + sufbcd_4fe4s[c],ok,ok,ok,ok,N/A
+S4FE4ST,4.0 h[c] + sufbcd_4fe4s[c] --> 4fe4s[c] + sufbcd[c],ok,ok,ok,ok,N/A
+S6PG,h2o[c] + salcn6p[c] --> 2hxmp[c] + g6p[c],ok,ok,ok,ok,N/A
+S7PI,s7p[c] --> gmhep7p[c],ok,ok,ok,ok,N/A
+SADT,atp[c] + h[c] + so4[c] --> aps[c] + ppi[c],ok,ok,ok,ok,N/A
+SADT2,atp[c] + gtp[c] + h2o[c] + so4[c] --> aps[c] + gdp[c] + pi[c] + ppi[c],ok,ok,ok,ok,N/A
+SALADC2,Lcyst[c] --> co2[c] + taur[c],ok,ok,ok,ok,N/A
+SALCHS4abcpp,atp[c] + h2o[c] + salchs4[c] --> adp[c] + h[c] + pi[c] + salchs4[p],ok,ok,ok,ok,N/A
+SALCHS4FEabcpp,atp[c] + h2o[c] + salchs4fe[p] --> adp[c] + h[c] + pi[c] + salchs4fe[c],ok,ok,ok,ok,N/A
+SALCHS4FER3,rbflvrd[c] + 2.0 salchs4fe[c] --> 2.0 fe2[c] + 2.0 h[c] + ribflv[c] + 2.0 salchs4[c],ok,ok,ok,ok,N/A
+SALCHS4FEtonex,h[p] + salchs4fe[e] --> h[c] + salchs4fe[p],ok,ok,ok,ok,N/A
+SALCHS4tex,h[p] + salchs4[p] --> h[c] + salchs4[e],ok,ok,ok,ok,N/A
+SALCNtex,salcn[e] <=> salcn[p],only when going backwards,ok,ok,ok,N/A
+SALCpts,pep[c] + salcn[e] --> pyr[c] + salcn6p[c],ok,ok,ok,ok,N/A
+SALCptspp,pep[c] + salcn[p] --> pyr[c] + salcn6p[c],ok,ok,ok,ok,N/A
+SBTD_D2,nad[c] + sbt__D[c] --> fru[c] + h[c] + nadh[c],ok,ok,ok,ok,N/A
+SBTt2,h[e] + sbt__D[e] --> h[c] + sbt__D[c],ok,ok,ok,ok,N/A
+SCYSDS,cys__L[c] + sufse[c] --> ala__L[c] + sufsesh[c],ok,ok,ok,ok,N/A
+SDPDS,h2o[c] + sl26da[c] --> 26dap_LL[c] + succ[c],ok,ok,ok,ok,N/A
+SDPTA,akg[c] + sl26da[c] <=> glu__L[c] + sl2a6o[c],only when going forwards,ok,ok,ok,N/A
+SERabcpp,atp[c] + h2o[c] + ser__L[p] --> adp[c] + h[c] + pi[c] + ser__L[c],ok,ok,ok,ok,N/A
+SERASr,atp[c] + h[c] + ser__L[c] <=> ppi[c] + seramp[c],only when going backwards,ok,ok,ok,N/A
+SERAT,accoa[c] + ser__L[c] <=> acser[c] + coa[c],only when going backwards,ok,ok,ok,N/A
+SERD_L,ser__L[c] --> nh4[c] + pyr[c],ok,ok,ok,ok,N/A
+SERt2r,h[e] + ser__L[e] <=> h[c] + ser__L[c],ok,ok,ok,ok,N/A
+SERt2rpp,h[p] + ser__L[p] <=> h[c] + ser__L[c],only when going forwards,ok,ok,ok,N/A
+SFGTHi,Sfglutth[c] + h2o[c] --> for[c] + gthrd[c] + h[c],ok,ok,ok,ok,N/A
+SHCHCS,ichor[c] + sucsal[c] --> 2shchc[c] + pyr[c],ichor[c];2shchc[c],ok,ok,ok,N/A
+SHCHD2,dscl[c] + nad[c] --> h[c] + nadh[c] + scl[c],ok,ok,ok,ok,N/A
+SHCHD3,dscl[c] + nad[c] --> h[c] + nadh[c] + scl2[c],ok,ok,ok,ok,N/A
+SHCHF,fe2[c] + scl[c] --> 3.0 h[c] + sheme[c],ok,ok,ok,ok,N/A
+SHCHF2,fe2[c] + scl2[c] --> 2.0 h[c] + sheme[c],ok,ok,ok,ok,N/A
+SHK3Dr,3dhsk[c] + h[c] + nadph[c] <=> nadp[c] + skm[c],only when going backwards,ok,ok,ok,N/A
+SHKK,atp[c] + skm[c] --> adp[c] + h[c] + skm5p[c],ok,ok,ok,ok,N/A
+SHSL1,cys__L[c] + suchms[c] --> cyst__L[c] + h[c] + succ[c],ok,ok,ok,ok,N/A
+SHSL2r,h2s[c] + suchms[c] --> h[c] + hcys__L[c] + succ[c],ok,ok,ok,ok,N/A
+SHSL4r,h2o[c] + suchms[c] --> 2obut[c] + h[c] + nh4[c] + succ[c],ok,ok,ok,ok,N/A
+SKMt2pp,h[p] + skm[p] --> h[c] + skm[c],ok,ok,ok,ok,N/A
+SKMtex,skm[e] <=> skm[p],only when going backwards,ok,ok,ok,N/A
+SLCYSS,acser[c] + tsul[c] --> ac[c] + scys__L[c],scys__L[c],ok,ok,ok,N/A
+SO3abcpp,atp[c] + h2o[c] + so3[p] --> adp[c] + h[c] + pi[c] + so3[c],ok,ok,ok,ok,N/A
+SO3tex,so3[e] <=> so3[p],only when going backwards,ok,ok,ok,N/A
+SO4tex,so4[e] <=> so4[p],only when going backwards,ok,ok,ok,N/A
+SPMDabc,atp[c] + h2o[c] + spmd[e] --> adp[c] + h[c] + pi[c] + spmd[c],ok,ok,ok,ok,N/A
+SPMDabcpp,atp[c] + h2o[c] + spmd[p] --> adp[c] + h[c] + pi[c] + spmd[c],ok,ok,ok,ok,N/A
+SPMDt3,h[e] + spmd[c] --> h[c] + spmd[e],ok,ok,ok,ok,N/A
+SPMDt3pp,h[p] + spmd[c] --> h[c] + spmd[p],ok,ok,ok,ok,N/A
+SPMS,ametam[c] + ptrc[c] --> 5mta[c] + h[c] + spmd[c],ok,ok,ok,ok,N/A
+SPTc,pyr[c] + ser__L[c] <=> ala__L[c] + hpyr[c],only when going backwards,ok,ok,ok,N/A
+SSALx,h2o[c] + nad[c] + sucsal[c] --> 2.0 h[c] + nadh[c] + succ[c],ok,ok,ok,ok,N/A
+SSALy,h2o[c] + nadp[c] + sucsal[c] --> 2.0 h[c] + nadph[c] + succ[c],ok,ok,ok,ok,N/A
+SSCOARy,h[c] + nadph[c] + succoa[c] <=> coa[c] + nadp[c] + sucsal[c],ok,ok,ok,ok,N/A
+St,s[e] <=> s[c],only when going forwards,ok,ok,ok,N/A
+SUCBZL,atp[c] + coa[c] + sucbz[c] --> amp[c] + ppi[c] + sbzcoa[c],sucbz[c];sbzcoa[c],ok,ok,ok,N/A
+SUCBZS,2shchc[c] --> h2o[c] + sucbz[c],2shchc[c];sucbz[c],ok,ok,ok,N/A
+SUCBZT1,bz[c] + 4.0 h[c] + succoa[c] <=> benzcoa[c] + succ[c],only when going forwards,ok,ok,ok,N/A
+SUCBZT2,4hbz[c] + succoa[c] <=> 4hbzcoa[c] + succ[c],ok,ok,ok,ok,N/A
+SUCD1,fad[c] + succ[c] <=> fadh2[c] + fum[c],ok,ok,ok,ok,N/A
+SUCOAS,atp[c] + coa[c] + succ[c] <=> adp[c] + pi[c] + succoa[c],ok,ok,ok,ok,N/A
+SUCpts,pep[c] + sucr[e] --> pyr[c] + suc6p[c],ok,ok,ok,ok,N/A
+SUCR,h2o[c] + sucr[c] --> fru[c] + glc__D[c],ok,ok,ok,ok,N/A
+SUCRabcpp_syn,atp[c] + h2o[c] + sucr[p] --> adp[c] + h[c] + pi[c] + sucr[c],ok,ok,ok,ok,N/A
+SUCRtex,sucr[e] <=> sucr[p],only when going backwards,ok,ok,ok,N/A
+SULAabc,atp[c] + h2o[c] + sula[e] --> adp[c] + h[c] + pi[c] + sula[c],ok,ok,ok,ok,N/A
+SULabc,atp[c] + h2o[c] + so4[e] --> adp[c] + h[c] + pi[c] + so4[c],ok,ok,ok,ok,N/A
+SULabcpp,atp[c] + h2o[c] + so4[p] --> adp[c] + h[c] + pi[c] + so4[c],ok,ok,ok,ok,N/A
+SULFACabcpp,atp[c] + h2o[c] + sulfac[p] --> adp[c] + h[c] + pi[c] + sulfac[c],ok,ok,ok,ok,N/A
+SULFACtex,sulfac[e] <=> sulfac[p],only when going backwards,ok,ok,ok,N/A
+SULRi,5.0 h[c] + 3.0 nadph[c] + so3[c] --> 3.0 h2o[c] + h2s[c] + 3.0 nadp[c],ok,ok,ok,ok,N/A
+T2DECAI,tdec2eACP[c] <=> cdec3eACP[c],only when going backwards,ok,ok,ok,N/A
+TALA,g3p[c] + s7p[c] <=> e4p[c] + f6p[c],ok,ok,ok,ok,N/A
+TARTRDtex,tartr__D[e] <=> tartr__D[p],only when going backwards,ok,ok,ok,N/A
+TARTRDtpp,tartr__D[p] <=> tartr__D[c],only when going backwards,ok,ok,ok,N/A
+TAUDO,akg[c] + o2[c] + taur[c] --> aacald[c] + co2[c] + h[c] + so3[c] + succ[c],ok,ok,ok,ok,N/A
+TAURabc,atp[c] + h2o[c] + taur[e] --> adp[c] + h[c] + pi[c] + taur[c],ok,ok,ok,ok,N/A
+TAURabcpp,atp[c] + h2o[c] + taur[p] --> adp[c] + h[c] + pi[c] + taur[c],ok,ok,ok,ok,N/A
+TAURtex,taur[e] <=> taur[p],only when going backwards,ok,ok,ok,N/A
+TDPDRE,dtdp4d6dg[c] --> dtdp4d6dm[c],ok,ok,ok,ok,N/A
+TDPDRR,dtdp4d6dm[c] + h[c] + nadph[c] --> dtdprmn[c] + nadp[c],ok,ok,ok,ok,N/A
+TDPGDH,dtdpglu[c] --> dtdp4d6dg[c] + h2o[c],ok,ok,ok,ok,N/A
+TDSKN,atp[c] + lipidAdsn[c] --> adp[c] + h[c] + lipidAn[c],ok,ok,ok,ok,N/A
+TECA1S45,45.0 cdpglyc[c] + uacgam[c] + uacmam[c] --> 45.0 cmp[c] + gtca1_45_BS[c] + 46.0 h[c] + udp[c] + ump[c],ok,ok,ok,ok,N/A
+TECA2S45,45.0 ala__D[c] + 45.0 atp[c] + 45.0 cdpglyc[c] + 45.0 h2o[c] + uacgam[c] + uacmam[c] --> 45.0 amp[c] + 45.0 cmp[c] + gtca2_45_BS[c] + 91.0 h[c] + 45.0 ppi[c] + udp[c] + ump[c],ok,ok,ok,ok,N/A
+TECA3S45,45.0 cdpglyc[c] + h2o[c] + uacgam[c] + uacmam[c] + 45.0 udpg[c] --> 45.0 cmp[c] + gtca3_45_BS[c] + 91.0 h[c] + 46.0 udp[c] + ump[c],ok,ok,ok,ok,N/A
+TGBPA,tagdp__D[c] <=> dhap[c] + g3p[c],only when going backwards,ok,ok,ok,N/A
+THDPS,h2o[c] + succoa[c] + thdp[c] --> coa[c] + sl2a6o[c],ok,ok,ok,ok,N/A
+THFAT,h2o[c] + methf[c] --> 5fthf[c] + h[c],ok,ok,FOMETRi,FOMETRi,N/A
+THIORDXi,h2o2[c] + trdrd[c] --> 2.0 h2o[c] + trdox[c],ok,ok,ok,ok,N/A
+THMabc,atp[c] + h2o[c] + thm[e] --> adp[c] + h[c] + pi[c] + thm[c],ok,ok,ok,ok,N/A
+THMDP,2.0 h2o[c] + thmpp[c] --> h[c] + 2.0 pi[c] + thm[c],ok,ok,ok,ok,N/A
+THMDt2pp,h[p] + thymd[p] <=> h[c] + thymd[c],only when going backwards,ok,ok,ok,N/A
+THMt6,h[e] + thym[e] <=> h[c] + thym[c],ok,ok,ok,ok,N/A
+THRA2i,athr__L[c] --> acald[c] + gly[c],ok,ok,ok,ok,N/A
+THRabc,atp[c] + h2o[c] + thr__L[e] --> adp[c] + h[c] + pi[c] + thr__L[c],ok,ok,ok,ok,N/A
+THRabcpp,atp[c] + h2o[c] + thr__L[p] --> adp[c] + h[c] + pi[c] + thr__L[c],ok,ok,ok,ok,N/A
+THRAi,thr__L[c] --> acald[c] + gly[c],ok,ok,ok,ok,N/A
+THRD,nad[c] + thr__L[c] --> 2aobut[c] + h[c] + nadh[c],ok,ok,ok,ok,N/A
+THRD_L,thr__L[c] --> 2obut[c] + nh4[c],ok,ok,ok,ok,N/A
+THRS,h2o[c] + phom[c] --> pi[c] + thr__L[c],ok,ok,ok,ok,N/A
+THRt2pp,h[p] + thr__L[c] --> h[c] + thr__L[p],ok,ok,ok,ok,N/A
+THZPSN,atp[c] + cys__L[c] + dxyl5p[c] + tyr__L[c] --> 4hba[c] + 4mpetz[c] + ala__L[c] + amp[c] + co2[c] + h2o[c] + h[c] + ppi[c],ok,ok,ok,ok,N/A
+TKT1,r5p[c] + xu5p__D[c] <=> g3p[c] + s7p[c],ok,ok,ok,ok,N/A
+TKT2,e4p[c] + xu5p__D[c] <=> f6p[c] + g3p[c],ok,ok,ok,ok,N/A
+TMDK1,atp[c] + thymd[c] --> adp[c] + dtmp[c] + h[c],ok,ok,ok,ok,N/A
+TMDPP,pi[c] + thymd[c] <=> 2dr1p[c] + thym[c],ok,ok,ok,ok,N/A
+TMDS3,dump[c] + h[c] + mlthf[c] + nadph[c] --> dtmp[c] + nadp[c] + thf[c],ok,ok,ok,ok,N/A
+TMK,atp[c] + thm[c] --> adp[c] + h[c] + thmmp[c],ok,ok,ok,ok,N/A
+TMPK,atp[c] + thmmp[c] --> adp[c] + thmpp[c],ok,ok,ok,ok,N/A
+TMPPP,2mahmp[c] + 4mpetz[c] + h[c] --> ppi[c] + thmmp[c],ok,ok,ok,ok,N/A
+TOLtex,tol[e] <=> tol[p],tol[e];tol[p],ok,ok,ok,N/A
+TPI,dhap[c] <=> g3p[c],ok,ok,ok,ok,N/A
+TRDR,h[c] + nadph[c] + trdox[c] --> nadp[c] + trdrd[c],ok,ok,ok,ok,N/A
+TRE6PP,h2o[c] + tre6p[c] --> pi[c] + tre[c],ok,ok,ok,ok,N/A
+TRE6PS,g6p[c] + udpg[c] --> h[c] + tre6p[c] + udp[c],ok,ok,ok,ok,N/A
+TREabc,atp[c] + h2o[c] + tre[e] --> adp[c] + h[c] + pi[c] + tre[c],ok,ok,ok,ok,N/A
+TREpts,pep[c] + tre[e] --> pyr[c] + tre6p[c],ok,ok,ok,ok,N/A
+TREptspp,pep[c] + tre[p] --> pyr[c] + tre6p[c],ok,ok,ok,ok,N/A
+TREtex,tre[e] <=> tre[p],only when going backwards,ok,ok,ok,N/A
+TRPAS1,cys__L[c] + h2o[c] --> h2s[c] + h[c] + nh4[c] + pyr[c],ok,ok,ok,ok,N/A
+TRPS1,3ig3p[c] + ser__L[c] --> g3p[c] + h2o[c] + trp__L[c],ok,ok,ok,ok,N/A
+TRPS2,indole[c] + ser__L[c] --> h2o[c] + trp__L[c],ok,ok,ok,ok,N/A
+TRPS3,3ig3p[c] --> g3p[c] + indole[c],ok,ok,ok,ok,N/A
+TRPTA,akg[c] + trp__L[c] <=> glu__L[c] + indpyr[c],indpyr[c],ok,ok,ok,N/A
+TRSARr,2h3oppan[c] + h[c] + nadh[c] <=> glyc__R[c] + nad[c],only when going backwards,ok,ok,ok,N/A
+TSULabc,atp[c] + h2o[c] + tsul[e] --> adp[c] + h[c] + pi[c] + tsul[c],ok,ok,ok,ok,N/A
+TSULabcpp,atp[c] + h2o[c] + tsul[p] --> adp[c] + h[c] + pi[c] + tsul[c],ok,ok,ok,ok,N/A
+TSULR3e,2.0 gthrd[c] + tsul[c] <=> gthox[c] + h2s[c] + so3[c],only when going backwards,ok,ok,ok,N/A
+TSULtex,tsul[e] <=> tsul[p],only when going backwards,ok,ok,ok,N/A
+TYRTA,akg[c] + tyr__L[c] <=> 34hpp[c] + glu__L[c],only when going forwards,ok,ok,ok,N/A
+U23GAATN,3hmrsACP[c] + u3hgn[c] --> ACP[c] + h[c] + u23gn[c],ok,ok,ok,ok,N/A
+UAAGDS,26dap__M[c] + atp[c] + uamag[c] --> adp[c] + h[c] + pi[c] + ugmd[c],ok,ok,ok,ok,N/A
+UAAGMDt,uaagmda[c] <=> uaagmda[e],ok,ok,ok,ok,N/A
+UACGAMDH,nad[c] + uacgam[c] <=> h[c] + nadh[c] + uacgamo[c],only when going backwards,ok,ok,ok,N/A
+UACGAMOAT,glu__L[c] + uacgamo[c] <=> akg[c] + uacgnn[c],only when going backwards,ok,ok,ok,N/A
+UAG2E,uacgam[c] <=> uacmam[c],only when going backwards,ok,ok,ok,N/A
+UAG2EMA,h2o[c] + uacgam[c] --> acmana[c] + h[c] + udp[c],ok,ok,ok,ok,N/A
+UAGAATN,3hmrsACP[c] + uacgnn[c] <=> ACP[c] + h[c] + u3agn[c],only when going backwards,ok,ok,ok,N/A
+UAGCVT,pep[c] + uacgam[c] --> pi[c] + uaccg[c],ok,ok,ok,ok,N/A
+UAGDP,acgam1p[c] + h[c] + utp[c] --> ppi[c] + uacgam[c],ok,ok,ok,ok,N/A
+UAGPT3,uacgam[c] + uagmda[c] --> h[c] + uaagmda[c] + udp[c],ok,ok,ok,ok,N/A
+UAMAGS,atp[c] + glu__D[c] + uama[c] --> adp[c] + h[c] + pi[c] + uamag[c],ok,ok,ok,ok,N/A
+UAMAS,ala__L[c] + atp[c] + uamr[c] --> adp[c] + h[c] + pi[c] + uama[c],ok,ok,ok,ok,N/A
+UAPGR,h[c] + nadph[c] + uaccg[c] --> nadp[c] + uamr[c],ok,ok,ok,ok,N/A
+UDCPDP,h2o[c] + udcpdp[c] --> h[c] + pi[c] + udcpp[c],ok,ok,ok,ok,N/A
+UDCPPtppi,udcpp[p] --> udcpp[c],ok,ok,ok,ok,N/A
+UDPDPS,decdp[c] + ipdp[c] --> ppi[c] + udcpdp[c],ok,ok,ok,ok,N/A
+UDPDPS2,decdp_tb[c] + ipdp[c] --> ppi[c] + udcpdp[c],ok,ok,ok,ok,N/A
+UDPG4E,udpg[c] <=> udpgal[c],ok,ok,ok,ok,N/A
+UDPGD,h2o[c] + 2.0 nad[c] + udpg[c] --> 3.0 h[c] + 2.0 nadh[c] + udpglcur[c],ok,ok,ok,ok,N/A
+UDPGDC,nad[c] + udpglcur[c] --> co2[c] + nadh[c] + udpLa4o[c],ok,ok,ok,ok,N/A
+UDPKAAT,glu__L[c] + udpLa4o[c] <=> akg[c] + udpLa4n[c],only when going backwards,ok,ok,ok,N/A
+UGLYCH,h2o[c] + 2.0 h[c] + urdglyc[c] --> co2[c] + glx[c] + 2.0 nh4[c],ok,ok,ok,ok,N/A
+UGMDDS,alaala[c] + atp[c] + ugmd[c] --> adp[c] + h[c] + pi[c] + ugmda[c],ok,ok,ok,ok,N/A
+UGT_BS,0.01 12dgr_BS[c] + 2.0 udpg[c] --> 0.01 d12dg_BS[c] + 2.0 h[c] + 2.0 udp[c],ok,ok,ok,ok,N/A
+UHBZ1t_pp,4hbz[p] + h[p] <=> 4hbz[c] + h[c],ok,ok,ok,ok,N/A
+UHGADAN,h2o[c] + u3agn[c] --> ac[c] + u3hgn[c],ok,ok,ok,ok,N/A
+ULA4NFT,10fthf[c] + udpLa4n[c] --> h[c] + thf[c] + udpLa4fn[c],ok,ok,ok,ok,N/A
+ULA4Ntppi,uLa4n[c] --> uLa4n[p],ok,ok,ok,ok,N/A
+UM3PL,LalaDgluMdap[c] + atp[c] + uamr[c] --> adp[c] + h[c] + pi[c] + ugmd[c],ok,ok,ok,ok,N/A
+UM4PCP,h2o[c] + um4p[c] --> ala__D[c] + ugmd[c],ok,ok,ok,ok,N/A
+UM4PL,LalaDgluMdapDala[c] + atp[c] + uamr[c] --> adp[c] + h[c] + pi[c] + um4p[c],ok,ok,ok,ok,N/A
+UMPK,atp[c] + ump[c] <=> adp[c] + udp[c],ok,ok,ok,ok,N/A
+UMPtex,ump[e] <=> ump[p],only when going backwards,ok,ok,ok,N/A
+UNK3,2kmb[c] + glu__L[c] --> akg[c] + met__L[c],ok,ok,ok,ok,N/A
+UPLA4FNF,h2o[c] + uLa4fn[c] --> for[c] + uLa4n[c],ok,ok,ok,ok,N/A
+UPLA4FNT,udcpp[c] + udpLa4fn[c] --> uLa4fn[c] + udp[c],ok,ok,ok,ok,N/A
+UPP3MT,2.0 amet[c] + uppg3[c] --> 2.0 ahcys[c] + dscl[c] + h[c],ok,ok,ok,ok,N/A
+UPP3S,hmbil[c] --> h2o[c] + uppg3[c],ok,ok,ok,ok,N/A
+UPPDC1,4.0 h[c] + uppg3[c] --> 4.0 co2[c] + cpppg3[c],ok,ok,ok,ok,N/A
+UPPRT,prpp[c] + ura[c] --> ppi[c] + ump[c],ok,ok,ok,ok,N/A
+URACPAH,h2o[c] + uracp[c] --> cbm[c] + h[c] + poaac[c],ok,ok,ok,ok,N/A
+URAt2,h[e] + ura[e] --> h[c] + ura[c],ok,ok,ok,ok,N/A
+URAt2pp,h[p] + ura[p] --> h[c] + ura[c],ok,ok,ok,ok,N/A
+URATEt_1,h[e] + urate[e] <=> h[c] + urate[c],ok,ok,ok,ok,N/A
+URAtex,ura[e] <=> ura[p],only when going backwards,ok,ok,ok,N/A
+URCN,h2o[c] + urcan[c] --> 4izp[c],ok,ok,ok,ok,N/A
+UREA,h2o[c] + 2.0 h[c] + urea[c] --> co2[c] + 2.0 nh4[c],ok,ok,ok,ok,N/A
+UREAt,urea[e] <=> urea[c],ok,ok,ok,ok,N/A
+URIC,2.0 h2o[c] + o2[c] + urate[c] --> alltn[c] + co2[c] + h2o2[c],ok,ok,ok,ok,N/A
+URIH,h2o[c] + uri[c] --> rib__D[c] + ura[c],ok,ok,ok,ok,N/A
+URIK1,atp[c] + uri[c] --> adp[c] + h[c] + ump[c],ok,ok,ok,ok,N/A
+URIK2,gtp[c] + uri[c] --> gdp[c] + h[c] + ump[c],ok,ok,ok,ok,N/A
+URIK3,itp[c] + uri[c] --> h[c] + idp[c] + ump[c],ok,ok,ok,ok,N/A
+URIt2pp,h[p] + uri[p] <=> h[c] + uri[c],only when going backwards,ok,ok,ok,N/A
+USHDN,h2o[c] + u23gn[c] --> 2.0 h[c] + lipidXn[c] + ump[c],ok,ok,ok,ok,N/A
+VALabc,atp[c] + h2o[c] + val__L[e] --> adp[c] + h[c] + pi[c] + val__L[c],ok,ok,ok,ok,N/A
+VALabcpp,atp[c] + h2o[c] + val__L[p] --> adp[c] + h[c] + pi[c] + val__L[c],ok,ok,ok,ok,N/A
+VALDHr,h2o[c] + nad[c] + val__L[c] <=> 3mob[c] + h[c] + nadh[c] + nh4[c],ok,ok,ok,ok,N/A
+VALTA,akg[c] + val__L[c] <=> 3mob[c] + glu__L[c],ok,ok,ok,ok,N/A
+VALtex,val__L[e] <=> val__L[p],only when going backwards,ok,ok,ok,N/A
+VANKpp,h[p] + vanlt[p] <=> h[c] + vanlt[c],vanlt[p];vanlt[c],ok,ok,ok,N/A
+VNDH_2,4hbald[c] + h2o[c] + nad[c] --> 4hbz[c] + 2.0 h[c] + nadh[c],ok,ok,ok,ok,N/A
+VNLNpp,h[p] + vanln[p] <=> h[c] + vanln[c],vanln[p];vanln[c],ok,ok,ok,N/A
+XAND,h2o[c] + nad[c] + xan[c] --> h[c] + nadh[c] + urate[c],ok,ok,ok,ok,N/A
+XANt2,h[e] + xan[e] --> h[c] + xan[c],ok,ok,ok,ok,N/A
+XMPtex,xmp[e] <=> xmp[p],only when going backwards,ok,ok,ok,N/A
+XPPT,prpp[c] + xan[c] --> ppi[c] + xmp[c],ok,ok,ok,ok,N/A
+XTSNt2rpp,h[p] + xtsn[p] <=> h[c] + xtsn[c],only when going backwards,ok,ok,ok,N/A
+XYLabc,atp[c] + h2o[c] + xyl__D[e] --> adp[c] + h[c] + pi[c] + xyl__D[c],ok,ok,ok,ok,N/A
+XYLabcpp,atp[c] + h2o[c] + xyl__D[p] --> adp[c] + h[c] + pi[c] + xyl__D[c],ok,ok,ok,ok,N/A
+XYLI1,xyl__D[c] <=> xylu__D[c],only when going backwards,ok,ok,ok,N/A
+XYLK,atp[c] + xylu__D[c] --> adp[c] + h[c] + xu5p__D[c],ok,ok,ok,ok,N/A
+XYLtex,xyl__D[e] <=> xyl__D[p],only when going backwards,ok,ok,ok,N/A
+ZN2t3pp,h[p] + zn2[c] --> h[c] + zn2[p],ok,ok,ok,ok,N/A
+ZN2t4pp,h[p] + k[p] + zn2[c] --> h[c] + k[c] + zn2[p],ok,ok,ok,ok,N/A
+Zn2tex,zn2[e] <=> zn2[p],ok,ok,ok,ok,N/A
+ZNabc,atp[c] + h2o[c] + zn2[e] --> adp[c] + h[c] + pi[c] + zn2[c],ok,ok,ok,ok,N/A
+ZNabcpp,atp[c] + h2o[c] + zn2[p] --> adp[c] + h[c] + pi[c] + zn2[c],ok,ok,ok,ok,N/A
+EX_glc__D_e,glc__D[e] <=> ,ok,ok,ok,ok,N/A
+EX_h2o_e,h2o[e] <=> ,ok,ok,ok,ok,N/A
+EX_14glucan_e,14glucan[e] <=> ,ok,ok,ok,ok,N/A
+EX_h_e,h[e] <=> ,ok,ok,ok,ok,N/A
+EX_hco3_e,hco3[e] <=> ,ok,ok,ok,ok,N/A
+EX_2hxmp_e,2hxmp[e] <=> ,ok,ok,ok,ok,N/A
+EX_2pglyc_e,2pglyc[e] <=> ,ok,ok,ok,ok,N/A
+EX_leu__L_e,leu__L[e] <=> ,ok,ok,ok,ok,N/A
+EX_3hoxpac_e,3hoxpac[e] <=> ,ok,ok,ok,ok,N/A
+EX_3mb_e,3mb[e] <=> ,ok,ok,ok,ok,N/A
+EX_LalaDgluMdap_e,LalaDgluMdap[e] <=> ,ok,ok,ok,ok,N/A
+EX_4hbald_e,4hbald[e] <=> ,ok,ok,ok,ok,N/A
+EX_4hba_e,4hba[e] <=> ,4hba[e],ok,ok,ok,N/A
+EX_4hbz_e,4hbz[e] <=> ,ok,ok,ok,ok,N/A
+EX_ala__L_e,ala__L[e] <=> ,ok,ok,ok,ok,N/A
+EX_cl_e,cl[e] <=> ,ok,ok,ok,ok,N/A
+EX_dextrin_e,dextrin[e] <=> ,ok,ok,ok,ok,N/A
+EX_starch_e,starch[e] <=> ,ok,ok,ok,ok,N/A
+EX_arab__L_e,arab__L[e] <=> ,ok,ok,ok,ok,N/A
+EX_4abut_e,4abut[e] <=> ,ok,ok,ok,ok,N/A
+EX_acald_e,acald[e] <=> ,acald[e],ok,ok,ok,N/A
+EX_acgam_e,acgam[e] <=> ,ok,ok,ok,ok,N/A
+EX_ac_e,ac[e] <=> ,ok,ok,ok,ok,N/A
+EX_chol_e,chol[e] <=> ,chol[e],ok,ok,ok,N/A
+EX_acnam_e,acnam[e] <=> ,ok,ok,ok,ok,N/A
+EX_pi_e,pi[e] <=> ,ok,ok,ok,ok,N/A
+EX_acser_e,acser[e] <=> ,ok,ok,ok,ok,N/A
+EX_actn__e,actn__R[e] <=> ,ok,ok,ok,ok,N/A
+EX_acysbmn_e,acysbmn[e] <=> ,ok,ok,ok,ok,N/A
+EX_nh4_e,nh4[e] <=> ,ok,ok,ok,ok,N/A
+EX_agm_e,agm[e] <=> ,ok,ok,ok,ok,N/A
+EX_akg_e,akg[e] <=> ,akg[e],ok,ok,ok,N/A
+EX_mal__L_e,mal__L[e] <=> ,mal__L[e],ok,ok,ok,N/A
+EX_alaala_e,alaala[e] <=> ,ok,ok,ok,ok,N/A
+EX_asn__L_e,asn__L[e] <=> ,ok,ok,ok,ok,N/A
+EX_ala__D_e,ala__D[e] <=> ,ok,ok,ok,ok,N/A
+EX_gln__L_e,gln__L[e] <=> ,ok,ok,ok,ok,N/A
+EX_gly_e,gly[e] <=> ,ok,ok,ok,ok,N/A
+EX_se_L_e,ser__L[e] <=> ,ok,ok,ok,ok,N/A
+EX_th_L_e,thr__L[e] <=> ,ok,ok,ok,ok,N/A
+EX_arg__L_e,arg__L[e] <=> ,ok,ok,ok,ok,N/A
+EX_amp_e,amp[e] <=> ,ok,ok,ok,ok,N/A
+EX_cgly_e,cgly[e] <=> ,ok,ok,ok,ok,N/A
+EX_malt_e,malt[e] <=> ,ok,ok,ok,ok,N/A
+EX_malttr_e,malttr[e] <=> ,ok,ok,ok,ok,N/A
+EX_anhgm_e,anhgm[e] <=> ,ok,ok,ok,ok,N/A
+EX_arab__D_e,arab__D[e] <=> ,ok,ok,ok,ok,N/A
+EX_fe3_e,fe3[e] <=> ,ok,ok,ok,ok,N/A
+EX_arbt_e,arbt[e] <=> ,ok,ok,ok,ok,N/A
+EX_lys__L_e,lys__L[e] <=> ,ok,ok,ok,ok,N/A
+EX_orn_e,orn[e] <=> ,ok,ok,ok,ok,N/A
+EX_asp__L_e,asp__L[e] <=> ,ok,ok,ok,ok,N/A
+EX_aso3_e,aso3[e] <=> ,ok,ok,ok,ok,N/A
+EX_aso4_e,aso4[e] <=> ,ok,ok,ok,ok,N/A
+EX_k_e,k[e] <=> ,ok,ok,ok,ok,N/A
+EX_pro__L_e,pro__L[e] <=> ,ok,ok,ok,ok,N/A
+EX_ala_B_e,ala_B[e] <=> ,ok,ok,ok,ok,N/A
+EX_cellb_e,cellb[e] <=> ,ok,ok,ok,ok,N/A
+EX_meoh_e,meoh[e] <=> ,meoh[e],ok,ok,ok,N/A
+EX_bmn_e,bmn[e] <=> ,ok,ok,ok,ok,N/A
+EX_btoh_e,btoh[e] <=> ,btoh[e],ok,ok,ok,N/A
+EX_buts_e,buts[e] <=> ,ok,ok,ok,ok,N/A
+EX_butso3_e,butso3[e] <=> ,ok,ok,ok,ok,N/A
+EX_but_e,but[e] <=> ,ok,ok,ok,ok,N/A
+EX_bzal_e,bzal[e] <=> ,ok,ok,ok,ok,N/A
+EX_bz_e,bz[e] <=> ,ok,ok,ok,ok,N/A
+EX_ca2_e,ca2[e] <=> ,ok,ok,ok,ok,N/A
+EX_chols_e,chols[e] <=> ,chols[e],ok,ok,ok,N/A
+EX_cit_e,cit[e] <=> ,ok,ok,ok,ok,N/A
+EX_mg2_e,mg2[e] <=> ,ok,ok,ok,ok,N/A
+EX_mn2_e,mn2[e] <=> ,ok,ok,ok,ok,N/A
+EX_cobalt2_e,cobalt2[e] <=> ,ok,ok,ok,ok,N/A
+EX_zn2_e,zn2[e] <=> ,ok,ok,ok,ok,N/A
+EX_suc_e,succ[e] <=> ,succ[e],ok,ok,ok,N/A
+EX_for_e,for[e] <=> ,ok,ok,ok,ok,N/A
+EX_oxa_e,oxa[e] <=> ,ok,ok,ok,ok,N/A
+EX_oaa_e,oaa[e] <=> ,oaa[e],ok,ok,ok,N/A
+EX_cmp_e,cmp[e] <=> ,ok,ok,ok,ok,N/A
+EX_co2_e,co2[e] <=> ,ok,ok,ok,ok,N/A
+EX_crn_e,crn[e] <=> ,ok,ok,ok,ok,N/A
+EX_cu2_e,cu2[e] <=> ,ok,ok,ok,ok,N/A
+EX_cu_e,cu[e] <=> ,ok,ok,ok,ok,N/A
+EX_o2_e,o2[e] <=> ,ok,ok,ok,ok,N/A
+EX_glu__L_e,glu__L[e] <=> ,ok,ok,ok,ok,N/A
+EX_cytd_e,cytd[e] <=> ,ok,ok,ok,ok,N/A
+EX_diact_e,diact[e] <=> ,ok,ok,ok,ok,N/A
+EX_dad_2_e,dad_2[e] <=> ,ok,ok,ok,ok,N/A
+EX_damp_e,damp[e] <=> ,ok,ok,ok,ok,N/A
+EX_dca_e,dca[e] <=> ,ok,ok,ok,ok,N/A
+EX_dcmp_e,dcmp[e] <=> ,ok,ok,ok,ok,N/A
+EX_dcyt_e,dcyt[e] <=> ,ok,ok,ok,ok,N/A
+EX_dgmp_e,dgmp[e] <=> ,ok,ok,ok,ok,N/A
+EX_dgsn_e,dgsn[e] <=> ,ok,ok,ok,ok,N/A
+EX_dha_e,dha[e] <=> ,ok,ok,ok,ok,N/A
+EX_drib_e,drib[e] <=> ,ok,ok,ok,ok,N/A
+EX_se_D_e,ser__D[e] <=> ,ok,ok,ok,ok,N/A
+EX_dtmp_e,dtmp[e] <=> ,ok,ok,ok,ok,N/A
+EX_galur_e,galur[e] <=> ,galur[e],ok,ok,ok,N/A
+EX_etha_e,etha[e] <=> ,etha[e],ok,ok,ok,N/A
+EX_eths_e,eths[e] <=> ,ok,ok,ok,ok,N/A
+EX_ethso3_e,ethso3[e] <=> ,ok,ok,ok,ok,N/A
+EX_etoh_e,etoh[e] <=> ,ok,ok,ok,ok,N/A
+EX_h2_e,h2[e] <=> ,ok,ok,ok,ok,N/A
+EX_fe2_e,fe2[e] <=> ,ok,ok,ok,ok,N/A
+EX_entee,enter[e] <=> ,ok,ok,ok,ok,N/A
+EX_feenter_e,feenter[e] <=> ,ok,ok,ok,ok,N/A
+EX_fru_e,fru[e] <=> ,ok,ok,ok,ok,N/A
+EX_fum_e,fum[e] <=> ,fum[e],ok,ok,ok,N/A
+EX_g3pc_e,g3pc[e] <=> ,g3pc[e],ok,ok,ok,N/A
+EX_g3pe_e,g3pe[e] <=> ,g3pe[e],ok,ok,ok,N/A
+EX_g3pi_e,g3pi[e] <=> ,ok,ok,ok,ok,N/A
+EX_g3ps_e,g3ps[e] <=> ,ok,ok,ok,ok,N/A
+EX_gal_e,gal[e] <=> ,ok,ok,ok,ok,N/A
+EX_gal_bD_e,gal_bD[e] <=> ,ok,ok,ok,ok,N/A
+EX_galctn__D_e,galctn__D[e] <=> ,galctn__D[e],ok,ok,ok,N/A
+EX_galt_e,galt[e] <=> ,ok,ok,ok,ok,N/A
+EX_gam_e,gam[e] <=> ,ok,ok,ok,ok,N/A
+EX_gthrd_e,gthrd[e] <=> ,ok,ok,ok,ok,N/A
+EX_glcn_e,glcn[e] <=> ,ok,ok,ok,ok,N/A
+EX_glcn__D_e,glcn__D[e] <=> ,ok,ok,ok,ok,N/A
+EX_glcr_e,glcr[e] <=> ,ok,ok,ok,ok,N/A
+EX_glcur_e,glcur[e] <=> ,ok,ok,ok,ok,N/A
+EX_glucan6_e,glucan6[e] <=> ,ok,ok,ok,ok,N/A
+EX_glucan4_e,glucan4[e] <=> ,ok,ok,ok,ok,N/A
+EX_glu__D_e,glu__D[e] <=> ,ok,ok,ok,ok,N/A
+EX_glyc3p_e,glyc3p[e] <=> ,ok,ok,ok,ok,N/A
+EX_glyald_e,glyald[e] <=> ,glyald[e],ok,ok,ok,N/A
+EX_glyb_e,glyb[e] <=> ,glyb[e],ok,ok,ok,N/A
+EX_glyc2p_e,glyc2p[e] <=> ,ok,ok,ok,ok,N/A
+EX_glycogen_e,glycogen[e] <=> ,ok,ok,ok,ok,N/A
+EX_glyc_e,glyc[e] <=> ,ok,ok,ok,ok,N/A
+EX_gm2lipa_e,gm2lipa[e] <=> ,ok,ok,ok,ok,N/A
+EX_gmp_e,gmp[e] <=> ,ok,ok,ok,ok,N/A
+EX_gua_e,gua[e] <=> ,gua[e],ok,ok,ok,N/A
+EX_h2s_e,h2s[e] <=> ,ok,ok,ok,ok,N/A
+EX_3hcinnm_e,3hcinnm[e] <=> ,ok,ok,ok,ok,N/A
+EX_pheme_e,pheme[e] <=> ,ok,ok,ok,ok,N/A
+EX_hexs_e,hexs[e] <=> ,ok,ok,ok,ok,N/A
+EX_his__L_e,his__L[e] <=> ,ok,ok,ok,ok,N/A
+EX_4hphac_e,4hphac[e] <=> ,ok,ok,ok,ok,N/A
+EX_3hpppn_e,3hpppn[e] <=> ,ok,ok,ok,ok,N/A
+EX_hqn_e,hqn[e] <=> ,ok,ok,ok,ok,N/A
+EX_hxan_e,hxan[e] <=> ,hxan[e],ok,ok,ok,N/A
+EX_taur_e,taur[e] <=> ,ok,ok,ok,ok,N/A
+EX_ibt_e,ibt[e] <=> ,ok,ok,ok,ok,N/A
+EX_idon__L_e,idon__L[e] <=> ,idon__L[e],ok,ok,ok,N/A
+EX_ile__L_e,ile__L[e] <=> ,ok,ok,ok,ok,N/A
+EX_imp_e,imp[e] <=> ,ok,ok,ok,ok,N/A
+EX_inost_e,inost[e] <=> ,ok,ok,ok,ok,N/A
+EX_isetac_e,isetac[e] <=> ,ok,ok,ok,ok,N/A
+EX_istnt_e,istnt[e] <=> ,ok,ok,ok,ok,N/A
+EX_lcts_e,lcts[e] <=> ,ok,ok,ok,ok,N/A
+EX_LalaDglu_e,LalaDglu[e] <=> ,ok,ok,ok,ok,N/A
+EX_LalaLglu_e,LalaLglu[e] <=> ,ok,ok,ok,ok,N/A
+EX_Lcyst_e,Lcyst[e] <=> ,ok,ok,ok,ok,N/A
+EX_lac__L_e,lac__L[e] <=> ,ok,ok,ok,ok,N/A
+EX_lmn2_e,lmn2[e] <=> ,ok,ok,ok,ok,N/A
+EX_lmn30_e,lmn30[e] <=> ,ok,ok,ok,ok,N/A
+EX_malthp_e,malthp[e] <=> ,ok,ok,ok,ok,N/A
+EX_malthx_e,malthx[e] <=> ,ok,ok,ok,ok,N/A
+EX_maltpt_e,maltpt[e] <=> ,ok,ok,ok,ok,N/A
+EX_maltttr_e,maltttr[e] <=> ,ok,ok,ok,ok,N/A
+EX_man_e,man[e] <=> ,ok,ok,ok,ok,N/A
+EX_murein5p5p_e,murein5p5p[e] <=> ,ok,ok,ok,ok,N/A
+EX_murein5px4p_e,murein5px4p[e] <=> ,ok,ok,ok,ok,N/A
+EX_murein5px3p_e,murein5px3p[e] <=> ,ok,ok,ok,ok,N/A
+EX_murein5p5p5p_e,murein5p5p5p[e] <=> ,ok,ok,ok,ok,N/A
+EX_murein5px4px4p_e,murein5px4px4p[e] <=> ,ok,ok,ok,ok,N/A
+EX_murein4px4p_e,murein4px4p[e] <=> ,ok,ok,ok,ok,N/A
+EX_murein4px4px4p_e,murein4px4px4p[e] <=> ,ok,ok,ok,ok,N/A
+EX_murein5p4p_e,murein5p4p[e] <=> ,ok,ok,ok,ok,N/A
+EX_murein4p4p_e,murein4p4p[e] <=> ,ok,ok,ok,ok,N/A
+EX_murein4p3p_e,murein4p3p[e] <=> ,ok,ok,ok,ok,N/A
+EX_murein5p3p_e,murein5p3p[e] <=> ,ok,ok,ok,ok,N/A
+EX_melib_e,melib[e] <=> ,ok,ok,ok,ok,N/A
+EX_met__L_e,met__L[e] <=> ,ok,ok,ok,ok,N/A
+EX_metox_e,metox[e] <=> ,ok,ok,ok,ok,N/A
+EX_metox__e,metox__R[e] <=> ,ok,ok,ok,ok,N/A
+EX_mnl_e,mnl[e] <=> ,ok,ok,ok,ok,N/A
+EX_mobd_e,mobd[e] <=> ,ok,ok,ok,ok,N/A
+EX_uaagmda_e,uaagmda[e] <=> ,ok,ok,ok,ok,N/A
+EX_udcpdp_e,udcpdp[e] <=> ,ok,ok,ok,ok,N/A
+EX_mso3_e,mso3[e] <=> ,ok,ok,ok,ok,N/A
+EX_n2_e,n2[e] <=> ,ok,ok,ok,ok,N/A
+EX_nmn_e,nmn[e] <=> ,ok,ok,ok,ok,N/A
+EX_no2_e,no2[e] <=> ,no2[e],ok,ok,ok,N/A
+EX_ump_e,ump[e] <=> ,ok,ok,ok,ok,N/A
+EX_no3_e,no3[e] <=> ,ok,ok,ok,ok,N/A
+EX_no_e,no[e] <=> ,ok,ok,ok,ok,N/A
+EX_udcpo5_e,udcpo5[e] <=> ,ok,ok,ok,ok,N/A
+EX_octa_e,octa[e] <=> ,ok,ok,ok,ok,N/A
+EX_pac_e,pac[e] <=> ,ok,ok,ok,ok,N/A
+EX_pdima_e,pdima[e] <=> ,ok,ok,ok,ok,N/A
+EX_pnto__e,pnto__R[e] <=> ,ok,ok,ok,ok,N/A
+EX_ppa_e,ppa[e] <=> ,ok,ok,ok,ok,N/A
+EX_progly_e,progly[e] <=> ,ok,ok,ok,ok,N/A
+EX_ptrc_e,ptrc[e] <=> ,ok,ok,ok,ok,N/A
+EX_p_xyl_e,p_xyl[e] <=> ,ok,ok,ok,ok,N/A
+EX_pyr_e,pyr[e] <=> ,ok,ok,ok,ok,N/A
+EX_so4_e,so4[e] <=> ,ok,ok,ok,ok,N/A
+EX_urate_e,urate[e] <=> ,ok,ok,ok,ok,N/A
+EX_val__L_e,val__L[e] <=> ,ok,ok,ok,ok,N/A
+EX_raffin_e,raffin[e] <=> ,ok,ok,ok,ok,N/A
+EX_spmd_e,spmd[e] <=> ,ok,ok,ok,ok,N/A
+EX_urea_e,urea[e] <=> ,ok,ok,ok,ok,N/A
+EX_rib__D_e,rib__D[e] <=> ,ok,ok,ok,ok,N/A
+EX_rmn_e,rmn[e] <=> ,ok,ok,ok,ok,N/A
+EX_salchs4fe_e,salchs4fe[e] <=> ,ok,ok,ok,ok,N/A
+EX_salchs4_e,salchs4[e] <=> ,ok,ok,ok,ok,N/A
+EX_salcn_e,salcn[e] <=> ,ok,ok,ok,ok,N/A
+EX_sbt__D_e,sbt__D[e] <=> ,ok,ok,ok,ok,N/A
+EX_skm_e,skm[e] <=> ,ok,ok,ok,ok,N/A
+EX_so3_e,so3[e] <=> ,ok,ok,ok,ok,N/A
+EX_s_e,s[e] <=> ,ok,ok,ok,ok,N/A
+EX_sucr_e,sucr[e] <=> ,ok,ok,ok,ok,N/A
+EX_sula_e,sula[e] <=> ,ok,ok,ok,ok,N/A
+EX_sulfac_e,sulfac[e] <=> ,ok,ok,ok,ok,N/A
+EX_tart_D_e,tartr__D[e] <=> ,ok,ok,ok,ok,N/A
+EX_thm_e,thm[e] <=> ,ok,ok,ok,ok,N/A
+EX_thym_e,thym[e] <=> ,ok,ok,ok,ok,N/A
+EX_tol_e,tol[e] <=> ,tol[e],ok,ok,ok,N/A
+EX_tre_e,tre[e] <=> ,ok,ok,ok,ok,N/A
+EX_tsul_e,tsul[e] <=> ,ok,ok,ok,ok,N/A
+EX_ura_e,ura[e] <=> ,ok,ok,ok,ok,N/A
+EX_xan_e,xan[e] <=> ,ok,ok,ok,ok,N/A
+EX_xmp_e,xmp[e] <=> ,ok,ok,ok,ok,N/A
+EX_xyl__D_e,xyl__D[e] <=> ,ok,ok,ok,ok,N/A
+sink_2ohph_c,2ohph[c] --> ,ok,ok,ok,ok,N/A
+sink_4hba_c,4hba[c] --> ,ok,ok,ok,ok,N/A
+sink_5drib_c,5drib[c] --> ,ok,ok,ok,ok,N/A
+sink_bmocogdp_c,bmocogdp[c] --> ,ok,ok,ok,ok,N/A
+sink_lipopb_c,lipopb[c] --> ,ok,ok,ok,ok,N/A
+sink_mobd_c,mobd[c] --> ,ok,ok,ok,ok,N/A
+sink_sheme_c,sheme[c] --> ,ok,ok,ok,ok,N/A
+ATPM,atp[c] + h2o[c] --> adp[c] + h[c] + pi[c],ok,NTP1,ok,ok,N/A
+CEAS,arg__L[c] + g3p[c] --> caarg[c] + 2.0 h[c] + pi[c],ok,ok,ok,ok,N/A
+BLS,atp[c] + caarg[c] --> amp[c] + dgpa[c] + 2.0 ppi[c],ok,ok,ok,ok,N/A
+CS1,akg[c] + dgpa[c] + o2[c] --> co2[c] + gpca[c] + succ[c],ok,ok,ok,ok,N/A
+PAH,gpca[c] + h2o[c] --> pclavam[c] + urea[c],ok,ok,ok,ok,N/A
+CS2,akg[c] + o2[c] + pclavam[c] --> co2[c] + dclavam[c] + h2o[c] + succ[c],ok,ok,ok,ok,N/A
+CS3,akg[c] + dclavam[c] + o2[c] --> clavam[c] + co2[c] + h2o[c] + succ[c],ok,ok,ok,ok,N/A
+CVM1,akg[c] + clavam[c] --> clavad[c] + glu__D[c],ok,ok,ok,ok,N/A
+CAR,clavad[c] + h[c] + nadph[c] --> clava[c] + nadp[c],ok,ok,ok,ok,N/A
+GCAS,atp[c] + clavam[c] + gly[c] --> adp[c] + gclavam[c] + pi[c],ok,ok,ok,ok,N/A
+ACAS,accoa[c] + atp[c] + clavam[c] --> acclavam[c] + adp[c] + coa[c] + pi[c],ok,ok,ok,ok,N/A
+AGCAS,accoa[c] + atp[c] + gclavam[c] --> acgclavam[c] + adp[c] + coa[c] + pi[c],ok,ok,ok,ok,N/A
+CVM2,2.0 clavad[c] + o2[c] --> 2.0 cmeclav[c],ok,ok,ok,ok,N/A
+CVM3,cmeclav[c] + h[c] + nadph[c] --> co2[c] + fomclav[c] + nadp[c],ok,ok,ok,ok,N/A
+CVM4,fomclav[c] + h2o[c] --> for[c] + h[c] + hmclav[c],ok,ok,ok,ok,N/A
+CVM5,2.0 hmclav[c] + o2[c] --> 2.0 fclav[c] + 2.0 h2o[c],ok,ok,ok,ok,N/A
+CVM6,2.0 fclav[c] + o2[c] --> 2.0 clavcar[c],ok,ok,ok,ok,N/A
+CVM7,fclav[c] + gly[e] --> halclav[c],ok,ok,ok,ok,N/A
+CVM8,h[c] + halclav[c] + nadph[c] --> alaclav[c] + h2o[c] + nadp[c],ok,ok,ok,ok,N/A
+CVM9,h[c] + halclav[c] + nadph[c] --> akaclav[c] + nadp[c] + nh4[c],ok,ok,ok,ok,N/A
+CVM10,akaclav[c] --> clav5s[c],ok,ok,ok,ok,N/A
+PCBAB,L2aadp[c] + 3.0 atp[c] + cys__L[c] + h2o[c] + val__L[c] --> ACV[c] + 3.0 amp[c] + 3.0 ppi[c],ok,ok,ok,ok,N/A
+PCBC,ACV[c] + o2[c] --> 2.0 h2o[c] + ipenciln[c],ok,ok,ok,ok,N/A
+PENDE,accoa[c] + h2o[c] + ipenciln[c] --> L2aadp[c] + coa[c] + penciln[c],ok,ok,ok,ok,N/A
+CEFD,ipenciln[c] --> pencil[c],ok,ok,ok,ok,N/A
+PENAM,h2o[c] + pencil[c] --> 6apa[c] + carbox[c],ok,ok,ok,ok,N/A
+CEFE,akg[c] + o2[c] + penciln[c] --> co2[c] + dacsC[c] + h2o[c] + succ[c],ok,ok,ok,ok,N/A
+CEFF,akg[c] + dacsC[c] + o2[c] --> co2[c] + dacetC[c] + succ[c],ok,ok,ok,ok,N/A
+CEFG,accoa[c] + dacetC[c] --> cephalC[c] + coa[c],ok,ok,ok,ok,N/A
+CAH,cephalC[c] + h2o[c] --> ac[c] + dacetC[c],ok,ok,ok,ok,N/A
+CMCH,cbp[c] + dacetC[c] --> cdcs[c] + pi[c],ok,ok,ok,ok,N/A
+CMCH2,akg[c] + cdcs[c] + o2[c] --> 7hcdcs[c] + co2[c] + succ[c],ok,ok,ok,ok,N/A
+CMC1,7hcdcs[c] + amet[c] --> ahcys[c] + cephc[c],ok,ok,ok,ok,N/A
+CLAVt,clava[e] <=> clava[c],only when going forwards,ok,ok,ok,N/A
+CEPHt,cephc[e] <=> cephc[c],only when going forwards,ok,ok,ok,N/A
+CEPHALt,cephalC[e] <=> cephalC[c],ok,ok,ok,ok,N/A
+6APAt,6apa[e] <=> 6apa[c],only when going forwards,ok,ok,ok,N/A
+GCLAVAMt,gclavam[e] <=> gclavam[c],ok,ok,ok,ok,N/A
+ACCLAVAMt,acclavam[e] <=> acclavam[c],only when going forwards,ok,ok,ok,N/A
+ACGCLAVAMt,acgclavam[e] <=> acgclavam[c],only when going forwards,ok,ok,ok,N/A
+CLAV5St,clav5s[e] <=> clav5s[c],only when going forwards,ok,ok,ok,N/A
+ALACLAVt,alaclav[e] <=> alaclav[c],only when going forwards,ok,ok,ok,N/A
+CARBOXt,carbox[e] <=> carbox[c],only when going forwards,ok,ok,ok,N/A
+CLAVCARt,clavcar[e] <=> clavcar[c],only when going forwards,ok,ok,ok,N/A
+EX_clav_e,clava[e] <=> ,ok,ok,ok,ok,N/A
+EX_ceph_e,cephc[e] <=> ,ok,ok,ok,ok,N/A
+EX_cephal_e,cephalC[e] <=> ,ok,ok,ok,ok,N/A
+EX_6APA_e,6apa[e] <=> ,ok,ok,ok,ok,N/A
+EX_gclavam_e,gclavam[e] <=> ,ok,ok,ok,ok,N/A
+EX_acclavam_e,acclavam[e] <=> ,ok,ok,ok,ok,N/A
+EX_acgclavam_e,acgclavam[e] <=> ,ok,ok,ok,ok,N/A
+EX_clav5s_e,clav5s[e] <=> ,ok,ok,ok,ok,N/A
+EX_alaclav_e,alaclav[e] <=> ,ok,ok,ok,ok,N/A
+EX_carbox_e,carbox[e] <=> ,ok,ok,ok,ok,N/A
+EX_clavcar_e,clavcar[e] <=> ,ok,ok,ok,ok,N/A
+Growth,0.0002165 10fthf[c] + 0.49872 ala__L[c] + 0.0002165 amet[c] + 0.28717 arg__L[c] + 0.23403 asn__L[c] + 0.23403 asp__L[c] + 52.5472 atp[c] + 0.0050533 ca2[c] + 0.0050533 cl[c] + 0.00055921 coa[c] + 9.7085e-05 cobalt2[c] + 0.12962 ctp[c] + 0.00068833 cu2[c] + 0.088911 cys__L[c] + 0.025403 datp[c] + 0.026229 dctp[c] + 0.026229 dgtp[c] + 0.025403 dttp[c] + 0.0002165 fad[c] + 0.0065193 fe2[c] + 0.0075804 fe3[c] + 0.25549 gln__L[c] + 0.25549 glu__L[c] + 0.59478 gly[c] + 0.00097085 gtca1_45_BS[c] + 0.00097085 gtca2_45_BS[c] + 0.00097085 gtca3_45_BS[c] + 0.20883 gtp[c] + 47.1848 h2o[c] + 0.091976 his__L[c] + 0.28206 ile__L[c] + 0.1895 k[c] + 0.4374 leu__L[c] + 4.8543e-05 lipo1_24_BS[c] + 4.8543e-05 lipo2_24_BS[c] + 4.8543e-05 lipo3_24_BS[c] + 4.8543e-05 lipo4_24_BS[c] + 0.33316 lys__L[c] + 0.14921 met__L[c] + 0.0084221 mg2[c] + 0.0002165 mlthf[c] + 0.00067086 mn2[c] + 9.7085e-05 mql8[c] + 0.0017776 nad[c] + 0.00043397 nadp[c] + 0.0097085 peptido_BS[c] + 0.17986 phe__L[c] + 0.21461 pro__L[c] + 0.0002165 pydx5p[c] + 0.0002165 ribflv[c] + 0.2095 ser__L[c] + 0.0042116 so4[c] + 0.0002165 thf[c] + 0.0002165 thmpp[c] + 0.24629 thr__L[c] + 0.055186 trp__L[c] + 0.13388 tyr__L[c] + 0.1399 utp[c] + 0.41083 val__L[c] + 0.00033106 zn2[c] --> 52.3774 adp[c] + 52.3774 h[c] + 52.3732 pi[c] + 0.75134 ppi[c],ok,ok,ok,ok,N/A
