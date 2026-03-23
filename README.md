@@ -43,7 +43,7 @@ We describe the model quality in three different report:
 Memote
 FROG
 Macaw
-<expand later>>
+<expand later>>>>
 
 ### Contributing
 
