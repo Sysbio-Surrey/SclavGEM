@@ -17,7 +17,7 @@ NB! Installation of Emcpy is ONLY needed when building a new model. When you wan
 you only need to install Cobrapy.
 
 Installation of Ecmpy, following the documentation instruction.
-NB: ALWAYS install tools as Ecmpy in a venv or a conda-environment, the dependecies are very specific.
+NB: ALWAYS install tools as Ecmpy in a venv or a conda-environment, the dependencies are very specific.
 
 However, some issues were presented, issues could be overcome by:
 
@@ -70,11 +70,22 @@ Set the upperbound of these reactions to define the medium.
 NB: Phosphate uptake is an exception! In the current version of the model, this does not have a reverse reaction,
 as a result you need to set e.g. EX_pi_e.lower_bound = -0.15 to make phosphate available.
 
+## Sampling
+
 Next to FBA, we recommend to use sampling. We adopted a pFBA sampling method (adapted from the CFSA-github <>),
 an example usage of the sampling is shown in the function: run_sampling.
 
 # How to update kcats
-NB: always change kcat_MW
+
+It is possible to access the kcat and the kcat_MW values of each reaction via the reaction attribute.
+For example: `enz_model.reactions.PDH_num1.kcat` and `enz_model.reactions.PDH_num1.kcat_MW`.
+
+The MW-value (or total mass) is not stored in the model itself (but it is part of the Ecmpy output files).
+The formula used to calculate each kcat_MW value in the model is this: `kcat_mw = <Kcat value (1/s)> * 3600 * 1000 / total_mass(MW)`
+
+Updating only the kcat in the model will have NO effect to the simulation, it is crucial to ALWAYS also update the kcat_MW
+value, as that is the one that is used in the cobra-constrained. You can change the kcat_MW value to any value you want,
+and then rerun the simulation to see the effect.
 
 # How to change the available proteome
 The available proteome is represented by an upper_bound of the proteome-constraint in de model.
@@ -91,6 +102,7 @@ Example usage: try_out_separate_pools in use_ecmpy_model.py
 Input required:
 Tsv-file with the columns: Reaction and Pool
 Any reaction can be linked to any defined pool. The size of each pool (including other) should be specified in a dict.
+<NB: could later write this more elaborate, but this will do for now>
 
 
 # To-do: improve the kcats
@@ -102,3 +114,9 @@ And adapt the code to the Streptomyces model.
 The direction of the while-loop statement needs to be changed to reflect the fact that the model is growing more
 than expected (instead of less, as was the case for E. coli).
 Also the required input for the argument `fluxes_infile_ori` and `EC_max_file` needs to be considered.
+
+# NB: movement of files
+
+Please note that I've moved files from my working directory to this github. At the moment of writing this read-me I did
+not consider all of the relative paths in the scripts. This is something on my to-do lists. In the mean-time, if you
+use any of the scripts, please consider that wrong relative paths to scripts or input files might give errors.
